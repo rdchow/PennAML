@@ -1,0 +1,528 @@
+CPDID	patientID	ApproxDiagDate	diagnosis	Panel	stdInitialTreatment	simpleInitialTreatment	SCT	inhibitor	simplestInhibitor	gender	ApproxAgeDiagnosis	karyotype	collectionDay	initDay	initRelativeDay	SCTday	SCTrelativeDay	inhibDay	inhibRelativeDay	timeBinInitial	timeBinSCT	timeBinInhib	simpleTimepoint	ELN2022_class
+pt1_s1	1	201603	dn.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	NA	No	NA	F	70-79	"46,XX[20]"	0	7	7	NA	NA	NA	NA	pre	NA	NA	dn	favorable
+pt1_s2	1	201603	CR1.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	NA	No	NA	F	70-79	"46,XX[20]"	37	7	-30	NA	NA	NA	NA	post	NA	NA	CR1	favorable
+pt2_s1	2	201407	dn.AML	HEME_V1.2	clofarabine monotherapy	nucleosideAnalog_monotherapy	Allogeneic	gilteritinib	FLT3i	M	60-69	"46,XY[13]"	0	1	1	125	125	246	246	pre	pre	pre	dn	intermediate
+pt2_s2	2	201407	rel1.AML	HEME_V1.2	clofarabine monotherapy	nucleosideAnalog_monotherapy	Allogeneic	gilteritinib	FLT3i	M	60-69	NA	249	1	-248	125	-124	246	-3	post	post	pre	REL1	intermediate
+pt2_s3	2	201407	ref1a.AML	HEME_V2.3	clofarabine monotherapy	nucleosideAnalog_monotherapy	Allogeneic	gilteritinib	FLT3i	M	60-69	t(15;17) negative 0/100 cells	357	1	-356	125	-232	246	-111	post	post	post	REF1	intermediate
+pt2_s4	2	201407	ref1b.AML	HEME_V2.3	clofarabine monotherapy	nucleosideAnalog_monotherapy	Allogeneic	gilteritinib	FLT3i	M	60-69	"46,XY[8]"	396	1	-395	125	-271	246	-150	post	post	post	REF1	intermediate
+pt2_s5	2	201407	ref1c.AML	HEME_V2.3	clofarabine monotherapy	nucleosideAnalog_monotherapy	Allogeneic	gilteritinib	FLT3i	M	60-69	"46,XY[5]"	442	1	-441	125	-317	246	-196	post	post	post	REF1	intermediate
+pt3_s1	3	201504	dn.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	NA	No	NA	M	70-79	"46,XY[20]"	0	1	1	NA	NA	NA	NA	pre	NA	NA	dn	favorable
+pt3_s2	3	201504	CR1.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	NA	No	NA	M	70-79	"46,XY[20]"	40	1	-39	NA	NA	NA	NA	post	NA	NA	CR1	favorable
+pt3_s3	3	201504	rel1.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	NA	No	NA	M	70-79	NA	232	1	-231	NA	NA	NA	NA	post	NA	NA	REL1	favorable
+pt4_s1	4	201702	dn.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	Autologous	No	NA	F	40-49	"46,XX,t(8;21)(q22;q22)[20]"	0	1	1	156	156	NA	NA	pre	pre	NA	dn	favorable
+pt4_s2	4	201702	CR1.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	Autologous	No	NA	F	40-49	"46,XX[20]"	28	1	-27	156	128	NA	NA	post	pre	NA	CR1	favorable
+pt4_s3	4	201702	CR1.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	Autologous	No	NA	F	40-49	"46,XX[20]"	143	1	-142	156	13	NA	NA	post	pre	NA	CR1	favorable
+pt4_s4	4	201702	rel1.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	Autologous	No	NA	F	40-49	"46,XX,add(7)(q36),t(8;21)(q22;q22)[15]"	234	1	-233	156	-78	NA	NA	post	post	NA	REL1	favorable
+pt4_s5	4	201702	CR2.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	Autologous	No	NA	F	40-49	"46,XX[21]"	273	1	-272	156	-117	NA	NA	post	post	NA	CR2	favorable
+pt4_s6	4	201702	rel2.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	Autologous	No	NA	F	40-49	"46,XX,add(7)(q36),t(8;21)(q22;q22)[9]/46,idem,t(3;18)(q21;p11.2)[8]/46,XX[3]"	324	1	-323	156	-168	NA	NA	post	post	NA	REL2	favorable
+pt5_s1	5	201710	dn.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	NA	No	NA	F	60-69	trisomy 8	0	9	9	NA	NA	NA	NA	pre	NA	NA	dn	adverse
+pt5_s2	5	201710	CR1.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	NA	No	NA	F	60-69	"46,XX[20]"	136	9	-127	NA	NA	NA	NA	post	NA	NA	CR1	adverse
+pt5_s3	5	201710	CR1.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	NA	No	NA	F	60-69	"46,XX[20]"	182	9	-173	NA	NA	NA	NA	post	NA	NA	CR1	adverse
+pt6_s1	6	201708	dn.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	NA	No	NA	M	30-39	t(8;21)(q22;q22)	0	0	0	NA	NA	NA	NA	pre	NA	NA	dn	favorable
+pt6_s2	6	201708	CR1.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	NA	No	NA	M	30-39	"46,XY"	25	0	-25	NA	NA	NA	NA	post	NA	NA	CR1	favorable
+pt7_s1	7	201801	dn.AML	HEME_V2.3	Supportive	Supportive	NA	No	NA	F	60-69	"46,XX,del(1)(p34p36.1),-9,add(9)(p22),add(11)(p11.2),add(12)(p12),add(16)(p13.1)"	0	0	0	NA	NA	NA	NA	pre	NA	NA	dn	adverse
+pt7_s2	7	201801	ref.AML	HEME_V2.3	Supportive	Supportive	NA	No	NA	F	60-69	"46,XX,del(1)(p34p36.1),-9,add(9)(p13),add(9)(p22),add(12)(p12),add(19)(p13.1),+r"	93	0	-93	NA	NA	NA	NA	post	NA	NA	REF1	adverse
+pt8_s1	8	201405	dn.AML	HEME_V1.2	7+3	anthracycline_nucleosideAnalog	Allogeneic	No	NA	M	50-59	NA	0	2	2	99	99	NA	NA	pre	pre	NA	dn	intermediate
+pt8_s2	8	201405	rel1.AML	HEME_V1.2	7+3	anthracycline_nucleosideAnalog	Allogeneic	No	NA	M	50-59	NA	232	2	-230	99	-133	NA	NA	post	post	NA	REL1	intermediate
+pt9_s1	9	201610	dn.AML	HEME_V2.3	cytarabine monotherapy	nucleosideAnalog_monotherapy	NA	No	NA	F	50-59	"46,XX,t(16;16)(p13.1;q22)[20]"	0	1	1	NA	NA	NA	NA	pre	NA	NA	dn	intermediate
+pt9_s2	9	201610	CR1.AML	HEME_V2.3	cytarabine monotherapy	nucleosideAnalog_monotherapy	NA	No	NA	F	50-59	"46,XX[20]"	141	1	-140	NA	NA	NA	NA	post	NA	NA	CR1	intermediate
+pt9_s3	9	201610	CR1.AML	HEME_V2.3	cytarabine monotherapy	nucleosideAnalog_monotherapy	NA	No	NA	F	50-59	"46,XX[20]"	316	1	-315	NA	NA	NA	NA	post	NA	NA	CR1	intermediate
+pt10_s1	10	201607	dn.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	NA	No	NA	F	70-79	"47,XX,+8[3]/47,idem,der(7)t(3;7)(q21;q36)[cp8] /47,idem,der(12)t(3;12)(q21;p13)[4]/46,XX[5]"	0	2	2	NA	NA	NA	NA	pre	NA	NA	dn	favorable
+pt10_s2	10	201607	CR1.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	NA	No	NA	F	70-79	"47,XX,+8[8]/46,XX[12]"	176	2	-174	NA	NA	NA	NA	post	NA	NA	CR1	favorable
+pt11_s1	11	201701	dn.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	NA	No	NA	M	60-69	"46,XY,inv(9)(p12q13)c,inv(16)(p13.1q22)[10]/47,idem,+8[6]/47,idem,+22[2]/46,XY,inv(9)c[2]"	0	11	11	NA	NA	NA	NA	pre	NA	NA	dn	favorable
+pt11_s2	11	201701	CR1.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	NA	No	NA	M	60-69	"46,XY,inv(9)(p12q13)c[20]"	46	11	-35	NA	NA	NA	NA	post	NA	NA	CR1	favorable
+pt11_s3	11	201701	CR1.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	NA	No	NA	M	60-69	"46,XY,inv(9)(p12q13)c,inv(16)(p13.1q22)[7]/46,XY,inv(9)c[13]"	283	11	-272	NA	NA	NA	NA	post	NA	NA	CR1	favorable
+pt12_s1	12	201612	dn.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	NA	No	NA	F	40-49	"46,XX[20]"	0	1	1	NA	NA	NA	NA	pre	NA	NA	dn	intermediate
+pt12_s2	12	201612	CR1.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	NA	No	NA	F	40-49	"46,XX[20]"	36	1	-35	NA	NA	NA	NA	post	NA	NA	CR1	intermediate
+pt13_s1	13	201607	dn.AML	HEME_V2.3	cytarabine monotherapy	nucleosideAnalog_monotherapy	NA	No	NA	M	60-69	"45,X,-Y[3]/46,idem,+8[17]"	0	1	1	NA	NA	NA	NA	pre	NA	NA	dn	intermediate
+pt13_s2	13	201607	CR1.AML	HEME_V2.3	cytarabine monotherapy	nucleosideAnalog_monotherapy	NA	No	NA	M	60-69	"45,X,-Y[11]/46,XY[9]"	27	1	-26	NA	NA	NA	NA	post	NA	NA	CR1	intermediate
+pt13_s3	13	201607	rec1.AML	HEME_V2.3	cytarabine monotherapy	nucleosideAnalog_monotherapy	NA	No	NA	M	60-69	"45,X,-Y[18]/46,XY[2]"	84	1	-83	NA	NA	NA	NA	post	NA	NA	REC	intermediate
+pt14_s1	14	201409	dn.AML	HEME_V1.2	clofarabine monotherapy	nucleosideAnalog_monotherapy	Allogeneic	gilteritinib	FLT3i	F	60-69	"46,XX[15]"	0	4	4	161	161	315	315	pre	pre	pre	dn	favorable
+pt14_s2	14	201409	rel1.AML	HEME_V2.3	clofarabine monotherapy	nucleosideAnalog_monotherapy	Allogeneic	gilteritinib	FLT3i	F	60-69	NA	299	4	-295	161	-138	315	16	post	post	pre	REL1	favorable
+pt14_s3	14	201409	rel2.AML	HEME_V2.3	clofarabine monotherapy	nucleosideAnalog_monotherapy	Allogeneic	gilteritinib	FLT3i	F	60-69	"46,XX[20]"	518	4	-514	161	-357	315	-203	post	post	post	REL2	favorable
+pt15_s1	15	201705	dn.AML	HEME_V2.3	ATRA/ATO	ATRA_ATO	NA	No	NA	M	80-89	"46,XY,t(15;17)(q24;q21)[17] 45,X,-Y[3]/46,XY[17]"	0	0	0	NA	NA	NA	NA	pre	NA	NA	dn	intermediate
+pt15_s2	15	201705	CR1.AML	HEME_V2.3	ATRA/ATO	ATRA_ATO	NA	No	NA	M	80-89	"45,X,-Y[3]/46,XY[17]"	36	0	-36	NA	NA	NA	NA	post	NA	NA	CR1	intermediate
+pt16_s1	16	201701	dn.AML	HEME_V2.3	ATRA/ATO	ATRA_ATO	NA	No	NA	M	60-69	"48,XY,+8,+8,del(9)(q22q34),t(15;17)(q24;q21)[17]/46,XY[3]"	0	1	1	NA	NA	NA	NA	pre	NA	NA	dn	intermediate
+pt16_s2	16	201701	CR1.AML	HEME_V2.3	ATRA/ATO	ATRA_ATO	NA	No	NA	M	60-69	"46,XY[20]"	281	1	-280	NA	NA	NA	NA	post	NA	NA	CR1	intermediate
+pt17_s1	17	201508	dn.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	NA	No	NA	F	60-69	"42~43,XX,del(5)(q31q35),add(10)(q?24),del(11)(p13p15),inv(12)(p13q13),add(15)(p11.2),-17,-18,-21[cp8]/42~43,idem,add(6)(p?21~23)[cp8]/42~43,idem,-del(11)(p13p15),+i(11)(q10)[cp4]"	0	2	2	NA	NA	NA	NA	pre	NA	NA	dn	adverse
+pt17_s2	17	201508	ref.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	NA	No	NA	F	60-69	NA	96	2	-94	NA	NA	NA	NA	post	NA	NA	REF1	adverse
+pt17_s3	17	201508	primref.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	NA	No	NA	F	60-69	NA	236	2	-234	NA	NA	NA	NA	post	NA	NA	REF1	adverse
+pt18_s1	18	201510	dn.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	NA	No	NA	M	60-69	"46,XY[20]"	0	7	7	NA	NA	NA	NA	pre	NA	NA	dn	favorable
+pt18_s2	18	201510	CR1.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	NA	No	NA	M	60-69	"46,XY[19]"	259	7	-252	NA	NA	NA	NA	post	NA	NA	CR1	favorable
+pt18_s3	18	201510	rel1.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	NA	No	NA	M	60-69	"46,XY[20]"	410	7	-403	NA	NA	NA	NA	post	NA	NA	REL1	favorable
+pt18_s4	18	201510	CR2.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	NA	No	NA	M	60-69	"46,XY[20]"	474	7	-467	NA	NA	NA	NA	post	NA	NA	CR2	favorable
+pt19_s1	19	201802	dn.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	NA	No	NA	F	40-49	"47,XX,+8,inv(16)(p13.1q22)[16]"	0	2	2	NA	NA	NA	NA	pre	NA	NA	dn	favorable
+pt19_s2	19	201802	CR1.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	NA	No	NA	F	40-49	"46,XX[21]"	62	2	-60	NA	NA	NA	NA	post	NA	NA	CR1	favorable
+pt20_s1	20	201605	dn.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	NA	No	NA	F	50-59	"46,XX,add(10)(p11.2),del(11)(q13q23);"	0	1	1	NA	NA	NA	NA	pre	NA	NA	dn	intermediate
+pt20_s2	20	201605	rel1.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	NA	No	NA	F	50-59	"47,XX,add(10)(p11.2),del(11)(q13q23),+mar[2]/50,idem,+i(1)(q10),+6,+18,+19,-mar[ 17]/46,XX[1]"	462	1	-461	NA	NA	NA	NA	post	NA	NA	REL1	intermediate
+pt20_s3	20	201605	CR2.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	NA	No	NA	F	50-59	"46,XX[20]"	503	15	-488	NA	NA	NA	NA	post	NA	NA	CR2	intermediate
+pt20_s4	20	201605	rel2.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	NA	No	NA	F	50-59	"46,XX,add(10)(p11.2),del(11)(q13q23)[2]/47,idem,+mar[2]/46,XX[16]"	560	15	-545	NA	NA	NA	NA	post	NA	NA	REL2	intermediate
+pt21_s1	21	201706	dn.AML	HEME_V2.3	ATRA/ATO	ATRA_ATO	NA	No	NA	F	50-59	NA	0	0	0	NA	NA	NA	NA	pre	NA	NA	dn	intermediate
+pt21_s2	21	201706	CR1.AML	HEME_V2.3	ATRA/ATO	ATRA_ATO	NA	No	NA	F	50-59	"46,XX[20]"	141	0	-141	NA	NA	NA	NA	post	NA	NA	CR1	intermediate
+pt22_s1	22	201511	dn.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	NA	gilteritinib;quizartinib	FLT3i	F	70-79	"46,XX[20]"	0	2	2	NA	NA	NA	NA	pre	NA	NA	dn	intermediate
+pt22_s2	22	201511	rel1.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	NA	gilteritinib;quizartinib	FLT3i	F	70-79	NA	84	2	-82	NA	NA	NA	NA	post	NA	NA	REL1	intermediate
+pt23_s1	23	201610	dn.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	NA	No	NA	M	50-59	"46,XY,del(5)(q22q35),qdp(11)(q?23q?25),der(14)t(1;14)(p13;p13),add(22)(q13)[18]/46,XY[2]"	0	4	4	NA	NA	NA	NA	pre	NA	NA	dn	adverse
+pt23_s2	23	201610	rel1.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	NA	No	NA	M	50-59	"46,XY,del(5)(q22q35),qdp(11)(q?23?25),der(14)t(1;14)(p13;p13),idic(22)(q13)[15]/46,XY[10]"	159	4	-155	NA	NA	NA	NA	post	NA	NA	REL1	adverse
+pt24_s1	24	201612	dn.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	NA	No	NA	M	60-69	NA	0	3	3	NA	NA	NA	NA	pre	NA	NA	dn	favorable
+pt24_s2	24	201612	CR1.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	NA	No	NA	M	60-69	"46,XY[20]"	37	3	-34	NA	NA	NA	NA	post	NA	NA	CR1	favorable
+pt25_s1	25	201707	dn.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	NA	No	NA	M	60-69	"45,XY,add(1)(p13),der(5;19)(p10;q10),del(7)(p13),+9,der(10)t(10;17)(q26;q11.2),- 16,-17,+r,+mar[cp18]/46,XY[9]"	0	3	3	NA	NA	NA	NA	pre	NA	NA	dn	adverse
+pt25_s2	25	201707	CR1.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	NA	No	NA	M	60-69	"45,XY,add(1)(p13),der(5;19)(p10;q10),del(7)(p13),+9,der(10)t(10;17)(q26;q11.2), -16,-17,+r[cp4]/46,XY[16]"	46	3	-43	NA	NA	NA	NA	post	NA	NA	CR1	adverse
+pt26_s1	26	201804	dn.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	NA	UPCC 01147	FLT3i	F	50-59	"46,XX,t(11;19)(q23;p13.1)[16]/46,idem,del(9)(q13q22)[3]/46,XX[1]"	0	0	0	NA	NA	274	274	pre	NA	pre	dn	adverse
+pt26_s2	26	201804	CR1.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	NA	UPCC 01147	FLT3i	F	50-59	"46,XX[20]"	30	0	-30	NA	NA	274	244	post	NA	pre	CR1	adverse
+pt27_s1	27	201707	dn.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	NA	No	NA	M	70-79	"46,XY[10]"	0	2	2	NA	NA	NA	NA	pre	NA	NA	dn	favorable
+pt27_s2	27	201707	CR1.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	NA	No	NA	M	70-79		25	2	-23	NA	NA	NA	NA	post	NA	NA	CR1	favorable
+pt27_s3	27	201707	rel1.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	NA	No	NA	M	70-79		128	2	-126	NA	NA	NA	NA	post	NA	NA	REL1	favorable
+pt28_s1	28	201306	dn.AML	HEME_V1.2	7+3	anthracycline_nucleosideAnalog	Allogeneic	No	NA	M	60-69	"46,XY[10]"	0	2	2	154	154	NA	NA	pre	pre	NA	dn	favorable
+pt28_s2	28	201306	rel1.AML	HEME_V1.2	7+3	anthracycline_nucleosideAnalog	Allogeneic	No	NA	M	60-69	"46,XY,i(8)(q10)[2]/46,XY[18]"	259	2	-257	154	-105	NA	NA	post	post	NA	REL1	favorable
+pt29_s1	29	201610	dn.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	NA	gilteritinib	FLT3i	F	40-49	"46,XX[20]"	0	5	5	NA	NA	370	370	pre	NA	pre	dn	intermediate
+pt29_s2	29	201610	CR1.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	NA	gilteritinib	FLT3i	F	40-49	"46,XX[20]"	59	5	-54	NA	NA	370	311	post	NA	pre	CR1	intermediate
+pt29_s3	29	201610	CR1.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	NA	gilteritinib	FLT3i	F	40-49	"46,XX[20]"	100	5	-95	NA	NA	370	270	post	NA	pre	CR1	intermediate
+pt30_s1	30	201403	dn.AML	HEME_V1.2	7+3	anthracycline_nucleosideAnalog	NA	No	NA	F	50-59	"44-46,XX,del(2)(q11.2),add(3)(q12),del(5)(q13q31),i(11)(q10),add(12)(q14),-17,-18[cp5]/43,XX,add(2)(q21),-5,i(11)(q10),add(16)(q22),-17,-18[cp30]"	0	0	0	NA	NA	NA	NA	pre	NA	NA	dn	adverse
+pt30_s2	30	201403	rel1.AML	HEME_V1.2	7+3	anthracycline_nucleosideAnalog	NA	No	NA	F	50-59	NA	193	0	-193	NA	NA	NA	NA	post	NA	NA	REL1	adverse
+pt31_s1	31	201405	dn.AML	HEME_V1.2	7+3	anthracycline_nucleosideAnalog	NA	gilteritinib;ponatinib	FLT3i	M	60-69	"46,XY[20]"	0	2	2	NA	NA	NA	NA	pre	NA	NA	dn	intermediate
+pt31_s2	31	201405	rel1.AML	HEME_V1.2	7+3	anthracycline_nucleosideAnalog	NA	gilteritinib;ponatinib	FLT3i	M	60-69	NA	272	2	-270	NA	NA	NA	NA	post	NA	NA	REL1	intermediate
+pt31_s3	31	201405	ref1a.AML	HEME_V1.2	7+3	anthracycline_nucleosideAnalog	NA	gilteritinib;ponatinib	FLT3i	M	60-69	NA	318	2	-316	NA	NA	NA	NA	post	NA	NA	REF1	intermediate
+pt31_s4	31	201405	ref1b.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	NA	gilteritinib;ponatinib	FLT3i	M	60-69	"46,XY,t(9;22)(q34;q11.2)[3]/46,idem,t(1;3)(p36;q21)[15]/46,XY[2]"	503	2	-501	NA	NA	NA	NA	post	NA	NA	REF1	intermediate
+pt32_s1	32	201708	dn.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	Allogeneic	No	NA	F	50-59	"46,XX[19]"	0	5	5	140	140	NA	NA	pre	pre	NA	dn	intermediate
+pt32_s2	32	201708	CR1.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	Allogeneic	No	NA	F	50-59	"46,XX[20]"	103	5	-98	140	37	NA	NA	post	pre	NA	CR1	intermediate
+pt32_s3	32	201708	CR1.AML (5% blasts)	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	Allogeneic	No	NA	F	50-59	"46,XX[20]"	110	5	-105	140	30	NA	NA	post	pre	NA	CR1	intermediate
+pt32_s4	32	201708	CR1.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	Allogeneic	No	NA	F	50-59	NA	124	5	-119	140	16	NA	NA	post	pre	NA	CR1	intermediate
+pt32_s5	32	201708	CR1.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	Allogeneic	No	NA	F	50-59	"46,XY[15]"	237	5	-232	140	-97	NA	NA	post	post	NA	CR1	intermediate
+pt33_s1	33	201611	dn.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	NA	No	NA	F	60-69	"46,XY[15]"	0	2	2	NA	NA	NA	NA	pre	NA	NA	dn	intermediate
+pt33_s2	33	201611	CR1.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	NA	No	NA	F	60-69	"46,XY[15]"	63	2	-61	NA	NA	NA	NA	post	NA	NA	CR1	intermediate
+pt34_s1	34	201307	dn.AML	HEME_V1.2	7+3	anthracycline_nucleosideAnalog	Allogeneic	gilteritinib	FLT3i	F	50-59	"46,XX,del(9)(q13q22)[14]/46,XX[6]"	0	3	3	291	291	218	218	pre	pre	pre	dn	adverse
+pt34_s2	34	201307	rel1.AML	HEME_V1.2	7+3	anthracycline_nucleosideAnalog	Allogeneic	gilteritinib	FLT3i	F	50-59	"46,XX,del(9)(q13q22)[18]/46,XX[2]"	157	3	-154	291	134	218	61	post	pre	pre	REL1	adverse
+pt34_s3	34	201307	ref1.AML	HEME_V1.2	7+3	anthracycline_nucleosideAnalog	Allogeneic	gilteritinib	FLT3i	F	50-59	"46,XX,del(9)(q13q22)[20]/46,XX[1]"	217	3	-214	291	74	218	1	post	pre	pre	REF1	adverse
+pt34_s4	34	201307	ref2.AML	HEME_V1.2	7+3	anthracycline_nucleosideAnalog	Allogeneic	gilteritinib	FLT3i	F	50-59	"46,XX,del(9)(q13q22)[15]"	248	3	-245	291	43	218	-30	post	pre	post	REF2	adverse
+pt35_s1	35	201702	dn.AML	HEME_V2.3	azacitidine monotherapy	HMA_monotherapy	NA	No	NA	M	80-89	"46,XY[20]"	0	10	10	NA	NA	NA	NA	pre	NA	NA	dn	adverse
+pt35_s2	35	201702	CR1.AML	HEME_V2.3	azacitidine monotherapy	HMA_monotherapy	NA	No	NA	M	80-89	"46,XY[20]"	153	10	-143	NA	NA	NA	NA	post	NA	NA	CR1	adverse
+pt35_s3	35	201702	CR1.AML	HEME_V2.3	azacitidine monotherapy	HMA_monotherapy	NA	No	NA	M	80-89	NA	462	10	-452	NA	NA	NA	NA	post	NA	NA	CR1	adverse
+pt36_s1	36	201711	dn.AML	HEME_V2.3	7+3+midostaurin	anthracycline_nucleosideAnalog_FLT3i	Allogeneic	sorafenib	FLT3i	F	50-59	"46,XX[11]"	0	2	2	145	145	68	68	pre	pre	pre	dn	intermediate
+pt36_s2	36	201711	CR1.AML	HEME_V2.3	7+3+midostaurin	anthracycline_nucleosideAnalog_FLT3i	Allogeneic	sorafenib	FLT3i	F	50-59	"46,XX[20]"	84	2	-82	145	61	68	-16	post	pre	post	CR1	intermediate
+pt37_s1	37	201505	dn.AML	HEME_V2.3	cytarabine monotherapy	nucleosideAnalog_monotherapy	NA	No	NA	F	30-39	"46,XX,t(9;11)(p22;q23)[19]/46,XX[1]"	0	5	5	NA	NA	NA	NA	pre	NA	NA	dn	intermediate
+pt37_s2	37	201505	rel1.AML	HEME_V2.3	cytarabine monotherapy	nucleosideAnalog_monotherapy	NA	No	NA	F	30-39	NA	157	5	-152	NA	NA	NA	NA	post	NA	NA	REL1	intermediate
+pt38_s1	38	201703	dn.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	Allogeneic	No	NA	F	30-39	"46,XX,t(9;11)(p21;q23)[20]"	0	1	1	144	144	NA	NA	pre	pre	NA	dn	intermediate
+pt38_s2	38	201703	CR2.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	Allogeneic	No	NA	F	30-39	"46,XX[20]"	111	1	-110	144	33	NA	NA	post	pre	NA	CR2	intermediate
+pt38_s3	38	201703	ref2.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	Allogeneic	No	NA	F	30-39	"46,XX[20]"	251	1	-250	144	-107	NA	NA	post	post	NA	REF2	intermediate
+pt39_s1	39	201703	dn.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	Allogeneic	sorafenib	FLT3i	M	60-69	"46,XY[20]"	0	2	2	119	119	194	194	pre	pre	pre	dn	adverse
+pt39_s2	39	201703	CR1.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	Allogeneic	sorafenib	FLT3i	M	60-69	"46,XY[20]"	33	2	-31	119	86	194	161	post	pre	pre	CR1	adverse
+pt39_s3	39	201703	rel1.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	Allogeneic	sorafenib	FLT3i	M	60-69	"46,XY[20]"	106	2	-104	119	13	194	88	post	pre	pre	REL1	adverse
+pt39_s4	39	201703	CR2.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	Allogeneic	sorafenib	FLT3i	M	60-69	"46,XY[3]//46,XX[17]"	216	2	-214	119	-97	194	-22	post	post	post	CR2	adverse
+pt40_s1	40	201702	dn.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	Allogeneic	sorafenib	FLT3i	F	50-59	"46,XX[15]"	0	0	0	124	124	168	168	pre	pre	pre	dn	favorable
+pt40_s2	40	201702	CR1.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	Allogeneic	sorafenib	FLT3i	F	50-59	"46,XX[20]"	24	0	-24	124	100	168	144	post	pre	pre	CR1	favorable
+pt40_s3	40	201702	CR1.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	Allogeneic	sorafenib	FLT3i	F	50-59	"46,XX[20]"	89	0	-89	124	35	168	79	post	pre	pre	CR1	favorable
+pt40_s4	40	201702	CR1.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	Allogeneic	sorafenib	FLT3i	F	50-59	"46,XX[20]"	111	0	-111	124	13	168	57	post	pre	pre	CR1	favorable
+pt40_s5	40	201702	rel1.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	Allogeneic	sorafenib	FLT3i	F	50-59	"46,XY[20]"	222	0	-222	124	-98	168	-54	post	post	post	REL1	favorable
+pt41_s1	41	201705	dn.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	Allogeneic	No	NA	M	70-79	"47,XY,+10[1]/47,idem,del(9)(q22q34)[2]/46,XY[4]"	0	0	0	277	277	NA	NA	pre	pre	NA	dn	intermediate
+pt41_s2	41	201705	CR1.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	Allogeneic	No	NA	M	70-79	"46,XY[20]"	51	0	-51	277	226	NA	NA	post	pre	NA	CR1	intermediate
+pt41_s3	41	201705	CR1.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	Allogeneic	No	NA	M	70-79	"46,XY[20]"	87	0	-87	277	190	NA	NA	post	pre	NA	CR1	intermediate
+pt41_s4	41	201705	CR1.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	Allogeneic	No	NA	M	70-79	"47,XY,+10[2]/46,XY[19]"	255	0	-255	277	22	NA	NA	post	pre	NA	CR1	intermediate
+pt41_s5	41	201705	CR1.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	Allogeneic	No	NA	M	70-79	"46,XY[20]"	373	0	-373	277	-96	NA	NA	post	post	NA	CR1	intermediate
+pt42_s1	42	201508	dn.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	Allogeneic	No	NA	M	60-69	"46,XY,-7,+i(11)(q10)[13]"	0	3	3	146	146	NA	NA	pre	pre	NA	dn	adverse
+pt42_s2	42	201508	CR1.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	Allogeneic	No	NA	M	60-69	"46,XY[20]"	129	3	-126	146	17	NA	NA	post	pre	NA	CR1	adverse
+pt43_s1	43	201802	dn.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	Allogeneic	No	NA	M	20-29	"46,XY[20]"	0	4	4	167	167	NA	NA	pre	pre	NA	dn	intermediate
+pt43_s2	43	201802	CR1.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	Allogeneic	No	NA	M	20-29	"46,XY[20]"	33	4	-29	167	134	NA	NA	post	pre	NA	CR1	intermediate
+pt44_s1	44	201710	dn.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	NA	ivosidenib	IDHi	F	60-69	"46,XX[20]"	0	7	7	NA	NA	321	321	pre	NA	pre	dn	intermediate
+pt44_s2	44	201710	CR1.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	NA	ivosidenib	IDHi	F	60-69	"46,XX[20]"	48	7	-41	NA	NA	321	273	post	NA	pre	CR1	intermediate
+pt45_s1	45	201706	dn.AML	HEME_V2.3	7+3+midostaurin	anthracycline_nucleosideAnalog_FLT3i	Allogeneic	No	NA	F	40-49	"46,XX[20]"	0	0	0	98	98	NA	NA	pre	pre	NA	dn	adverse
+pt45_s2	45	201706	CR1.AML	HEME_V2.3	7+3+midostaurin	anthracycline_nucleosideAnalog_FLT3i	Allogeneic	No	NA	F	40-49	"46,XX[20]"	34	0	-34	98	64	NA	NA	post	pre	NA	CR1	adverse
+pt45_s3	45	201706	CR1.AML	HEME_V2.3	7+3+midostaurin	anthracycline_nucleosideAnalog_FLT3i	Allogeneic	No	NA	F	40-49	"46,XX[20]"	75	0	-75	98	23	NA	NA	post	pre	NA	CR1	adverse
+pt45_s4	45	201706	rel1.AML	HEME_V2.3	7+3+midostaurin	anthracycline_nucleosideAnalog_FLT3i	Allogeneic	No	NA	F	40-49	"46,XX[20]"	196	0	-196	98	-98	NA	NA	post	post	NA	REL1	adverse
+pt46_s1	46	201304	dn.AML	HEME_V1.2	7+3	anthracycline_nucleosideAnalog	NA	No	NA	F	70-79	NA	0	0	0	NA	NA	NA	NA	pre	NA	NA	dn	intermediate
+pt46_s2	46	201304	rel1.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	NA	No	NA	F	70-79	NA	1213	0	-1213	NA	NA	NA	NA	post	NA	NA	REL1	intermediate
+pt47_s1	47	201412	dn.AML	HEME_V1.2	7+3	anthracycline_nucleosideAnalog	Allogeneic	No	NA	F	40-49	"46,XX,add(1)(p36.2),del(5)(q13q33)[2]/43~45,idem,-3,del(7)(q11.2q32),-11,add(11)(p14),-15,add(15)(p11.2),-16,-17,-21,+2~4mar,1dmin[cp16]/46,XX[1]"	0	4	4	186	186	NA	NA	pre	pre	NA	dn	adverse
+pt47_s2	47	201412	rel1.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	Allogeneic	No	NA	F	40-49	NA	403	4	-399	186	-217	NA	NA	post	post	NA	REL1	adverse
+pt48_s1	48	201310	dn.AML	HEME_V1.2	7+3	anthracycline_nucleosideAnalog	Allogeneic	gilteritinib	FLT3i	F	40-49	"46,XX[20]"	0	1	1	119	119	226	226	pre	pre	pre	dn	favorable
+pt48_s2	48	201310	rel1.AML	HEME_V1.2	7+3	anthracycline_nucleosideAnalog	Allogeneic	gilteritinib	FLT3i	F	40-49	NA	219	1	-218	119	-100	226	7	post	post	pre	REL1	favorable
+pt49_s1	49	201801	dn.AML	HEME_V2.3	azacitidine monotherapy	HMA_monotherapy	NA	No	NA	M	70-79	"46,XY[20]"	0	19	19	NA	NA	NA	NA	pre	NA	NA	dn	adverse
+pt49_s2	49	201801	CR1.AML	HEME_V2.3	azacitidine monotherapy	HMA_monotherapy	NA	No	NA	M	70-79	"46,XY[20]"	132	19	-113	NA	NA	NA	NA	post	NA	NA	CR1	adverse
+pt50_s1	50	201606	dn.AML	HEME_V2.3	azacitidine monotherapy	HMA_monotherapy	NA	ivosidenib	IDHi	M	70-79	"46,XY[20]"	0	12	12	NA	NA	NA	NA	pre	NA	NA	dn	intermediate
+pt50_s2	50	201606	CR1.AML	HEME_V2.3	azacitidine monotherapy	HMA_monotherapy	NA	ivosidenib	IDHi	M	70-79	"46,XY[20]"	299	12	-287	NA	NA	792	493	post	NA	pre	CR1	intermediate
+pt50_s3	50	201606	CR1.AML	HEME_V2.3	azacitidine monotherapy	HMA_monotherapy	NA	ivosidenib	IDHi	M	70-79	"45,X,-Y[5]/46,XY[15]"	561	12	-549	NA	NA	792	231	post	NA	pre	CR1	intermediate
+pt51_s1	51	201307	dn.AML	HEME_V1.2	7+3	anthracycline_nucleosideAnalog	NA	No	NA	F	50-59	"46,XX[20]"	0	13	13	NA	NA	NA	NA	pre	NA	NA	dn	intermediate
+pt51_s2	51	201307	rel1.AML	HEME_V1.2	7+3	anthracycline_nucleosideAnalog	NA	No	NA	F	50-59	"46,XX[15]"	491	13	-478	NA	NA	NA	NA	post	NA	NA	REL1	intermediate
+pt51_s3	51	201307	rel2.AML	HEME_V1.2	7+3	anthracycline_nucleosideAnalog	NA	No	NA	F	50-59	"46,XX[20]"	581	13	-568	NA	NA	NA	NA	post	NA	NA	REL2	intermediate
+pt52_s1	52	201410	dn.AML	HEME_V1.2	7+3	anthracycline_nucleosideAnalog	NA	No	NA	M	60-69	"47,XY,+8[8]/46,XY[12]"	0	1	1	NA	NA	NA	NA	pre	NA	NA	dn	favorable
+pt52_s2	52	201410	CR1.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	NA	No	NA	M	60-69	"46,XY[20]"	214	1	-213	NA	NA	NA	NA	post	NA	NA	CR1	favorable
+pt53_s1	53	201705	dn.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	NA	No	NA	M	60-69	"46,XY[20]"	0	1	1	NA	NA	NA	NA	pre	NA	NA	dn	adverse
+pt53_s2	53	201705	CR1.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	NA	No	NA	M	60-69	"46,XY[20]"	62	1	-61	NA	NA	NA	NA	post	NA	NA	CR1	adverse
+pt53_s3	53	201705	CR1.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	NA	No	NA	M	60-69	"46,XY[20]"	111	1	-110	NA	NA	NA	NA	post	NA	NA	CR1	adverse
+pt53_s4	53	201705	rel1.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	NA	No	NA	M	60-69	NA	216	1	-215	NA	NA	NA	NA	post	NA	NA	REL1	adverse
+pt53_s5	53	201705	rel1.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	NA	No	NA	M	60-69	"46,XY[20]"	355	1	-354	NA	NA	NA	NA	post	NA	NA	REL1	adverse
+pt54_s1	54	201511	dn.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	NA	No	NA	F	50-59	"46,XX,del(2)(p21p23)[4]/46,sl,-4,del(5)(q11.2q33),der(7)add(7)(p21)del(7)(q32q36),add(16)(q11.2),add(16)(q11.2),-22,+2mar[7]/46,sdl1,-del(2)(p21p23),+der(2)del(2)(p21p23)add(2)(q37)[8]/47,sdl2,+mar[2]"	0	-3	-3	NA	NA	NA	NA	pre	NA	NA	dn	adverse
+pt54_s2	54	201511	ref.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	NA	No	NA	F	50-59	NA	98	-3	-101	NA	NA	NA	NA	post	NA	NA	REF1	adverse
+pt55_s1	55	201706	dn.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	Allogeneic	sorafenib;azacitidine	FLT3i	F	50-59	"46,XX[5]"	0	0	0	172	172	98	98	pre	pre	pre	dn	adverse
+pt55_s2	55	201706	CR1.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	Allogeneic	sorafenib;azacitidine	FLT3i	F	50-59	"46,XX[20]"	25	0	-25	172	147	98	73	post	pre	pre	CR1	adverse
+pt55_s3	55	201706	rel1.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	Allogeneic	sorafenib;azacitidine	FLT3i	F	50-59	"46,XX[20]"	44	0	-44	172	128	98	54	post	pre	pre	REL1	adverse
+pt55_s4	55	201706	rel1.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	Allogeneic	sorafenib;azacitidine	FLT3i	F	50-59	"46,XX[20]"	94	0	-94	172	78	98	4	post	pre	pre	REL1	adverse
+pt55_s5	55	201706	rel1.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	Allogeneic	sorafenib;azacitidine	FLT3i	F	50-59	"46,XX,t(1;17;13)(q25;q25;q14),t(2;10)(p21;q11.2),del(20)(q11.2q13.1)[7]/46,idem, del(6)(q?21q?23)[3]/46,XX[10]"	126	0	-126	172	46	98	-28	post	pre	post	REL1	adverse
+pt56_s1	56	201604	dn.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	Allogeneic	sorafenib	FLT3i	M	10-19	"46,XY[19]"	0	0	0	106	106	260	260	pre	pre	pre	dn	intermediate
+pt56_s2	56	201604	CR1.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	Allogeneic	sorafenib	FLT3i	M	10-19	"46,XY[20]"	35	0	-35	106	71	260	225	post	pre	pre	CR1	intermediate
+pt56_s3	56	201604	rel1.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	Allogeneic	sorafenib	FLT3i	M	10-19	"46,XX[20]"	495	0	-495	106	-389	260	-235	post	post	post	REL1	intermediate
+pt57_s1	57	201601	dn.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	Allogeneic	No	NA	F	50-59	"46,XX,inv(9)(p12q13)c[10]"	0	4	4	144	144	NA	NA	pre	pre	NA	dn	intermediate
+pt57_s2	57	201601	CR1.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	Allogeneic	No	NA	F	50-59	"46,XX,inv(9)(p12q13)c[15]"	35	4	-31	144	109	NA	NA	post	pre	NA	CR1	intermediate
+pt57_s3	57	201601	CR1.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	Allogeneic	No	NA	F	50-59	"46,XX,inv(9)(p12q13)c[20]"	117	4	-113	144	27	NA	NA	post	pre	NA	CR1	intermediate
+pt58_s1	58	201506	dn.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	NA	No	NA	F	60-69	NA	0	5	5	NA	NA	NA	NA	pre	NA	NA	dn	favorable
+pt58_s2	58	201506	CR1.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	NA	No	NA	F	60-69	"46,XX[20]"	48	5	-43	NA	NA	NA	NA	post	NA	NA	CR1	favorable
+pt58_s3	58	201506	CR1.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	NA	No	NA	F	60-69	NA	308	5	-303	NA	NA	NA	NA	post	NA	NA	CR1	favorable
+pt59_s1	59	201611	dn.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	NA	No	NA	M	60-69	"53~56,XY,+1,+2,+6,+8,+9,+10,der(11;14)(q24;p11.2)del(11)(q22q23)dup(11)(q23q22)ins(11;?)(q23;?),der(12)t(12;14)(p12;q11.2),+13,+15,+19,+20,+21,+22,+1~2mar[cp18]/59,idem,+der(11;14),+17[cp2]"	0	4	4	NA	NA	NA	NA	pre	NA	NA	dn	adverse
+pt59_s2	59	201611	CR1.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	NA	No	NA	M	60-69	NA - Aspicular and hemodilute	61	4	-57	NA	NA	NA	NA	post	NA	NA	CR1	adverse
+pt60_s1	60	201511	dn.AML	HEME_V2.3	decitabine monotherapy	HMA_monotherapy	NA	No	NA	M	80-89	NA	0	7	7	NA	NA	NA	NA	pre	NA	NA	dn	adverse
+pt60_s2	60	201511	ref.AML	HEME_V2.3	decitabine monotherapy	HMA_monotherapy	NA	No	NA	M	80-89	"46,XY,t(8;19)(q24.1;q13.1)[19]/46,XY[1]"	106	7	-99	NA	NA	NA	NA	post	NA	NA	REF1	adverse
+pt61_s1	61	201706	dn.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	NA	No	NA	F	60-69	"46,XX[20]"	0	0	0	NA	NA	NA	NA	pre	NA	NA	dn	favorable
+pt61_s2	61	201706	CR1.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	NA	No	NA	F	60-69	"46,XX[14]"	27	0	-27	NA	NA	NA	NA	post	NA	NA	CR1	favorable
+pt62_s1	62	201612	dn.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	NA	No	NA	M	70-79	"46,XY[20]"	0	5	5	NA	NA	NA	NA	pre	NA	NA	dn	favorable
+pt62_s2	62	201612	CR1.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	NA	No	NA	M	70-79	"46,XY[8]"	36	5	-31	NA	NA	NA	NA	post	NA	NA	CR1	favorable
+pt63_s1	63	201512	dn.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	Allogeneic	gilteritinib	FLT3i	F	60-69	"46,XX[17]"	0	0	0	129	129	244	244	pre	pre	pre	dn	favorable
+pt63_s2	63	201512	rel1.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	Allogeneic	gilteritinib	FLT3i	F	60-69	"46,XX,add(18)(q22)[8]//46,XY[12]"	223	0	-223	129	-94	244	21	post	post	pre	REL1	favorable
+pt63_s3	63	201512	CR2.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	Allogeneic	gilteritinib	FLT3i	F	60-69	NA	331	0	-331	129	-202	244	-87	post	post	post	CR2	favorable
+pt64_s1	64	201705	dn.AML	HEME_V2.3	ATRA/ATO	ATRA_ATO	NA	No	NA	M	80-89	NA	0	0	0	NA	NA	NA	NA	pre	NA	NA	dn	intermediate
+pt64_s2	64	201705	CR1.AML	HEME_V2.3	ATRA/ATO	ATRA_ATO	NA	No	NA	M	80-89	"46,XY[20]"	199	0	-199	NA	NA	NA	NA	post	NA	NA	CR1	intermediate
+pt65_s1	65	201610	dn.AML	HEME_V2.3	ATRA/ATO	ATRA_ATO	NA	No	NA	F	60-69	"46,XX[20]"	0	2	2	NA	NA	NA	NA	pre	NA	NA	dn	favorable
+pt65_s2	65	201610	ref.AML	HEME_V2.3	ATRA/ATO	ATRA_ATO	NA	No	NA	F	60-69	"46,XX[20]"	37	2	-35	NA	NA	NA	NA	post	NA	NA	REF1	favorable
+pt65_s3	65	201610	CR1.AML	HEME_V2.3	ATRA/ATO	ATRA_ATO	NA	No	NA	F	60-69	"46,XX[20]"	48	2	-46	NA	NA	NA	NA	post	NA	NA	CR1	favorable
+pt66_s1	66	201608	dn.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	NA	quizartinib	FLT3i	M	60-69	"46,XY[5]"	0	3	3	NA	NA	320	320	pre	NA	pre	dn	favorable
+pt66_s2	66	201608	CR1.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	NA	quizartinib	FLT3i	M	60-69	"46,XY[20]"	172	3	-169	NA	NA	320	148	post	NA	pre	CR1	favorable
+pt66_s3	66	201608	rel1.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	NA	quizartinib	FLT3i	M	60-69	"46,XY[20]"	319	3	-316	NA	NA	320	1	post	NA	pre	REL1	favorable
+pt67_s1	67	201306	dn.AML	HEME_V1.2	7+3	anthracycline_nucleosideAnalog	NA	No	NA	F	20-29	"46,XX,t(3;11)(p26;q14)[14]/46,XX[1]"	0	42	42	NA	NA	NA	NA	pre	NA	NA	dn	intermediate
+pt67_s2	67	201306	rel1.AML	HEME_V1.2	7+3	anthracycline_nucleosideAnalog	NA	No	NA	F	20-29	"46,XX,t(3;11)(p25;q13)[3]/46,sl,t(3;16)(q13;p13.1)[11]/46,XX[2]"	581	42	-539	NA	NA	NA	NA	post	NA	NA	REL1	intermediate
+pt68_s1	68	201802	dn.AML	HEME_V2.3	7+3+gemtuzumab	anthracycline_nucleosideAnalog_CD33ab	NA	No	NA	M	40-49	"46,XY,inv(16)(p13.1q22)[4]/46,sl,del(9)(q12),del(17)(p11.2)[12]/47,sdl,+21[2]/47 ,sl,+21[2]"	0	0	0	NA	NA	NA	NA	pre	NA	NA	dn	adverse
+pt68_s2	68	201802	CR1.AML	HEME_V2.3	7+3+gemtuzumab	anthracycline_nucleosideAnalog_CD33ab	NA	No	NA	M	40-49	"46,XY[25]"	53	0	-53	NA	NA	NA	NA	post	NA	NA	CR1	adverse
+pt69_s1	69	201601	dn.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	Allogeneic	No	NA	F	20-29	"46,XX,del(9)(q13q34)[6]/46,XX[15]"	0	2	2	108	108	NA	NA	pre	pre	NA	dn	adverse
+pt69_s2	69	201601	rel1.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	Allogeneic	No	NA	F	20-29	NA	242	2	-240	108	-134	NA	NA	post	post	NA	REL1	adverse
+pt70_s1	70	201406	dn.AML	HEME_V1.2	7+3	anthracycline_nucleosideAnalog	NA	No	NA	F	60-69	NA	0	0	0	NA	NA	NA	NA	pre	NA	NA	dn	adverse
+pt70_s2	70	201406	rel1.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	NA	No	NA	F	60-69	NA	354	0	-354	NA	NA	NA	NA	post	NA	NA	REL1	adverse
+pt71_s1	71	201407	dn.AML	HEME_V1.2	decitabine monotherapy	HMA_monotherapy	NA	No	NA	M	80-89	"46,XY[20]"	0	2	2	NA	NA	NA	NA	pre	NA	NA	dn	favorable
+pt71_s2	71	201407	CR1.AML	HEME_V1.2	decitabine monotherapy	HMA_monotherapy	NA	No	NA	M	80-89	"45,X,-Y[6]/46,XY[17]"	125	2	-123	NA	NA	NA	NA	post	NA	NA	CR1	favorable
+pt72_s1	72	201610	dn.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	NA	gilteritinib	FLT3i	F	30-39	NA	0	2	2	NA	NA	77	77	pre	NA	pre	dn	adverse
+pt72_s2	72	201610	primref.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	NA	gilteritinib	FLT3i	F	30-39	"46,XX[16]"	72	2	-70	NA	NA	77	5	post	NA	pre	REF1	adverse
+pt73_s1	73	201406	dn.AML	HEME_V1.2	7+3	anthracycline_nucleosideAnalog	Allogeneic	gilteritinib	FLT3i	F	60-69	"47,XX,+13[3]/46,XX[17]"	0	2	2	NA	NA	322	322	pre	NA	pre	dn	intermediate
+pt73_s2	73	201406	rel1.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	Allogeneic	gilteritinib	FLT3i	F	60-69	NA	320	2	-318	NA	NA	322	2	post	NA	pre	REL1	intermediate
+pt73_s3	73	201406	rel2.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	Allogeneic	gilteritinib	FLT3i	F	60-69	"47,XX,t(3;10)(q21;p13),+21[16]//46,XY[4]"	853	2	-851	NA	NA	322	-531	post	NA	post	REL2	intermediate
+pt74_s1	74	201402	dn.AML	HEME_V1.2	7+3	anthracycline_nucleosideAnalog	NA	No	NA	F	60-69	"46,XX[20]"	0	2	2	NA	NA	NA	NA	pre	NA	NA	dn	intermediate
+pt74_s2	74	201402	rel1.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	NA	No	NA	F	60-69	"46,XX,-7,+mar[16]/46,XX[20]"	706	2	-704	NA	NA	NA	NA	post	NA	NA	REL1	intermediate
+pt74_s3	74	201402	CR2.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	NA	No	NA	F	60-69	"46,XX[15]"	814	2	-812	NA	NA	NA	NA	post	NA	NA	CR2	intermediate
+pt74_s4	74	201402	rel2.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	NA	No	NA	F	60-69	"46,XX,-7,+mar[7]/46,XX[13]"	856	2	-854	NA	NA	NA	NA	post	NA	NA	REL2	intermediate
+pt75_s1	75	201703	dn.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	Allogeneic	quizartinib	FLT3i	F	50-59	"46,XX,i(17)(q10)[14]/46,XX[6]"	0	4	4	211	211	86	86	pre	pre	pre	dn	intermediate
+pt75_s2	75	201703	CR1.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	Allogeneic	sorafenib	FLT3i	F	50-59	"46,XX,i(17)(q10)[2]/46,XX[19]"	24	4	-20	211	187	150	126	post	pre	pre	CR1	intermediate
+pt75_s3	75	201703	rel1.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	Allogeneic	sorafenib	FLT3i	F	50-59	"46,XX,i(17)(q10)[10]/46,XX[10]"	58	4	-54	211	153	150	92	post	pre	pre	REL1	intermediate
+pt75_s4	75	201703	ref1.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	Allogeneic	sorafenib	FLT3i	F	50-59	"46,XX,i(17)(q10)[1]/46,XX[14]"	73	4	-69	211	138	150	77	post	pre	pre	REF1	intermediate
+pt75_s5	75	201703	CR2.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	Allogeneic	sorafenib	FLT3i	F	50-59	NA	200	4	-196	211	11	150	-50	post	pre	post	CR2	intermediate
+pt75_s6	75	201703	CR2.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	Allogeneic	sorafenib	FLT3i	F	50-59	"46,XX[20]"	309	4	-305	211	-98	150	-159	post	post	post	CR2	intermediate
+pt76_s1	76	201302	dn.AML	HEME_V1.2	7+3	anthracycline_nucleosideAnalog	NA	gilteritinib	FLT3i	F	50-59	NA	0	-1	-1	NA	NA	340	340	pre	NA	pre	dn	favorable
+pt76_s2	76	201302	rel1.AML	HEME_V1.2	7+3	anthracycline_nucleosideAnalog	NA	gilteritinib	FLT3i	F	50-59	"46,XX[20]"	206	-1	-207	NA	NA	340	134	post	NA	pre	REL1	favorable
+pt77_s1	77	201303	dn.AML	HEME_V1.2	7+3	anthracycline_nucleosideAnalog	NA	No	NA	F	70-79	"48,XX,+8,+11[6]/46,XX[12]"	0	1	1	NA	NA	NA	NA	pre	NA	NA	dn	intermediate
+pt77_s2	77	201303	rel1.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	NA	No	NA	F	70-79	"47,XX,+8[3]/46,XX[20]"	1126	1	-1125	NA	NA	NA	NA	post	NA	NA	REL1	intermediate
+pt78_s1	78	201703	dn.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	NA	No	NA	F	20-29	"46,XX,inv(16)(p13.1q22)[5]/46,XX[1]"	0	0	0	NA	NA	NA	NA	pre	NA	NA	dn	favorable
+pt78_s2	78	201703	CR1.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	NA	No	NA	F	20-29	"46,XX,inv(16)(p13.1q22)[10]/46,XX[10]"	408	0	-408	NA	NA	NA	NA	post	NA	NA	CR1	favorable
+pt79_s1	79	201608	dn.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	Allogeneic	quizartinib	FLT3i	M	50-59	"46,XY[20]"	0	2	2	121	121	NA	NA	pre	pre	NA	dn	intermediate
+pt79_s2	79	201608	CR1.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	Allogeneic	quizartinib	FLT3i	M	50-59	"46,XY[20]"	211	2	-209	121	-90	NA	NA	post	post	NA	CR1	intermediate
+pt79_s3	79	201608	rel1.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	Allogeneic	quizartinib	FLT3i	M	50-59	"46,XY[20]"	403	2	-401	121	-282	NA	NA	post	post	NA	REL1	intermediate
+pt79_s4	79	201608	rel1.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	Allogeneic	quizartinib	FLT3i	M	50-59	"46,XY[20]"	477	2	-475	121	-356	NA	NA	post	post	NA	REL1	intermediate
+pt80_s1	80	201307	dn.AML	HEME_V1.2	7+3	anthracycline_nucleosideAnalog	Allogeneic	No	NA	M	50-59	NA	0	4	4	92	92	NA	NA	pre	pre	NA	dn	adverse
+pt80_s2	80	201307	CR1.AML	HEME_V1.2	7+3	anthracycline_nucleosideAnalog	Allogeneic	No	NA	M	50-59	"47,XY,+8[6]/46,XY[14]"	76	4	-72	92	16	NA	NA	post	pre	NA	CR1	adverse
+pt81_s1	81	201307	dn.AML	HEME_V1.2	7+3	anthracycline_nucleosideAnalog	NA	No	NA	M	60-69	"47,XY,del(3)(q13.3q26.2),+8[19]/46,XY[1]"	0	2	2	NA	NA	NA	NA	pre	NA	NA	dn	intermediate
+pt81_s2	81	201307	ref.AML	HEME_V1.2	7+3	anthracycline_nucleosideAnalog	NA	No	NA	M	60-69	"47,XY,+8[11]/47,idem,del(3)(q13.3q26.2)[9]"	187	2	-185	NA	NA	NA	NA	post	NA	NA	REF1	intermediate
+pt82_s1	82	201307	dn.AML	HEME_V1.2	7+3	anthracycline_nucleosideAnalog	Allogeneic	No	NA	F	20-29	"46,XX,inv(9)(p12q13)[20]"	0	3	3	68	68	NA	NA	pre	pre	NA	dn	intermediate
+pt82_s2	82	201307	rel1.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	Allogeneic	No	NA	F	20-29	"47,XX,inv(9)(p12q13)c,+13[11]/46,XX,inv(9)(p12q13)c[9]"	727	3	-724	68	-659	NA	NA	post	post	NA	REL1	intermediate
+pt82_s3	82	201307	rel2.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	Allogeneic	No	NA	F	20-29	"47,XX,inv(9)(p12q13)c,+13[20]"	1014	3	-1011	68	-946	NA	NA	post	post	NA	REL2	intermediate
+pt83_s1	83	201308	dn.AML	HEME_V1.2	clofarabine monotherapy	nucleosideAnalog_monotherapy	NA	No	NA	M	70-79	"46,XY[20]"	0	8	8	NA	NA	NA	NA	pre	NA	NA	dn	favorable
+pt83_s2	83	201308	rel1.AML	HEME_V1.2	clofarabine monotherapy	nucleosideAnalog_monotherapy	NA	No	NA	M	70-79	"48,XY,+10,+22[2]/46,XY[1]"	241	8	-233	NA	NA	NA	NA	post	NA	NA	REL1	favorable
+pt83_s3	83	201308	rel1.AML	HEME_V1.2	clofarabine monotherapy	nucleosideAnalog_monotherapy	NA	No	NA	M	70-79	"46,XY[20]"	254	8	-246	NA	NA	NA	NA	post	NA	NA	REL1	favorable
+pt83_s4	83	201308	ref1.AML	HEME_V1.2	clofarabine monotherapy	nucleosideAnalog_monotherapy	NA	No	NA	M	70-79	"46,XY[20]"	413	8	-405	NA	NA	NA	NA	post	NA	NA	REF1	favorable
+pt84_s1	84	201710	dn.AML	HEME_V2.3	ATRA/ATO	ATRA_ATO	NA	No	NA	F	20-29	"46,XX[20]"	0	0	0	NA	NA	NA	NA	pre	NA	NA	dn	intermediate
+pt84_s2	84	201710	CR1.AML	HEME_V2.3	ATRA/ATO	ATRA_ATO	NA	No	NA	F	20-29	"46,XX[20]"	32	0	-32	NA	NA	NA	NA	post	NA	NA	CR1	intermediate
+pt85_s1	85	201312	dn.AML	HEME_V1.2	7+3	anthracycline_nucleosideAnalog	NA	No	NA	M	50-59	"46,XY,t(2;3)(p23;q27),del(5)(q21q34)[20]"	0	1	1	NA	NA	NA	NA	pre	NA	NA	dn	adverse
+pt85_s2	85	201312	refc.AML	HEME_V1.2	7+3	anthracycline_nucleosideAnalog	NA	No	NA	M	50-59	NA	329	1	-328	NA	NA	NA	NA	post	NA	NA	REF1	adverse
+pt86_s1	86	201309	dn.AML	HEME_V1.2	7+3	anthracycline_nucleosideAnalog	Allogeneic	gilteritinib	FLT3i	M	50-59	"46,XY[19]"	0	1	1	157	157	697	697	pre	pre	pre	dn	intermediate
+pt86_s2	86	201309	rel1.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	Allogeneic	gilteritinib	FLT3i	M	50-59	"46,XY,t(3;7)(p21p15)[7]/46,XY[7]//46,XX[6]"	676	1	-675	157	-519	697	21	post	post	pre	REL1	intermediate
+pt86_s3	86	201309	ref1a.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	Allogeneic	gilteritinib	FLT3i	M	50-59	"46,XY,inv(2)(p13q32),t(3;7)(p21;p15)[19]/46,XY[1]//"	723	1	-722	157	-566	697	-26	post	post	post	REF1	intermediate
+pt86_s4	86	201309	ref1b.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	Allogeneic	gilteritinib	FLT3i	M	50-59	"46,XY,inv(2)(p13q32),t(3;7)(p21;p15)[20]//"	974	1	-973	157	-817	697	-277	post	post	post	REF1	intermediate
+pt87_s1	87	201710	dn.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	NA	sorafenib	FLT3i	F	60-69	"46,XX[20]"	0	3	3	NA	NA	92	92	pre	NA	pre	dn	intermediate
+pt87_s2	87	201710	CR1.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	NA	sorafenib	FLT3i	F	60-69	NA	63	3	-60	NA	NA	92	29	post	NA	pre	CR1	intermediate
+pt87_s3	87	201710	rel1.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	NA	sorafenib	FLT3i	F	60-69	NA	99	3	-96	NA	NA	92	-7	post	NA	pre	REL1	intermediate
+pt88_s1	88	201312	dn.AML	HEME_V1.2	7+3	anthracycline_nucleosideAnalog	NA	No	NA	M	40-49	"47,XY,del(12)(q13q14),ins(14;12)(q13;q?15q24.3),inv(16)(p13.1q22),+21[15]"	0	3	3	NA	NA	NA	NA	pre	NA	NA	dn	favorable
+pt88_s2	88	201312	CR1.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	NA	No	NA	M	40-49	"46,XY[18]"	605	3	-602	NA	NA	NA	NA	post	NA	NA	CR1	favorable
+pt89_s1	89	201711	dn.AML	HEME_V2.3	azacitidine monotherapy	HMA_monotherapy	NA	gilteritinib	FLT3i	F	60-69	"48,XX,+8,+13[9]/46,XX[11]"	0	11	11	NA	NA	399	399	pre	NA	pre	dn	intermediate
+pt89_s2	89	201711	CR1.AML	HEME_V2.3	azacitidine monotherapy	HMA_monotherapy	NA	gilteritinib	FLT3i	F	60-69	"46,XX[20]"	124	11	-113	NA	NA	399	275	post	NA	pre	CR1	intermediate
+pt90_s1	90	201312	dn.AML	HEME_V1.2	7+3	anthracycline_nucleosideAnalog	Allogeneic	No	NA	F	60-69	"46,XX[20]"	0	1	1	75	75	NA	NA	pre	pre	NA	dn	favorable
+pt90_s2	90	201312	rel1.AML	HEME_V1.2	7+3	anthracycline_nucleosideAnalog	Allogeneic	No	NA	F	60-69	"46,XX[20]"	332	1	-331	75	-257	NA	NA	post	post	NA	REL1	favorable
+pt90_s3	90	201312	CR2.AML	HEME_V1.2	7+3	anthracycline_nucleosideAnalog	Allogeneic	No	NA	F	60-69	"46,XX[20]"	383	1	-382	75	-308	NA	NA	post	post	NA	CR2	favorable
+pt90_s4	90	201312	CR2.AML	HEME_V1.2	7+3	anthracycline_nucleosideAnalog	Allogeneic	No	NA	F	60-69	"46,XX[20]"	426	1	-425	75	-351	NA	NA	post	post	NA	CR2	favorable
+pt90_s5	90	201312	CR2.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	Allogeneic	No	NA	F	60-69	"46,XX[20]"	528	1	-527	75	-453	NA	NA	post	post	NA	CR2	favorable
+pt90_s6	90	201312	CR2.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	Allogeneic	No	NA	F	60-69	"46,XX[20]"	801	1	-800	75	-726	NA	NA	post	post	NA	CR2	favorable
+pt91_s1	91	201401	dn.AML	HEME_V1.2	7+3	anthracycline_nucleosideAnalog	NA	No	NA	M	50-59	"45,X,-Y,t(8;21)(q22;q22)[12]/46,XY[3]"	0	0	0	NA	NA	NA	NA	pre	NA	NA	dn	favorable
+pt91_s2	91	201401	rel1.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	NA	No	NA	M	50-59	"46,XY,t(8;21)(q22;q22),del(9)(q13q21)[10]/46,XY[10]"	575	0	-575	NA	NA	NA	NA	post	NA	NA	REL1	favorable
+pt92_s1	92	201702	dn.AML	HEME_V2.3	7+3+gilteritinib	anthracycline_nucleosideAnalog_FLT3i	Allogeneic	sorafenib	FLT3i	F	30-39	"46,XX[15]"	0	4	4	193	193	59	59	pre	pre	pre	dn	adverse
+pt92_s2	92	201702	CR1.AML	HEME_V2.3	7+3+gilteritinib	anthracycline_nucleosideAnalog_FLT3i	Allogeneic	sorafenib	FLT3i	F	30-39	"46,XX[15]"	38	4	-34	193	155	59	21	post	pre	pre	CR1	adverse
+pt92_s3	92	201702	CR2.AML	HEME_V2.3	7+3+gilteritinib	anthracycline_nucleosideAnalog_FLT3i	Allogeneic	sorafenib	FLT3i	F	30-39	"46,XX[15]"	287	4	-283	193	-94	59	-228	post	post	post	CR2	adverse
+pt93_s1	93	201511	dn.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	Allogeneic	No	NA	F	30-39	"46,XX,t(6;11)(q27;q23)[17]"	0	0	0	119	119	NA	NA	pre	pre	NA	dn	intermediate
+pt93_s2	93	201511	CR1.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	Allogeneic	No	NA	F	30-39	"46,XX,inv(9)(p12q13)c[20]"	486	0	-486	119	-367	NA	NA	post	post	NA	CR1	intermediate
+pt94_s1	94	201401	dn.AML	HEME_V1.2	7+3	anthracycline_nucleosideAnalog	Allogeneic	No	NA	F	40-49	"46,XX,del(15)(q11.2q15)[7]/46,XX[13]"	0	0	0	NA	NA	NA	NA	pre	NA	NA	dn	favorable
+pt94_s2	94	201401	rel1.AML	HEME_V1.2	7+3	anthracycline_nucleosideAnalog	Allogeneic	No	NA	F	40-49	"46,XX[20]"	427	0	-427	NA	NA	NA	NA	post	NA	NA	REL1	favorable
+pt94_s3	94	201401	CR2.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	Allogeneic	No	NA	F	40-49	"46,XX[20]"	485	0	-485	NA	NA	NA	NA	post	NA	NA	CR2	favorable
+pt95_s1	95	201402	dn.AML	HEME_V1.2	7+3	anthracycline_nucleosideAnalog	Allogeneic;Allogeneic	gilteritinib	FLT3i	M	50-59	NA	0	2	2	NA	NA	NA	NA	pre	NA	NA	dn	intermediate
+pt95_s2	95	201402	CR1.AML	HEME_V1.2	7+3	anthracycline_nucleosideAnalog	Allogeneic;Allogeneic	gilteritinib	FLT3i	M	50-59	"46,XY,del(11)(p13p15),inc[5]/46,XY[1]//46,XX[19]"	280	2	-278	NA	NA	NA	NA	post	NA	NA	CR1	intermediate
+pt95_s3	95	201402	rel1.AML	HEME_V1.2	7+3	anthracycline_nucleosideAnalog	Allogeneic;Allogeneic	gilteritinib	FLT3i	M	50-59	NA	308	2	-306	NA	NA	NA	NA	post	NA	NA	REL1	intermediate
+pt95_s4	95	201402	CR2.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	Allogeneic;Allogeneic	gilteritinib	FLT3i	M	50-59	"45~46,XY,add(1)(p13),add(3)(q26),+add(6)(p?23),add(6)(p21),add(10)(q21),del(11)(p13p15),+add(11)(q?21),-14,add(16)(q12-13),add(17)(q25),+mar,inc[cp5]/46,XY[2]//"	478	2	-476	NA	NA	NA	NA	post	NA	NA	CR2	intermediate
+pt95_s5	95	201402	rel2.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	Allogeneic;Allogeneic	gilteritinib	FLT3i	M	50-59	NA	744	2	-742	NA	NA	NA	NA	post	NA	NA	REL2	intermediate
+pt96_s1	96	201403	dn.AML	HEME_V1.2	azacitidine monotherapy	HMA_monotherapy	NA	No	NA	M	60-69	"46,XY[20]"	0	15	15	NA	NA	NA	NA	pre	NA	NA	dn	intermediate
+pt96_s2	96	201403	CR1.AML	HEME_V1.2	azacitidine monotherapy	HMA_monotherapy	NA	No	NA	M	60-69	"46,XY[20]"	215	15	-200	NA	NA	NA	NA	post	NA	NA	CR1	intermediate
+pt96_s3	96	201403	CR1.AML	HEME_V2.3	azacitidine monotherapy	HMA_monotherapy	NA	No	NA	M	60-69	"46,XY[20]"	460	15	-445	NA	NA	NA	NA	post	NA	NA	CR1	intermediate
+pt96_s4	96	201403	rel1.AML	HEME_V2.3	azacitidine monotherapy	HMA_monotherapy	NA	No	NA	M	60-69	"46,XY[16]"	650	15	-635	NA	NA	NA	NA	post	NA	NA	REL1	intermediate
+pt97_s1	97	201403	dn.AML	HEME_V1.2	7+3	anthracycline_nucleosideAnalog	NA	No	NA	M	40-49	"46,XY,inv(16)(p13.1q22)[21]"	0	3	3	NA	NA	NA	NA	pre	NA	NA	dn	favorable
+pt97_s2	97	201403	rel1.AML	HEME_V1.2	7+3	anthracycline_nucleosideAnalog	NA	No	NA	M	40-49	"46,XY,inv(16)(p13.1q22)[9]/46,XY[11]"	334	3	-331	NA	NA	NA	NA	post	NA	NA	REL1	favorable
+pt98_s1	98	201405	dn.AML	HEME_V1.2	7+3	anthracycline_nucleosideAnalog	NA	gilteritinib	FLT3i	F	70-79	"47,XX,+4[3]/46,XX[2]"	0	3	3	NA	NA	129	129	pre	NA	pre	dn	intermediate
+pt98_s2	98	201405	rel1.AML	HEME_V1.2	7+3	anthracycline_nucleosideAnalog	NA	gilteritinib	FLT3i	F	70-79	NA	126	3	-123	NA	NA	129	3	post	NA	pre	REL1	intermediate
+pt99_s1	99	201711	dn.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	NA	No	NA	M	60-69	"46,XY,add(8)(p11.2),ins(13;10)(q12;q22q24)[3]/47,sl,+add(8)(p11.2)[6]/ 52 54,sdl,-6,+10,+12,del(16)(q22),+19,+20,+21,+1 2mar[cp11]"	0	0	0	NA	NA	NA	NA	pre	NA	NA	dn	adverse
+pt99_s2	99	201711	ref2.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	NA	No	NA	M	60-69	NA	126	0	-126	NA	NA	NA	NA	post	NA	NA	REF2	adverse
+pt100_s1	100	201405	dn.AML	HEME_V1.2	7+3	anthracycline_nucleosideAnalog	Allogeneic	gilteritinib;quizartinib	FLT3i	F	20-29	NA	0	0	0	282	282	NA	NA	pre	pre	NA	dn	favorable
+pt100_s2	100	201405	rel1.AML	HEME_V1.2	7+3	anthracycline_nucleosideAnalog	Allogeneic	gilteritinib;quizartinib	FLT3i	F	20-29	"46,XX,del(11)(p?12p15)[1]/46,XX[22]"	138	0	-138	282	144	NA	NA	post	pre	NA	REL1	favorable
+pt100_s3	100	201405	rel2.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	Allogeneic	gilteritinib;quizartinib	FLT3i	F	20-29	"46,XX,?add(2)(p23),add(11)(p?12)[6]/46,XX[20]"	400	0	-400	282	-118	NA	NA	post	post	NA	REL2	favorable
+pt101_s1	101	201405	dn.AML	HEME_V1.2	7+3	anthracycline_nucleosideAnalog	Allogeneic	No	NA	M	30-39	"46,XY,t(8;21)(q22;q22))[7]/46,XY[1]"	0	1	1	775	775	NA	NA	pre	pre	NA	dn	favorable
+pt101_s2	101	201405	rel1.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	Allogeneic	No	NA	M	30-39	"46,XY,t(8;21)(q22;q22)[10]/46,XY[10]"	622	1	-621	775	153	NA	NA	post	pre	NA	REL1	favorable
+pt101_s3	101	201405	CR2.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	Allogeneic	No	NA	M	30-39	NA	704	1	-703	775	71	NA	NA	post	pre	NA	CR2	favorable
+pt102_s1	102	201606	dn.AML	HEME_V2.3	7+3+gilteritinib	anthracycline_nucleosideAnalog_FLT3i	NA	gilteritinib	FLT3i	M	70-79	46.XY[20]	0	7	7	NA	NA	7	7	pre	NA	pre	dn	intermediate
+pt102_s2	102	201606	CR1.AML	HEME_V2.3	7+3+gilteritinib	anthracycline_nucleosideAnalog_FLT3i	NA	gilteritinib	FLT3i	M	70-79	46.XY[20]	39	7	-32	NA	NA	7	-32	post	NA	post	CR1	intermediate
+pt103_s1	103	201406	dn.AML	HEME_V1.2	7+3	anthracycline_nucleosideAnalog	NA	No	NA	M	50-59	"46,XY[20]"	0	5	5	NA	NA	NA	NA	pre	NA	NA	dn	adverse
+pt103_s2	103	201406	rel1.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	NA	No	NA	M	50-59	"47,XY,+21[6]/46,XY[14]"	482	5	-477	NA	NA	NA	NA	post	NA	NA	REL1	adverse
+pt103_s3	103	201406	rel2.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	NA	No	NA	M	50-59	"45,XY,-7[6]/46,XY[17]"	945	5	-940	NA	NA	NA	NA	post	NA	NA	REL2	adverse
+pt104_s1	104	201412	dn.AML	HEME_V1.2	cytarabine monotherapy	nucleosideAnalog_monotherapy	NA	gilteritinib	FLT3i	F	70-79	"46,XX[22]"	0	5	5	NA	NA	32	32	pre	NA	pre	dn	intermediate
+pt104_s2	104	201412	rel1.AML	HEME_V2.3	cytarabine monotherapy	nucleosideAnalog_monotherapy	NA	gilteritinib	FLT3i	F	70-79	NA	289	5	-284	NA	NA	32	-257	post	NA	post	REL1	intermediate
+pt104_s3	104	201412	CR2.AML	HEME_V2.3	cytarabine monotherapy	nucleosideAnalog_monotherapy	NA	gilteritinib	FLT3i	F	70-79	"46,XX[20]"	385	5	-380	NA	NA	32	-353	post	NA	post	CR2	intermediate
+pt104_s4	104	201412	rel2.AML	HEME_V2.3	cytarabine monotherapy	nucleosideAnalog_monotherapy	NA	gilteritinib	FLT3i	F	70-79	NA	476	5	-471	NA	NA	32	-444	post	NA	post	REL2	intermediate
+pt104_s5	104	201412	ref2.AML	HEME_V2.3	cytarabine monotherapy	nucleosideAnalog_monotherapy	NA	gilteritinib	FLT3i	F	70-79	"46,XX[20]"	589	5	-584	NA	NA	32	-557	post	NA	post	REF2	intermediate
+pt105_s1	105	201611	dn.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	Allogeneic	No	NA	M	50-59	"46,XY[18]"	0	-1	-1	124	124	NA	NA	pre	pre	NA	dn	adverse
+pt105_s2	105	201611	CR1.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	Allogeneic	No	NA	M	50-59	"46,XY[20]"	27	-1	-28	124	97	NA	NA	post	pre	NA	CR1	adverse
+pt106_s1	106	201703	dn.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	NA	No	NA	F	50-59	"46,XX[20]"	0	2	2	NA	NA	NA	NA	pre	NA	NA	dn	intermediate
+pt106_s2	106	201703	CR1.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	NA	No	NA	F	50-59	"46,XX[20]"	60	2	-58	NA	NA	NA	NA	post	NA	NA	CR1	intermediate
+pt107_s1	107	201507	dn.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	NA	No	NA	M	60-69	NA	0	17	17	NA	NA	NA	NA	pre	NA	NA	dn	adverse
+pt107_s2	107	201507	CR1.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	NA	No	NA	M	60-69	"45,X,-Y[4]/46,XY[18]"	51	17	-34	NA	NA	NA	NA	post	NA	NA	CR1	adverse
+pt107_s3	107	201507	CR1.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	NA	No	NA	M	60-69	"45,X,-Y[5]/46,XY[15]"	86	17	-69	NA	NA	NA	NA	post	NA	NA	CR1	adverse
+pt107_s4	107	201507	CR1.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	NA	No	NA	M	60-69	"46,XY[20]"	345	17	-328	NA	NA	NA	NA	post	NA	NA	CR1	adverse
+pt108_s1	108	201605	dn.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	Allogeneic	No	NA	F	30-39	"46,XX,inv(16)(p13.1q22)[20]"	0	1	1	473	473	NA	NA	pre	pre	NA	dn	favorable
+pt108_s2	108	201605	CR1.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	Allogeneic	No	NA	F	30-39	"46,XX[20]"	78	1	-77	473	395	NA	NA	post	pre	NA	CR1	favorable
+pt109_s1	109	201410	dn.AML	HEME_V1.2	7+3+vorinostat	anthracycline_nucleosideAnalog_HDAC	NA	quizartinib	FLT3i	M	50-59	"46,XY,t(6;9)(p23;q34)[19]/46,XY[1]"	0	3	3	NA	NA	73	73	pre	NA	pre	dn	adverse
+pt109_s2	109	201410	rel1.AML	HEME_V1.2	7+3+vorinostat	anthracycline_nucleosideAnalog_HDAC	NA	quizartinib	FLT3i	M	50-59	"46,XY,t(6;9)(p23;q34)[3]/46,XY[17]"	101	3	-98	NA	NA	73	-28	post	NA	post	REL1	adverse
+pt110_s1	110	201412	dn.AML	HEME_V1.2	7+3	anthracycline_nucleosideAnalog	NA	No	NA	M	60-69	"46,XY[20]"	0	2	2	NA	NA	NA	NA	pre	NA	NA	dn	intermediate
+pt110_s2	110	201412	rel1.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	NA	No	NA	M	60-69	"46,XY,t(9;12)(p22;p11.2)[14]/46,XY[7]"	150	2	-148	NA	NA	NA	NA	post	NA	NA	REL1	intermediate
+pt110_s3	110	201412	ref1.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	NA	No	NA	M	60-69	NA	161	2	-159	NA	NA	NA	NA	post	NA	NA	REF1	intermediate
+pt111_s1	111	201502	dn.AML	HEME_V1.2	7+3	anthracycline_nucleosideAnalog	Allogeneic	No	NA	M	50-59	"46,XY[20]"	0	5	5	154	154	NA	NA	pre	pre	NA	dn	favorable
+pt111_s2	111	201502	CR1.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	Allogeneic	No	NA	M	50-59	"46,XY[20]"	57	5	-52	154	97	NA	NA	post	pre	NA	CR1	favorable
+pt112_s1	112	201708	dn.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	NA	No	NA	M	60-69	"44,XY,add(1)(q12),-5,-7,add(12)(p11.2),-16,+mar,inc[6]"	0	5	5	NA	NA	NA	NA	pre	NA	NA	dn	adverse
+pt112_s2	112	201708	CR1.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	NA	No	NA	M	60-69	"46,XY[20]"	52	5	-47	NA	NA	NA	NA	post	NA	NA	CR1	adverse
+pt112_s3	112	201708	rel1.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	NA	No	NA	M	60-69	"44,XY,add(1)(q12),-5,-7,add(12)(p11.2),-16[cp2]/43,idem,del(3)(q24),add(7)(q11.2 ), +add(16)(q12),-17,-18,-22,+2mar[12]/46,XY[6]"	157	5	-152	NA	NA	NA	NA	post	NA	NA	REL1	adverse
+pt113_s1	113	201503	dn.AML	HEME_V1.2	7+3	anthracycline_nucleosideAnalog	Allogeneic	gilteritinib	FLT3i	M	60-69	"46,XY[1]"	0	1	1	129	129	312	312	pre	pre	pre	dn	adverse
+pt113_s2	113	201503	rel1.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	Allogeneic	gilteritinib	FLT3i	M	60-69	"46,XY,t(2;15)(q11.2;q11.2)[5]/46,idem,add(22)(q13)[11]/46,XY[3]//46,XX[1]"	303	1	-302	129	-174	312	9	post	post	pre	REL1	adverse
+pt113_s3	113	201503	CR2.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	Allogeneic	gilteritinib	FLT3i	M	60-69	"46,XY,t(9;22)(q34;q11.2)[20]//"	533	1	-532	129	-404	312	-221	post	post	post	CR2	adverse
+pt114_s1	114	201703	dn.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	Allogeneic	No	NA	F	60-69	"47,XX,+4,5 20dmin[18]/46,XX[2]"	0	3	3	145	145	NA	NA	pre	pre	NA	dn	intermediate
+pt114_s2	114	201703	CR1.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	Allogeneic	No	NA	F	60-69	"46,XX[20]"	117	3	-114	145	28	NA	NA	post	pre	NA	CR1	intermediate
+pt114_s3	114	201703	CR1.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	Allogeneic	No	NA	F	60-69	"46,XX[20]"	131	3	-128	145	14	NA	NA	post	pre	NA	CR1	intermediate
+pt114_s4	114	201703	CR1.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	Allogeneic	No	NA	F	60-69	"46,XY[20]"	241	3	-238	145	-96	NA	NA	post	post	NA	CR1	intermediate
+pt115_s1	115	201503	dn.AML	HEME_V1.2	7+3	anthracycline_nucleosideAnalog	NA	No	NA	F	50-59	"46,XX,del(11)(p11.2-p12p15)[13]/46,XX[10]"	0	0	0	NA	NA	NA	NA	pre	NA	NA	dn	intermediate
+pt115_s2	115	201503	rel1.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	NA	No	NA	F	50-59	"46,XX[20]"	368	0	-368	NA	NA	NA	NA	post	NA	NA	REL1	intermediate
+pt115_s3	115	201503	ref1.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	NA	No	NA	F	50-59	NA	673	0	-673	NA	NA	NA	NA	post	NA	NA	REF1	intermediate
+pt116_s1	116	201503	dn.AML	HEME_V1.2	7+3	anthracycline_nucleosideAnalog	Allogeneic	No	NA	F	50-59	"45,XX,-7[14]/46,XX[6]"	0	3	3	198	198	NA	NA	pre	pre	NA	dn	adverse
+pt116_s2	116	201503	CR1.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	Allogeneic	No	NA	F	50-59	"46,XX[20]"	55	3	-52	198	143	NA	NA	post	pre	NA	CR1	adverse
+pt116_s3	116	201503	CR1.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	Allogeneic	No	NA	F	50-59	"46,XX[20]"	170	3	-167	198	28	NA	NA	post	pre	NA	CR1	adverse
+pt116_s4	116	201503	CR1.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	Allogeneic	No	NA	F	50-59	"46,XX[20]//"	344	3	-341	198	-146	NA	NA	post	post	NA	CR1	adverse
+pt117_s1	117	201503	dn.AML	HEME_V1.2	7+3	anthracycline_nucleosideAnalog	NA	gemtuzumab ozogamicin	CD33_ADC	F	70-79	"46,XX[20]"	0	1	1	NA	NA	1223	1223	pre	NA	pre	dn	intermediate
+pt117_s2	117	201503	rel1.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	NA	gemtuzumab ozogamicin	CD33_ADC	F	70-79	"46,XX[20]"	713	1	-712	NA	NA	1223	510	post	NA	pre	REL1	intermediate
+pt118_s1	118	201504	dn.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	Allogeneic	No	NA	F	50-59	"46,XX[20]"	0	5	5	643	643	NA	NA	pre	pre	NA	dn	favorable
+pt118_s2	118	201504	CR1.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	Allogeneic	No	NA	F	50-59	"46,XX[17]"	41	5	-36	643	602	NA	NA	post	pre	NA	CR1	favorable
+pt118_s3	118	201504	CR1.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	Allogeneic	No	NA	F	50-59	"46,XX[20]"	523	5	-518	643	120	NA	NA	post	pre	NA	CR1	favorable
+pt118_s4	118	201504	rel1.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	Allogeneic	No	NA	F	50-59	"46,XX[18]"	554	5	-549	643	89	NA	NA	post	pre	NA	REL1	favorable
+pt118_s5	118	201504	recovery.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	Allogeneic	No	NA	F	50-59	"46,XX[20]"	602	5	-597	643	41	NA	NA	post	pre	NA	REC	favorable
+pt118_s6	118	201504	CR2.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	Allogeneic	No	NA	F	50-59	"46,XX[20]"	621	5	-616	643	22	NA	NA	post	pre	NA	CR2	favorable
+pt119_s1	119	201712	dn.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	Allogeneic	No	NA	M	50-59	"47,XY,+8[3]/46,XY[19]"	0	1	1	141	141	NA	NA	pre	pre	NA	dn	adverse
+pt119_s2	119	201712	CR1.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	Allogeneic	No	NA	M	50-59	"46,XY[22]"	115	1	-114	141	26	NA	NA	post	pre	NA	CR1	adverse
+pt120_s1	120	201505	dn.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	NA	No	NA	M	70-79	"46,XY[20]"	0	0	0	NA	NA	NA	NA	pre	NA	NA	dn	intermediate
+pt120_s2	120	201505	primref.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	NA	No	NA	M	70-79	"46,XY[20]"	63	0	-63	NA	NA	NA	NA	post	NA	NA	REF1	intermediate
+pt121_s1	121	201505	dn.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	Allogeneic	No	NA	F	40-49	"46,XX[20]"	0	2	2	569	569	NA	NA	pre	pre	NA	dn	adverse
+pt121_s2	121	201505	CR1.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	Allogeneic	No	NA	F	40-49	"46,XX[20]"	54	2	-52	569	515	NA	NA	post	pre	NA	CR1	adverse
+pt121_s3	121	201505	CR1.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	Allogeneic	No	NA	F	40-49	"46,XX[20]"	300	2	-298	569	269	NA	NA	post	pre	NA	CR1	adverse
+pt121_s4	121	201505	CR1.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	Allogeneic	No	NA	F	40-49	"46,XX,+1,der(1;21)(q10;q10)[16]/46,XX,der(2)t(1;2)(q12;q37)[2]/46,XX[2]"	418	2	-416	569	151	NA	NA	post	pre	NA	CR1	adverse
+pt122_s1	122	201506	dn.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	Allogeneic	No	NA	F	50-59	NA	0	1	1	701	701	NA	NA	pre	pre	NA	dn	favorable
+pt122_s2	122	201506	CR1.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	ALlogeneic	No	NA	F	50-59	"46,XX[8]"	28	1	-27	701	673	NA	NA	post	pre	NA	CR1	favorable
+pt123_s1	123	201803	dn.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	NA	No	NA	M	70-79	"46,XY"	0	7	7	NA	NA	NA	NA	pre	NA	NA	dn	adverse
+pt123_s2	123	201803	CR1.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	NA	No	NA	M	70-79	"46,XY"	40	7	-33	NA	NA	NA	NA	post	NA	NA	CR1	adverse
+pt124_s1	124	201608	dn.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	NA	No	NA	M	60-69	"48,XY,+4,+19[6]/50~55,XY,+2,+4,+4,+5,+8,+15,+16,+18,+21[cp6]/46,XY[8]"	0	6	6	NA	NA	NA	NA	pre	NA	NA	dn	adverse
+pt124_s2	124	201608	primref.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	NA	No	NA	M	60-69	"46,XY[20]"	102	6	-96	NA	NA	NA	NA	post	NA	NA	REF1	adverse
+pt125_s1	125	201710	dn.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	Allogeneic	enasidenib	IDHi	F	40-49	"48,XX,+8,+8,?t(12;16)(p13;p13.1),del(20)(q11.2q13.3)[18]/46,XX[2]"	0	5	5	150	150	NA	NA	pre	pre	NA	dn	intermediate
+pt125_s2	125	201710	CR1.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	Allogeneic	enasidenib	IDHi	F	40-49	"46,XX[20]"	52	5	-47	150	98	NA	NA	post	pre	NA	CR1	intermediate
+pt125_s3	125	201710	CR1.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	Allogeneic	enasidenib	IDHi	F	40-49	"46,XX[20]"	66	5	-61	150	84	NA	NA	post	pre	NA	CR1	intermediate
+pt125_s4	125	201710	CR1.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	Allogeneic	enasidenib	IDHi	F	40-49	"46,XX[20]"	120	5	-115	150	30	NA	NA	post	pre	NA	CR1	intermediate
+pt126_s1	126	201603	dn.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	NA	No	NA	F	50-59	NA	0	2	2	NA	NA	NA	NA	pre	NA	NA	dn	intermediate
+pt126_s2	126	201603	ref.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	NA	No	NA	F	50-59	NA	43	2	-41	NA	NA	NA	NA	post	NA	NA	REF1	intermediate
+pt127_s1	127	201507	dn.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	Allogeneic	sorafenib	FLT3i	M	50-59	"46,XY[9]"	0	4	4	NA	NA	212	212	pre	NA	pre	dn	intermediate
+pt127_s2	127	201507	CR2.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	Allogeneic	sorafenib	FLT3i	M	50-59	"46,XY[20]"	696	4	-692	NA	NA	212	-484	post	NA	post	CR2	intermediate
+pt127_s3	127	201507	CR2.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	Allogeneic	sorafenib	FLT3i	M	50-59	"46,XY[20]"	755	4	-751	NA	NA	212	-543	post	NA	post	CR2	intermediate
+pt127_s4	127	201507	CR2.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	Allogeneic	sorafenib	FLT3i	M	50-59	"46,XY[20]"	885	4	-881	NA	NA	212	-673	post	NA	post	CR2	intermediate
+pt127_s5	127	201507	CR2.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	Allogeneic	sorafenib	FLT3i	M	50-59	"46,XY[15]"	1136	4	-1132	NA	NA	212	-924	post	NA	post	CR2	intermediate
+pt128_s1	128	201509	dn.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	Allogeneic	No	NA	F	40-49	NA	0	0	0	115	115	NA	NA	pre	pre	NA	dn	intermediate
+pt128_s2	128	201509	CR1.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	Allogeneic	No	NA	F	40-49	"46,XX[20]"	98	0	-98	115	17	NA	NA	post	pre	NA	CR1	intermediate
+pt128_s3	128	201509	rel1.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	Allogeneic	No	NA	F	40-49	NA	184	0	-184	115	-69	NA	NA	post	post	NA	REL1	intermediate
+pt129_s1	129	201509	dn.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	NA	No	NA	M	60-69	NA	0	5	5	NA	NA	NA	NA	pre	NA	NA	dn	adverse
+pt129_s2	129	201509	CR1.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	NA	No	NA	M	60-69	"46,XY,t(6;9)(p12;q33)[2]/46,XY[18]"	134	5	-129	NA	NA	NA	NA	post	NA	NA	CR1	adverse
+pt130_s1	130	201610	dn.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	NA	No	NA	M	60-69	"46,XY[18]"	0	3	3	NA	NA	NA	NA	pre	NA	NA	dn	adverse
+pt130_s2	130	201610	CR1.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	NA	No	NA	M	60-69	"46,XY[20]"	35	3	-32	NA	NA	NA	NA	post	NA	NA	CR1	adverse
+pt131_s1	131	201510	dn.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	NA	No	NA	M	40-49	"46,XY,inv(16)(p13.1q22)[20]"	0	2	2	NA	NA	NA	NA	pre	NA	NA	dn	favorable
+pt131_s2	131	201510	CR1.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	NA	No	NA	M	40-49	"46,XY[20]"	107	2	-105	NA	NA	NA	NA	post	NA	NA	CR1	favorable
+pt131_s3	131	201510	rel1.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	NA	No	NA	M	40-49	"46,XY,inv(16)(p13.1q22)[3]/46,XY[20]"	254	2	-252	NA	NA	NA	NA	post	NA	NA	REL1	favorable
+pt131_s4	131	201510	CR2.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	NA	No	NA	M	40-49	"46,XY[20]"	393	2	-391	NA	NA	NA	NA	post	NA	NA	CR2	favorable
+pt131_s5	131	201510	rel2.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	NA	No	NA	M	40-49	"46,XY,inv(16)(p13.1q22)[2]/46,XY[21]"	437	2	-435	NA	NA	NA	NA	post	NA	NA	REL2	favorable
+pt132_s1	132	201510	dn.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	Allogeneic	gilteritinib	FLT3i	M	30-39	"46,XY,t(6;9)(p22;q34)[5]"	0	1	1	161	161	NA	NA	pre	pre	NA	dn	adverse
+pt132_s2	132	201510	rel1.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	Allogeneic	gilteritinib	FLT3i	M	30-39	"46,XY,t(6;9)(p22;34)[1]/46,idem,del(16)(q?13q?23)[19]"	513	1	-512	161	-352	NA	NA	post	post	NA	REL1	adverse
+pt132_s3	132	201510	rel1.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	Allogeneic	gilteritinib	FLT3i	M	30-39	NA	635	1	-634	161	-474	NA	NA	post	post	NA	REL1	adverse
+pt132_s4	132	201510	rel1.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	Allogeneic	gilteritinib	FLT3i	M	30-39	"46,XY,t(6;9)(p22;q34),del(16)(q12q23)[20]"	651	1	-650	161	-490	NA	NA	post	post	NA	REL1	adverse
+pt132_s5	132	201510	ref1.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	Allogeneic	UPCC 01417	FLT3i	M	30-39	"46,XY,t(6;9)(p22;q34),del(16)(q12q23)[20]"	686	1	-685	161	-525	NA	NA	post	post	NA	REF1	adverse
+pt133_s1	133	201510	dn.AML	HEME_V2.3	MEC	MEC	Allogeneic	No	NA	F	60-69	"47,XX,+i(4)(p10)[20].ish i(4)(p10)(FGFR3++)[10]"	0	6	6	618	618	NA	NA	pre	pre	NA	dn	intermediate
+pt133_s2	133	201510	rel1.AML	HEME_V2.3	MEC	MEC	Allogeneic	No	NA	F	60-69	"46,XX[20]"	507	6	-501	618	111	NA	NA	post	pre	NA	REL1	intermediate
+pt133_s3	133	201510	rel1.AML	HEME_V2.3	MEC	MEC	Allogeneic	No	NA	F	60-69	"46,XX[20]"	562	6	-556	618	56	NA	NA	post	pre	NA	REL1	intermediate
+pt134_s1	134	201511	dn.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	NA	sorafenib	FLT3i	M	30-39	"46,XY,t(6;9)(p22;q34)[20]"	0	0	0	NA	NA	63	63	pre	NA	pre	dn	adverse
+pt134_s2	134	201511	CR1.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	NA	sorafenib	FLT3i	M	30-39	"46,XY,t(6;9)(p22;q34),del(12)(p12p13)[12]/46,idem,?t(5;13;17;10)(p13;q?13;q22;p1 3)[8]"	490	0	-490	NA	NA	63	-427	post	NA	post	CR1	adverse
+pt134_s3	134	201511	rel1.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	NA	sorafenib	FLT3i	M	30-39	"46,XY,t(6;9)(p22;q34),del(12)(p12p13)[10]/46,XY[6]"	531	0	-531	NA	NA	63	-468	post	NA	post	REL1	adverse
+pt134_s4	134	201511	ref1.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	NA	sorafenib	FLT3i	M	30-39	"46,XY,t(6;9)(p22;q34),del(12)(p12p13)[13]/46,idem,t(1;18)(p13;q21), del(3)(p25),t(5;15)(q22;q26),?del(15)(q24),add(19)(p13.3)[2]"	827	0	-827	NA	NA	63	-764	post	NA	post	REF1	adverse
+pt135_s1	135	201512	dn.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	Allogeneic	No	NA	F	60-69	"46,XX[20]"	0	0	0	122	122	NA	NA	pre	pre	NA	dn	intermediate
+pt135_s2	135	201512	CR1.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	Allogeneic	No	NA	F	60-69	"46,XX[20]"	92	0	-92	122	30	NA	NA	post	pre	NA	CR1	intermediate
+pt135_s3	135	201512	CR1.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	Allogeneic	No	NA	F	60-69	"//46,XY[20]"	365	0	-365	122	-243	NA	NA	post	post	NA	CR1	intermediate
+pt136_s1	136	201512	dn.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	Allogeneic	No	NA	M	50-59	"46,XY,add(12)(p?13),del(16)(q?22)[8]"	0	22	22	125	125	NA	NA	pre	pre	NA	dn	adverse
+pt136_s2	136	201512	CR2.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	Allogeneic	No	NA	M	50-59	"46,XY[20]"	463	22	-441	125	-338	NA	NA	post	post	NA	CR2	adverse
+pt136_s3	136	201512	CR2.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	Allogeneic	No	NA	M	50-59	"46,XY[20]"	635	22	-613	125	-510	NA	NA	post	post	NA	CR2	adverse
+pt136_s4	136	201512	rel2.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	Allogeneic	No	NA	M	50-59	"46,XY[20]"	712	22	-690	125	-587	NA	NA	post	post	NA	REL2	adverse
+pt137_s1	137	201512	dn.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	Allogeneic	No	NA	M	50-59	"46,XY[5]"	0	0	0	209	209	NA	NA	pre	pre	NA	dn	intermediate
+pt137_s2	137	201512	CR1.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	Allogeneic	No	NA	M	50-59	"46,XY[20]"	588	0	-588	209	-379	NA	NA	post	post	NA	CR1	intermediate
+pt138_s1	138	201512	dn.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	NA	No	NA	F	60-69	"46,XX,inv(9)(p12q13)c,t(11;19)(q23;p13.1)[15]"	0	1	1	NA	NA	NA	NA	pre	NA	NA	dn	adverse
+pt138_s2	138	201512	CR1.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	NA	No	NA	F	60-69	"46,XX,inv(9)(p12q13)c,t(11;19)(q23;p13.1)[6]/ 46,XX,inv(9)(p12q13)c[9]"	31	1	-30	NA	NA	NA	NA	post	NA	NA	CR1	adverse
+pt138_s3	138	201512	MDS?	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	NA	No	NA	F	60-69	"46,XX,inv(9)(p12q13)c,t(11;19)(q23;p13.1)[7]/46,sl,t(6;10)(p21;q22),t(7;15)(p13;q25),del(15)(q11.2q21)[10]//46,XY,inv(9)(p12q13)c[3]"	192	1	-191	NA	NA	NA	NA	post	NA	NA	MDS?	adverse
+pt138_s4	138	201512	ref1.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	NA	No	NA	F	60-69	"46,XX,inv(9)(p12q13)c,t(11;19)(q23;p13.1)[3]/46,idem,t(6;10)(p21;q22),t(7;15)(p13;q25),del(15)(q11.2q21)[17]"	246	1	-245	NA	NA	NA	NA	post	NA	NA	REF1	adverse
+pt139_s1	139	201601	dn.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	Allogeneic	No	NA	F	50-59	"46,XX[20]"	0	1	1	826	826	NA	NA	pre	pre	NA	dn	adverse
+pt139_s2	139	201601	rel1.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	Allogeneic	No	NA	F	50-59	"46,XX,inv(16)(p13.1q22)[13]/46,XX[7]"	743	1	-742	826	83	NA	NA	post	pre	NA	REL1	adverse
+pt140_s1	140	201801	dn.AML	HEME_V2.3	7+3+gemtuzumab	anthracycline_nucleosideAnalog_CD33ab	Allogeneic	No	NA	F	30-39	"46,XX,t(8;21)(8pter->8q13;21qter->21q22::8q22->8q?::21p?->21q22::8q?->8q22::8q?- >8qter)[20]"	0	3	3	325	325	NA	NA	pre	pre	NA	dn	favorable
+pt140_s2	140	201801	CR1.AML	HEME_V2.3	7+3+gemtuzumab	anthracycline_nucleosideAnalog_CD33ab	Allogeneic	No	NA	F	30-39	"46,XX,t(8;21)(8pter->8q13;21qter->21q22::8q22->8q?::21p?->21q22::8q?->8q22::8q?- >8qter)[1]/46,XX[19]"	45	3	-42	325	280	NA	NA	post	pre	NA	CR1	favorable
+pt140_s3	140	201801	CR1.AML	HEME_V2.3	7+3+gemtuzumab	anthracycline_nucleosideAnalog_CD33ab	Allogeneic	No	NA	F	30-39	"46,XX[20]"	120	3	-117	325	205	NA	NA	post	pre	NA	CR1	favorable
+pt141_s1	141	201607	dn.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	NA	No	NA	M	50-59	NA	0	1	1	NA	NA	NA	NA	pre	NA	NA	dn	intermediate
+pt141_s2	141	201607	ref.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	NA	No	NA	M	50-59	"46,XY[2]"	38	1	-37	NA	NA	NA	NA	post	NA	NA	REF1	intermediate
+pt141_s3	141	201607	CR1.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	NA	No	NA	M	50-59	"46,XY[2]"	107	1	-106	NA	NA	NA	NA	post	NA	NA	CR1	intermediate
+pt141_s4	141	201607	rel1.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	NA	No	NA	M	50-59	"46,XY,t(8;16)(p11.1;p13.3),add(13)(p11.2),add(19)(p13.3)x2[1]"	184	1	-183	NA	NA	NA	NA	post	NA	NA	REL1	intermediate
+pt142_s1	142	201601	dn.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	Allogeneic	No	NA	F	60-69	"46,XY,t(6;20)(q21;q13.1)[12]/46,XY[8]"	0	0	0	140	140	NA	NA	pre	pre	NA	dn	adverse
+pt142_s2	142	201601	CR1.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	Allogeneic	No	NA	F	60-69	"46,XX[20]"	233	0	-233	140	-93	NA	NA	post	post	NA	CR1	adverse
+pt143_s1	143	201602	dn.AML	HEME_V2.3	cytarabine+lintuzumab	nucleosideAnalog_CD33ab	NA	gilteritinib	FLT3i	F	70-79	"46,XX[15]"	0	5	5	NA	NA	204	204	pre	NA	pre	dn	intermediate
+pt143_s2	143	201602	primref.AML	HEME_V2.3	cytarabine+lintuzumab	nucleosideAnalog_CD33ab	NA	gilteritinib	FLT3i	F	70-79	"46,XX[15]"	194	5	-189	NA	NA	204	10	post	NA	pre	REF1	intermediate
+pt144_s1	144	201602	dn.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	NA	No	NA	F	50-59	NA	0	0	0	NA	NA	NA	NA	pre	NA	NA	dn	favorable
+pt144_s2	144	201602	rel1.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	NA	No	NA	F	50-59	NA	277	0	-277	NA	NA	NA	NA	post	NA	NA	REL1	favorable
+pt145_s1	145	201603	dn.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	NA	No	NA	M	70-79	"46,XY,t(8;21)(q22;q22)[20]"	0	1	1	NA	NA	NA	NA	pre	NA	NA	dn	favorable
+pt145_s2	145	201603	rel1.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	NA	No	NA	M	70-79	NA	354	1	-353	NA	NA	NA	NA	post	NA	NA	REL1	favorable
+pt146_s1	146	201603	dn.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	Allogeneic	No	NA	M	60-69	"46,X,-Y,-3,-5,-11,i(11)(q10),add(12)(p12),+del(?14)(q24),der(15) t(5;15)(p10;q10),der(16)t(?11;16)(q13;q24),+21,+22,+mar[20]"	0	2	2	104	104	NA	NA	pre	pre	NA	dn	adverse
+pt146_s2	146	201603	CR1.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	Allogeneic	No	NA	M	60-69	"45-46,XY,-Y,der(5;15)(p10;q10),+mar[cp2]/46,XY[18]"	160	2	-158	104	-56	NA	NA	post	post	NA	CR1	adverse
+pt147_s1	147	201604	dn.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	Allogeneic	No	NA	M	70-79	"47,X,der(Y)t(Y;1)(q11.23~q12;q12~q21),+8,del(20)(q11.2)[19]/ 46,XY[3]."	0	4	4	123	123	NA	NA	pre	pre	NA	dn	intermediate
+pt147_s2	147	201604	CR1.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	Allogeneic	No	NA	M	70-79	"46,XY[20]"	105	4	-101	123	18	NA	NA	post	pre	NA	CR1	intermediate
+pt148_s1	148	201605	dn.AML	HEME_V2.3	MEC	MEC	NA	No	NA	F	70-79	"45,XX,inv(3)(q21q26),-7[20]"	0	7	7	NA	NA	NA	NA	pre	NA	NA	dn	adverse
+pt148_s2	148	201605	primref.AML	HEME_V2.3	MEC	MEC	NA	No	NA	F	70-79	"45,XX,inv(3)(q21q26),-7[20]"	176	7	-169	NA	NA	NA	NA	post	NA	NA	REF1	adverse
+pt149_s1	149	201605	dn.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	NA	No	NA	M	60-69	NA	0	-2	-2	NA	NA	NA	NA	pre	NA	NA	dn	favorable
+pt149_s2	149	201605	CR1.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	NA	No	NA	M	60-69	NA	29	-2	-31	NA	NA	NA	NA	post	NA	NA	CR1	favorable
+pt149_s3	149	201605	rel1.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	NA	No	NA	M	60-69	"45,X,-Y[6]/46,XY[2]"	150	-2	-152	NA	NA	NA	NA	post	NA	NA	REL1	favorable
+pt150_s1	150	201605	dn.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	Allogeneic	No	NA	F	60-69	"45,XX,-4,add(7)(q11.2),der(17)t(?14;17)(q12;p11.2)[7]/46 49,sl,+8,add(11)(q22),-13,-18,+2 5mar[11]/46 49,sdl,del(3)(q21)[3]"	0	0	0	177	177	NA	NA	pre	pre	NA	dn	adverse
+pt150_s2	150	201605	CR1.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	Allogeneic	No	NA	F	60-69	"46,XX[17]"	277	0	-277	177	-100	NA	NA	post	post	NA	CR1	adverse
+pt150_s3	150	201605	CR1.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	Allogeneic	No	NA	F	60-69	"46,XX[20]"	368	0	-368	177	-191	NA	NA	post	post	NA	CR1	adverse
+pt150_s4	150	201605	rel1.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	Allogeneic	No	NA	F	60-69	"43 46,XX,add(2)(p25),-4,add(5)(q22),add(7)(q11.2),-9,der(11)add(11)(p11.2)del(11)(q 23),+der(11)del(11)(p15)?inv(11)(p15q23),der(12)del(12)(q13q15)del(12)(q22q24.1) ,-13,-15,-17,-20,add(21)(q22),+1 3mar[cp10]/39 44,idem,-X,add(3)(q21),+13,add(18)(q21),-add(21)(q22),+21,-mar,?dmin[cp6]/46,XX[ 5]"	567	0	-567	177	-390	NA	NA	post	post	NA	REL1	adverse
+pt151_s1	151	201606	dn.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	NA	No	NA	F	70-79	"46,XX[20]"	0	7	7	NA	NA	NA	NA	pre	NA	NA	dn	intermediate
+pt151_s2	151	201606	CR1.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	NA	No	NA	F	70-79	"46,XX[3]"	32	7	-25	NA	NA	NA	NA	post	NA	NA	CR1	intermediate
+pt151_s3	151	201606	CR1.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	NA	No	NA	F	70-79	"46,XX[20]"	70	7	-63	NA	NA	NA	NA	post	NA	NA	CR1	intermediate
+pt152_s1	152	201606	dn.AML	HEME_V2.3	Idarubicin/HDAC	anthracycline_HDAC	Allogeneic	No	NA	F	50-59	NA	0	5	5	143	143	NA	NA	pre	pre	NA	dn	intermediate
+pt152_s2	152	201606	CR1.AML	HEME_V2.3	Idarubicin/HDAC	anthracycline_HDAC	Allogeneic	No	NA	F	50-59	"46,XY[20]"	499	5	-494	143	-356	NA	NA	post	post	NA	CR1	intermediate
+pt153_s1	153	201606	dn.AML	HEME_V2.3	7+3+gilteritinib	anthracycline_nucleosideAnalog_FLT3i	Allogeneic	gilteritinib	FLT3i	M	20-29	"46,XY[20]"	0	7	7	96	96	7	7	pre	pre	pre	dn	adverse
+pt153_s2	153	201606	CR1.AML	HEME_V2.3	7+3+gilteritinib	anthracycline_nucleosideAnalog_FLT3i	Allogeneic	gilteritinib	FLT3i	M	20-29	NA	82	7	-75	96	14	7	-75	post	pre	post	CR1	adverse
+pt154_s1	154	201608	dn.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	NA	No	NA	F	70-79	"46,XX[20]"	0	5	5	NA	NA	NA	NA	pre	NA	NA	dn	intermediate
+pt154_s2	154	201608	primref.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	NA	No	NA	F	70-79	"46,XX[20]"	34	5	-29	NA	NA	NA	NA	post	NA	NA	REF1	intermediate
+pt154_s3	154	201608	rel1.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	NA	No	NA	F	70-79	"46,XX,del(3)(q?12q26)[11]/46,XX[9]"	92	5	-87	NA	NA	NA	NA	post	NA	NA	REL1	intermediate
+pt155_s1	155	201610	dn.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	Allogeneic	No	NA	F	60-69	"46,XX[22]"	0	9	9	119	119	NA	NA	pre	pre	NA	dn	intermediate
+pt155_s2	155	201610	CR1.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	Allogeneic	No	NA	F	60-69	"46,XX[20]"	37	9	-28	119	82	NA	NA	post	pre	NA	CR1	intermediate
+pt156_s1	156	201610	dn.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	NA	No	NA	F	60-69	NA - Hypercellular blood	0	4	4	NA	NA	NA	NA	pre	NA	NA	dn	favorable
+pt156_s2	156	201610	CR1.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	NA	No	NA	F	60-69	"46,XX[20]"	39	4	-35	NA	NA	NA	NA	post	NA	NA	CR1	favorable
+pt156_s3	156	201610	rel1.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	NA	No	NA	F	60-69	"46,XX[20]"	118	4	-114	NA	NA	NA	NA	post	NA	NA	REL1	favorable
+pt158_s1	158	201612	dn.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	Allogeneic	No	NA	F	20-29	"46,XX,t(11;19)(q23;p13.1)[20]"	0	1	1	175	175	NA	NA	pre	pre	NA	dn	intermediate
+pt158_s2	158	201612	CR1.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	Allogeneic	No	NA	F	20-29	"46,XX[20]"	157	1	-156	175	18	NA	NA	post	pre	NA	CR1	intermediate
+pt158_s3	158	201612	CR1.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	Allogeneic	No	NA	F	20-29	"46,XY[20]"	270	1	-269	175	-95	NA	NA	post	post	NA	CR1	intermediate
+pt158_s4	158	201612	CR1.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	Allogeneic	No	NA	F	20-29	"46,XY[20]"	528	1	-527	175	-353	NA	NA	post	post	NA	CR1	intermediate
+pt159_s1	159	201612	dn.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	Allogeneic	No	NA	M	50-59	"46,XY,inv(9)(p12q13)c[20]"	0	5	5	669	669	NA	NA	pre	pre	NA	dn	adverse
+pt159_s2	159	201612	CR1.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	Allogeneic	No	NA	M	50-59	"46,XY,inv(9)(p12q13)c[20]"	56	5	-51	669	613	NA	NA	post	pre	NA	CR1	adverse
+pt159_s3	159	201612	CR1.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	Allogeneic	No	NA	M	50-59	"46,XY,inv(9)(p12q13)c[17]"	167	5	-162	669	502	NA	NA	post	pre	NA	CR1	adverse
+pt159_s4	159	201612	CR1.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	Allogeneic	No	NA	M	50-59	"46,XY,inv(9)(p12q13)c[20]"	209	5	-204	669	460	NA	NA	post	pre	NA	CR1	adverse
+pt159_s5	159	201612	CR1.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	Allogeneic	No	NA	M	50-59	"46,XY,inv(9)(p12q13)c[20]"	346	5	-341	669	323	NA	NA	post	pre	NA	CR1	adverse
+pt160_s1	160	201703	dn.AML	HEME_V2.3	7+3+quizartinib	anthracycline_nucleosideAnalog_FLT3i	Allogeneic	sorafenib	FLT3i	F	60-69	"46,XX[20]"	0	0	0	149	149	NA	NA	pre	pre	NA	dn	intermediate
+pt160_s2	160	201703	CR1.AML	HEME_V2.3	7+3+quizartinib	anthracycline_nucleosideAnalog_FLT3i	Allogeneic	sorafenib	FLT3i	F	60-69	"46,XX[20]"	27	0	-27	149	122	390	363	post	pre	pre	CR1	intermediate
+pt160_s3	160	201703	CR1.AML	HEME_V2.3	7+3+quizartinib	anthracycline_nucleosideAnalog_FLT3i	Allogeneic	sorafenib	FLT3i	F	60-69	"46,XX[20]"	43	0	-43	149	106	390	347	post	pre	pre	CR1	intermediate
+pt160_s4	160	201703	CR1.AML	HEME_V2.3	7+3+quizartinib	anthracycline_nucleosideAnalog_FLT3i	Allogeneic	sorafenib	FLT3i	F	60-69	"46,XX[20]"	91	0	-91	149	58	390	299	post	pre	pre	CR1	intermediate
+pt160_s5	160	201703	CR1.AML	HEME_V2.3	7+3+quizartinib	anthracycline_nucleosideAnalog_FLT3i	Allogeneic	sorafenib	FLT3i	F	60-69	"46,XX[20]"	127	0	-127	149	22	390	263	post	pre	pre	CR1	intermediate
+pt160_s6	160	201703	CR1.AML	HEME_V2.3	7+3+quizartinib	anthracycline_nucleosideAnalog_FLT3i	Allogeneic	sorafenib	FLT3i	F	60-69	"46,XX[20]"	184	0	-184	149	-35	390	206	post	post	pre	CR1	intermediate
+pt160_s7	160	201703	CR1.AML	HEME_V2.3	7+3+quizartinib	anthracycline_nucleosideAnalog_FLT3i	Allogeneic	sorafenib	FLT3i	F	60-69	"46,XX[20]"	327	0	-327	149	-178	390	63	post	post	pre	CR1	intermediate
+pt160_s8	160	201703	rel1.AML	HEME_V2.3	7+3+quizartinib	anthracycline_nucleosideAnalog_FLT3i	Allogeneic	sorafenib	FLT3i	F	60-69	"46,XX[20]"	383	0	-383	149	-234	390	7	post	post	pre	REL1	intermediate
+pt161_s1	161	201703	dn.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	Allogeneic	No	NA	M	60-69	"46,XY[13]"	0	6	6	217	217	NA	NA	pre	pre	NA	dn	adverse
+pt161_s2	161	201703	CR1.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	Allogeneic	No	NA	M	60-69	"47,XY,+Y?c[3]/46,XY[17]"	68	6	-62	217	149	NA	NA	post	pre	NA	CR1	adverse
+pt161_s3	161	201703	CR1.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	Allogeneic	No	NA	M	60-69	"46,XY[20]"	182	6	-176	217	35	NA	NA	post	pre	NA	CR1	adverse
+pt161_s4	161	201703	CR1.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	Allogeneic	No	NA	M	60-69	"46,XY[20]"	300	6	-294	217	-83	NA	NA	post	post	NA	CR1	adverse
+pt162_s1	162	201704	dn.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	Allogeneic	No	NA	M	60-69	"47,XY,+8[15]/46,XY[5]"	0	3	3	232	232	NA	NA	pre	pre	NA	dn	favorable
+pt162_s2	162	201704	CR1.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	Allogeneic	No	NA	M	60-69	"46,XY[20]"	155	3	-152	232	77	NA	NA	post	pre	NA	CR1	favorable
+pt162_s3	162	201704	CR1.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	Allogeneic	No	NA	M	60-69	"47,XY,add(4)(p15),+8,inv(9)(p22q21),del(13)(q12q14)[12]/47,idem,dup(7)(q32q36),a dd(9)(q34),-del(13),+13[4]/46,XY[4]"	323	3	-320	232	-91	NA	NA	post	post	NA	CR1	favorable
+pt162_s4	162	201704	rel1.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	Allogeneic	No	NA	M	60-69	"47,XY,add(4)(p15),+8,inv(9)(p22q21),del(13)(q12q14)[1]/46,XY[8]"	406	3	-403	232	-174	NA	NA	post	post	NA	REL1	favorable
+pt162_s5	162	201704	rel1.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	Allogeneic	No	NA	M	60-69	"47,XY,add(4)(p15),+8,inv(9)(p22q21),del(13)(q12q14)[5]/46,XY[13]"	428	3	-425	232	-196	NA	NA	post	post	NA	REL1	favorable
+pt163_s1	163	201705	dn.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	Allogeneic	No	NA	F	50-59	"46,XX[20]"	0	10	10	479	479	NA	NA	pre	pre	NA	dn	adverse
+pt163_s2	163	201705	CR1.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	Allogeneic	No	NA	F	50-59	"46,XX[20]"	38	10	-28	479	441	NA	NA	post	pre	NA	CR1	adverse
+pt163_s3	163	201705	CR1.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	Allogeneic	No	NA	F	50-59	"46,XX[20]"	142	10	-132	479	337	NA	NA	post	pre	NA	CR1	adverse
+pt163_s4	163	201705	CR1.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	Allogeneic	No	NA	F	50-59	"46,XX[20]"	370	10	-360	479	109	NA	NA	post	pre	NA	CR1	adverse
+pt164_s1	164	201705	dn.AML	HEME_V2.3	lintuzumab	CD33ab_monotherapy	NA	gilteritinib	FLT3i	F	70-79	NA	0	0	0	NA	NA	NA	NA	pre	NA	NA	dn	intermediate
+pt164_s2	164	201705	CR1.AML	HEME_V2.3	lintuzumab	CD33ab_monotherapy	NA	gilteritinib	FLT3i	F	70-79	"46,XX,del(6)(q21q25)[2]/46,XX[19]"	98	0	-98	NA	NA	NA	NA	post	NA	NA	CR1	intermediate
+pt164_s3	164	201705	rel1.AML	HEME_V2.3	lintuzumab	CD33ab_monotherapy	NA	gilteritinib	FLT3i	F	70-79	"46,XX[5]"	290	0	-290	NA	NA	NA	NA	post	NA	NA	REL1	intermediate
+pt165_s1	165	201705	dn.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	NA	No	NA	F	60-69	NA	0	0	0	NA	NA	NA	NA	pre	NA	NA	dn	adverse
+pt165_s2	165	201705	CR1.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	NA	No	NA	F	60-69	NA	150	0	-150	NA	NA	NA	NA	post	NA	NA	CR1	adverse
+pt166_s1	166	201705	dn.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	Allogeneic	No	NA	M	70-79	"46,XY,del(7)(q22q31)[17]/46,XY[1]"	0	1	1	261	261	NA	NA	pre	pre	NA	dn	adverse
+pt166_s2	166	201705	CR1.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	Allogeneic	No	NA	M	70-79	"46,XY[20]"	129	1	-128	261	132	NA	NA	post	pre	NA	CR1	adverse
+pt166_s3	166	201705	CR1.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	Allogeneic	No	NA	M	70-79	"46,XY[20]"	241	1	-240	261	20	NA	NA	post	pre	NA	CR1	adverse
+pt166_s4	166	201705	CR2.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	Allogeneic	No	NA	M	70-79	"46,XY[15]"	364	1	-363	261	-103	NA	NA	post	post	NA	CR2	adverse
+pt167_s1	167	201706	dn.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	NA	ivosidenib	IDHi	F	60-69	"46,XX,+1,der(1;7)(q10;p10)[11]/46,XX[9]"	0	10	10	NA	NA	232	232	pre	NA	pre	dn	adverse
+pt167_s2	167	201706	CR1.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	NA	ivosidenib	IDHi	F	60-69	"46,XX[20]"	56	10	-46	NA	NA	232	176	post	NA	pre	CR1	adverse
+pt167_s3	167	201706	CR1.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	NA	ivosidenib	IDHi	F	60-69	"46,XX,+1,der(1;7)(q10;p10)[1]/46,XX[20]"	94	10	-84	NA	NA	232	138	post	NA	pre	CR1	adverse
+pt168_s1	168	201707	dn.AML	HEME_V2.3	MEC	MEC	NA	guadecitabine	NA	M	60-69	"48,XY,+i(5)(p10),+8[19]/49,idem,+i(5)(p10)[1]"	0	0	0	NA	NA	126	126	pre	NA	pre	dn	favorable
+pt168_s2	168	201707	CR1.AML	HEME_V2.3	MEC	MEC	NA	guadecitabine	NA	M	60-69	"46,XY[20]"	35	0	-35	NA	NA	126	91	post	NA	pre	CR1	favorable
+pt168_s3	168	201707	rel1.AML	HEME_V2.3	MEC	MEC	NA	guadecitabine	NA	M	60-69	NA	104	0	-104	NA	NA	126	22	post	NA	pre	REL1	favorable
+pt169_s1	169	201710	dn.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	Allogeneic	No	NA	F	60-69	"46,XX[20]"	0	7	7	190	190	NA	NA	pre	pre	NA	dn	adverse
+pt169_s2	169	201710	CR1.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	Allogeneic	No	NA	F	60-69	"46,XX[20]"	104	7	-97	190	86	NA	NA	post	pre	NA	CR1	adverse
+pt169_s3	169	201710	CR1.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	Allogeneic	No	NA	F	60-69	"46,XX[20]"	156	7	-149	190	34	NA	NA	post	pre	NA	CR1	adverse
+pt170_s1	170	201708	dn.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	Allogeneic	No	NA	F	50-59	"46,XX,inv(16)(p13.1q22)[20]"	0	2	2	399	399	NA	NA	pre	pre	NA	dn	favorable
+pt170_s2	170	201708	CR1.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	Allogeneic	No	NA	F	50-59	"46,XX[20]"	38	2	-36	399	361	NA	NA	post	pre	NA	CR1	favorable
+pt170_s3	170	201708	ref1.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	Allogeneic	No	NA	F	50-59	"46,XX[20]"	175	2	-173	399	224	NA	NA	post	pre	NA	REF1	favorable
+pt171_s1	171	201712	dn.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	NA	sorafenib	FLT3i	M	60-69	"46,XY[20]"	0	4	4	NA	NA	96	96	pre	NA	pre	dn	intermediate
+pt171_s2	171	201712	CR1.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	NA	sorafenib	FLT3i	M	60-69	NA	40	4	-36	NA	NA	96	56	post	NA	pre	CR1	intermediate
+pt172_s1	172	201709	dn.AML	HEME_V2.3	decitabine monotherapy	HMA_monotherapy	NA	No	NA	F	70-79	"46,XX,del(7)(q22q32)[18]/46,XX[2]"	0	0	0	NA	NA	NA	NA	pre	NA	NA	dn	intermediate
+pt172_s2	172	201709	CR1.AML	HEME_V2.3	decitabine monotherapy	HMA_monotherapy	NA	No	NA	F	70-79	NA	118	0	-118	NA	NA	NA	NA	post	NA	NA	CR1	intermediate
+pt173_s1	173	201709	dn.AML	HEME_V2.3	7+3+gemtuzumab	anthracycline_nucleosideAnalog_CD33ab	NA	gemtuzumab ozogamicin	CD33_ADC	M	50-59	"46,XY[20]"	0	8	8	NA	NA	49	49	pre	NA	pre	dn	favorable
+pt173_s2	173	201709	CR1.AML	HEME_V2.3	7+3+gemtuzumab	anthracycline_nucleosideAnalog_CD33ab	NA	gemtuzumab ozogamicin	CD33_ADC	M	50-59	"46,XY[20]"	39	8	-31	NA	NA	49	10	post	NA	pre	CR1	favorable
+pt174_s1	174	201710	dn.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	Allogeneic	No	NA	M	30-39	"46,XY,t(9;11)(p21;q23)[5]"	0	0	0	125	125	NA	NA	pre	pre	NA	dn	intermediate
+pt174_s2	174	201710	CR1.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	Allogeneic	No	NA	M	30-39	"46,XY[20]"	39	0	-39	125	86	NA	NA	post	pre	NA	CR1	intermediate
+pt174_s3	174	201710	CR1.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	Allogeneic	No	NA	M	30-39	"46,XY[20]"	105	0	-105	125	20	NA	NA	post	pre	NA	CR1	intermediate
+pt174_s4	174	201710	CR1.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	Allogeneic	No	NA	M	30-39	"46,XY[20]"	221	0	-221	125	-96	NA	NA	post	post	NA	CR1	intermediate
+pt175_s1	175	201710	dn.AML	HEME_V2.3	7+3+midostaurin	anthracycline_nucleosideAnalog_FLT3i	NA	No	NA	F	50-59	"46,XX[23]"	0	0	0	NA	NA	NA	NA	pre	NA	NA	dn	favorable
+pt175_s2	175	201710	CR1.AML	HEME_V2.3	7+3+midostaurin	anthracycline_nucleosideAnalog_FLT3i	NA	No	NA	F	50-59	"46,XX[20]"	37	0	-37	NA	NA	NA	NA	post	NA	NA	CR1	favorable
+pt175_s3	175	201710	CR1.AML	HEME_V2.3	7+3+midostaurin	anthracycline_nucleosideAnalog_FLT3i	NA	No	NA	F	50-59	"46,XX[20]"	150	0	-150	NA	NA	NA	NA	post	NA	NA	CR1	favorable
+pt176_s1	176	201711	dn.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	Allogeneic	No	NA	M	40-49	"46,XY[21]"	0	0	0	189	189	NA	NA	pre	pre	NA	dn	adverse
+pt176_s2	176	201711	CR1.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	Allogeneic	No	NA	M	40-49	"46,XY[20]"	61	0	-61	189	128	NA	NA	post	pre	NA	CR1	adverse
+pt176_s3	176	201711	CR1.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	Allogeneic	No	NA	M	40-49	"46,XY[20]"	102	0	-102	189	87	NA	NA	post	pre	NA	CR1	adverse
+pt176_s4	176	201711	CR1.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	Allogeneic	No	NA	M	40-49	"46,XY[20]"	131	0	-131	189	58	NA	NA	post	pre	NA	CR1	adverse
+pt176_s5	176	201711	CR1.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	Allogeneic	No	NA	M	40-49	"46,XY[20]"	167	0	-167	189	22	NA	NA	post	pre	NA	CR1	adverse
+pt177_s1	177	201711	dn.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	NA	No	NA	F	70-79	NA	0	5	5	NA	NA	NA	NA	pre	NA	NA	dn	adverse
+pt177_s2	177	201711	CR1.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	NA	No	NA	F	70-79	"46,XX,del(5)(q22q34)[1]/45,idem,dic(6;17)(p?22;p11.2),add(12)(p13),-18[6]/46,XX[ 15]"	84	5	-79	NA	NA	NA	NA	post	NA	NA	CR1	adverse
+pt178_s1	178	201712	dn.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	NA	sorafenib	FLT3i	F	60-69	"47,XX,+8[5]"	0	4	4	NA	NA	86	86	pre	NA	pre	dn	intermediate
+pt178_s2	178	201712	rel1.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	NA	midostaurin	FLT3i	F	60-69	"47,XX,+8[13]/46,XX[1]"	79	4	-75	NA	NA	98	19	post	NA	pre	REL1	intermediate
+pt179_s1	179	201801	dn.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	NA	No	NA	F	50-59	"46,XX,18,+r[5]/46.XX[15]."	0	5	5	NA	NA	NA	NA	pre	NA	NA	dn	favorable
+pt179_s2	179	201801	CR1.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	NA	No	NA	F	50-59	"46,XX[20]"	36	5	-31	NA	NA	NA	NA	post	NA	NA	CR1	favorable
+pt180_s1	180	201712	dn.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	NA	No	NA	M	40-49	"46,XY[24]"	0	0	0	NA	NA	NA	NA	pre	NA	NA	dn	intermediate
+pt180_s2	180	201712	CR1.AML	HEME_V2.3	7+3	anthracycline_nucleosideAnalog	NA	No	NA	M	40-49	NA	34	0	-34	NA	NA	NA	NA	post	NA	NA	CR1	intermediate
+pt181_s1	181	201802	dn.AML	HEME_V2.3	7+3+midostaurin	anthracycline_nucleosideAnalog_FLT3i	Allogeneic	gilteritinib	FLT3i	M	60-69	"47,XY,+8[8]/46,XY[12]"	0	0	0	151	151	NA	NA	pre	pre	NA	dn	adverse
+pt181_s2	181	201802	CR1.AML	HEME_V2.3	7+3+midostaurin	anthracycline_nucleosideAnalog_FLT3i	Allogeneic	gilteritinib	FLT3i	M	60-69	"46,XY[20]"	35	2	-33	151	116	NA	NA	post	pre	NA	CR1	adverse
+pt181_s3	181	201802	CR1.AML	HEME_V2.3	7+3+midostaurin	anthracycline_nucleosideAnalog_FLT3i	Allogeneic	gilteritinib	FLT3i	M	60-69	"46,XY[20]"	43	2	-41	151	108	NA	NA	post	pre	NA	CR1	adverse
+pt182_s1	182	201805	dn.AML	HEME_V2.3	7+3+midostaurin	anthracycline_nucleosideAnalog_FLT3i	Allogeneic	No	NA	M	50-59	"46,XY[20]"	0	1	1	113	113	NA	NA	pre	pre	NA	dn	intermediate
+pt182_s2	182	201805	CR1.AML	HEME_V2.3	7+3+midostaurin	anthracycline_nucleosideAnalog_FLT3i	Allogeneic	No	NA	M	50-59	NA	21	1	-20	113	92	NA	NA	post	pre	NA	CR1	intermediate
+pt182_s3	182	201805	CR1.AML	HEME_V2.3	7+3+midostaurin	anthracycline_nucleosideAnalog_FLT3i	Allogeneic	No	NA	M	50-59	"46,XY[20]"	33	1	-32	113	80	NA	NA	post	pre	NA	CR1	intermediate
+pt183_s1	183	201803	dn.AML	HEME_V2.3	7+3+midostaurin	anthracycline_nucleosideAnalog_FLT3i	Allogeneic	gilteritinib	FLT3i	M	60-69	"47,XY,+11[19]/46,XY[1]"	0	2	2	177	177	350	350	pre	pre	pre	dn	adverse
+pt183_s2	183	201803	CR1.AML	HEME_V2.3	7+3+midostaurin	anthracycline_nucleosideAnalog_FLT3i	Allogeneic	gilteritinib	FLT3i	M	60-69	"46,XY[20]"	56	2	-54	177	121	350	294	post	pre	pre	CR1	adverse

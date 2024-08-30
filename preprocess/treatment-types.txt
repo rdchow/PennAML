@@ -1,0 +1,46 @@
+initialTreatment	initialTreatment_class	renameInitialTreatment	simpleInitialTreatment
+Dauno/Ara-C	7+3	7+3	anthracycline_nucleosideAnalog
+Ida/Ara-C	7+3	7+3	anthracycline_nucleosideAnalog
+7+3 Dauno/Ara-C	7+3	7+3	anthracycline_nucleosideAnalog
+7+3	7+3	7+3	anthracycline_nucleosideAnalog
+Idarubicin/Cytarabine	7+3	7+3	anthracycline_nucleosideAnalog
+Idarubicin/ Cytarabine	7+3	7+3	anthracycline_nucleosideAnalog
+Clofarabine 7/5/2013;Ida/Ara-C	7+3	7+3	anthracycline_nucleosideAnalog
+7+3 (daunorubicin 90 mg/m2 days 1-3 and cytarabine 100 mg/m2 days 1-7)	7+3	7+3	anthracycline_nucleosideAnalog
+Vyxeos	Vyxeos	7+3	anthracycline_nucleosideAnalog
+Idarubicin 12 mg/m2 and cytarabine 1500 mg/m2	7+3	7+3	anthracycline_nucleosideAnalog
+"Idarubicin 12 mg/m2 IV D1-3, Cytarabine 100 mg/m2 IV D1-7"	7+3	7+3	anthracycline_nucleosideAnalog
+7+3 +/- quizartinib	7+3	7+3+quizartinib	anthracycline_nucleosideAnalog_FLT3i
+idarubicin and cytarabine	7+3	7+3	anthracycline_nucleosideAnalog
+7+ 3	7+3	7+3	anthracycline_nucleosideAnalog
+Daunorubicin 60mg/m2 + Ara-c + Gemtuzumab Ozogamicin	7+3	7+3+gemtuzumab	anthracycline_nucleosideAnalog_CD33ab
+7+3 + Mylotarg	7+3	7+3+gemtuzumab	anthracycline_nucleosideAnalog_CD33ab
+Dauna/AraC with Gemtuzumab	7+3	7+3+gemtuzumab	anthracycline_nucleosideAnalog_CD33ab
+"UPCC 27414 induction:Idarubicin 12 mg/m2/d, d1-3Ara-C 100 mg/m2/d"	7+3	7+3+gilteritinib	anthracycline_nucleosideAnalog_FLT3i
+Ida/Ara-C + ASP2215	7+3	7+3+gilteritinib	anthracycline_nucleosideAnalog_FLT3i
+Ida/Ara-C + ASP2216	7+3	7+3+gilteritinib	anthracycline_nucleosideAnalog_FLT3i
+7+3 and midostaurin	7+3	7+3+midostaurin	anthracycline_nucleosideAnalog_FLT3i
+Daunorubicin and Cytarabine + Midostaurin	7+3	7+3+midostaurin	anthracycline_nucleosideAnalog_FLT3i
+7+3 Dauna/Ara-C + Midostaurin	7+3	7+3+midostaurin	anthracycline_nucleosideAnalog_FLT3i
+(7+3) with Midostaurin	7+3	7+3+midostaurin	anthracycline_nucleosideAnalog_FLT3i
+Ida/Ara-C + Vorinostat	7+3	7+3+vorinostat	anthracycline_nucleosideAnalog_HDAC
+ATRA / ATO	ATRA / ATO	ATRA/ATO	ATRA_ATO
+ATRAx4 doses; Dauno/Ara-C + Cellerant	ATRA / ATO	ATRA/ATO	ATRA_ATO
+S/P ATO	ATRA / ATO	ATRA/ATO	ATRA_ATO
+Vidaza at 100 mg/m²	HMA	azacitidine monotherapy	HMA_monotherapy
+Vidaza 75 mg/m2	HMA	azacitidine monotherapy	HMA_monotherapy
+5-azacitidine 75 mg/m2 IV	HMA	azacitidine monotherapy	HMA_monotherapy
+Vidaza	HMA	azacitidine monotherapy	HMA_monotherapy
+Clofarabine ECOG 2906	Clofarabine	clofarabine monotherapy	nucleosideAnalog_monotherapy
+Clofarabine ECOG 2907	Clofarabine	clofarabine monotherapy	nucleosideAnalog_monotherapy
+Clofarabine ECOG 2908	Clofarabine	clofarabine monotherapy	nucleosideAnalog_monotherapy
+Ara-C	7+3	cytarabine monotherapy	nucleosideAnalog_monotherapy
+LDAC	LDAC	cytarabine monotherapy	nucleosideAnalog_monotherapy
+LDAC+Lintuzumab	LDAC	cytarabine+lintuzumab	nucleosideAnalog_CD33ab
+Decitabine 20 mg/m2 X 3 days q 28 days started	HMA	decitabine monotherapy	HMA_monotherapy
+Dacogen	HMA	decitabine monotherapy	HMA_monotherapy
+Idarubicin/HDAC	Idarubicin/HDAC	Idarubicin/HDAC	anthracycline_HDAC
+Lintuzumab-225-Actinium	mAb	lintuzumab	CD33ab_monotherapy
+MEC	MEC	MEC	MEC
+MEC (mitoxantrone 8 mg/m2 )	MEC	MEC	MEC
+Supportive	Supportive	Supportive	Supportive
