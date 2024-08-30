@@ -1,0 +1,2486 @@
+A	B	Neither	A Not B	B Not A	Both	Log2 Odds Ratio	p-Value	q-Value	Tendency
+DNMT3A	NPM1	104	20	20	38	>3	<0.001	<0.001	Co-occurrence
+TP53	chr17loss	169	9	0	4	>3	<0.001	0.020	Co-occurrence
+NPM1	FLT3	89	23	35	35	1.952	<0.001	0.050	Co-occurrence
+chr5qdel	chr17loss	175	3	1	3	>3	<0.001	0.050	Co-occurrence
+TP53	chr5qdel	167	9	2	4	>3	<0.001	0.111	Co-occurrence
+TP53	chr5loss	169	10	0	3	>3	<0.001	0.120	Co-occurrence
+KIT	inv(16)	166	7	5	4	>3	<0.001	0.284	Co-occurrence
+FLT3	TP53	99	70	13	0	<-3	0.002	0.607	Mutual exclusivity
+IDH2	SRSF2	145	23	7	7	2.656	0.003	0.669	Co-occurrence
+chr22gain	chr21gain	175	1	4	2	>3	0.003	0.669	Co-occurrence
+EZH2	chr17loss	175	3	2	2	>3	0.004	0.781	Co-occurrence
+IDH1	PHF6	168	7	4	3	>3	0.004	0.781	Co-occurrence
+TP53	chr21gain	166	10	3	3	>3	0.005	0.805	Co-occurrence
+chr5qdel	chr7qdel	174	4	2	2	>3	0.005	0.805	Co-occurrence
+BIRC3	MYD88	181	0	0	1	>3	0.005	0.805	Co-occurrence
+NOTCH2	U2AF2	181	0	0	1	>3	0.005	0.805	Co-occurrence
+DNMT3A	SRSF2	110	58	14	0	<-3	0.006	0.805	Mutual exclusivity
+TET2	CBL	144	35	0	3	>3	0.009	1.000	Co-occurrence
+EZH2	SMC1A	173	3	4	2	>3	0.009	1.000	Co-occurrence
+NPM1	TP53	111	58	13	0	<-3	0.010	1.000	Mutual exclusivity
+CDH2	CSF3R	180	0	1	1	>3	0.011	1.000	Co-occurrence
+CDKN2A	PRPF40B	180	1	0	1	>3	0.011	1.000	Co-occurrence
+NPM1	PTPN11	122	52	2	6	2.815	0.014	1.000	Co-occurrence
+TP53	chr22gain	168	11	1	2	>3	0.014	1.000	Co-occurrence
+DNMT3A	FLT3	84	28	40	30	1.170	0.014	1.000	Co-occurrence
+HNRNPK	BRINP3	179	2	0	1	>3	0.016	1.000	Co-occurrence
+ASXL1	SRSF2	150	18	9	5	2.211	0.019	1.000	Co-occurrence
+ASXL1	STAG2	153	19	6	4	2.424	0.025	1.000	Co-occurrence
+TP53	chr7qdel	167	11	2	2	>3	0.026	1.000	Co-occurrence
+ZRSR2	POT1	177	4	0	1	>3	0.027	1.000	Co-occurrence
+chr8gain	chr22gain	162	17	1	2	>3	0.029	1.000	Co-occurrence
+chr8gain	chr13gain	162	17	1	2	>3	0.029	1.000	Co-occurrence
+inv(16)	chr21gain	169	7	4	2	>3	0.030	1.000	Co-occurrence
+NPM1	TET2	104	40	20	18	1.227	0.030	1.000	Co-occurrence
+TET2	chr8gain	133	30	11	8	1.689	0.032	1.000	Co-occurrence
+BRAF	SETBP1	178	2	1	1	>3	0.033	1.000	Co-occurrence
+chr22gain	chr11qdel	178	2	1	1	>3	0.033	1.000	Co-occurrence
+chr11qdel	chr13gain	178	1	2	1	>3	0.033	1.000	Co-occurrence
+CDH2	t(8;21)	176	0	5	1	>3	0.033	1.000	Co-occurrence
+POT1	chr21gain	176	0	5	1	>3	0.033	1.000	Co-occurrence
+BCOR	PRPF40B	175	6	0	1	>3	0.038	1.000	Co-occurrence
+PHF6	FBXW7	175	6	0	1	>3	0.038	1.000	Co-occurrence
+BCOR	SF1	175	6	0	1	>3	0.038	1.000	Co-occurrence
+NRAS	t(11;19)	159	20	1	2	>3	0.039	1.000	Co-occurrence
+TP53	EZH2	166	11	3	2	>3	0.042	1.000	Co-occurrence
+KIT	t(8;21)	167	9	4	2	>3	0.044	1.000	Co-occurrence
+chr22gain	chr5loss	177	2	2	1	>3	0.049	1.000	Co-occurrence
+chr22gain	chr13gain	177	2	2	1	>3	0.049	1.000	Co-occurrence
+SF1	inv(16)	173	0	8	1	>3	0.049	1.000	Co-occurrence
+FLT3	KIT	102	69	10	1	-2.758	0.053	1.000	Mutual exclusivity
+CSF3R	MYC	176	1	4	1	>3	0.054	1.000	Co-occurrence
+IDH1	FBXW7	172	9	0	1	>3	0.055	1.000	Co-occurrence
+BCORL1	BCOR	166	9	5	2	2.883	0.059	1.000	Co-occurrence
+DNMT3A	inv(16)	115	58	9	0	<-3	0.059	1.000	Mutual exclusivity
+NPM1	inv(16)	115	58	9	0	<-3	0.059	1.000	Mutual exclusivity
+CDH2	KIT	171	0	10	1	>3	0.060	1.000	Co-occurrence
+KIT	SF1	171	10	0	1	>3	0.060	1.000	Co-occurrence
+KIT	t(16;16)	171	10	0	1	>3	0.060	1.000	Co-occurrence
+FLT3	WT1	108	62	4	8	1.801	0.062	1.000	Co-occurrence
+NPM1	RUNX1	112	57	12	1	-2.610	0.065	1.000	Mutual exclusivity
+CBL	SF3B1	176	2	3	1	>3	0.065	1.000	Co-occurrence
+U2AF1	chr7loss	176	2	3	1	>3	0.065	1.000	Co-occurrence
+chr5loss	chr7loss	176	2	3	1	>3	0.065	1.000	Co-occurrence
+U2AF1	chr7qdel	176	2	3	1	>3	0.065	1.000	Co-occurrence
+HNRNPK	chr7qdel	176	2	3	1	>3	0.065	1.000	Co-occurrence
+chr17loss	chr5loss	176	3	2	1	>3	0.065	1.000	Co-occurrence
+CSF3R	t(8;21)	175	1	5	1	>3	0.065	1.000	Co-occurrence
+PTEN	t(8;21)	175	1	5	1	>3	0.065	1.000	Co-occurrence
+chr11qdel	chr21gain	175	1	5	1	>3	0.065	1.000	Co-occurrence
+SRSF2	RUNX1	158	11	10	3	2.107	0.066	1.000	Co-occurrence
+WT1	GATA2	170	11	0	1	>3	0.066	1.000	Co-occurrence
+SRSF2	SMC1A	164	12	4	2	2.773	0.069	1.000	Co-occurrence
+ATM	WT1	165	5	10	2	2.722	0.070	1.000	Co-occurrence
+IDH2	HNRNPK	151	28	1	2	>3	0.071	1.000	Co-occurrence
+RUNX1	BIRC3	169	12	0	1	>3	0.071	1.000	Co-occurrence
+RUNX1	MYD88	169	12	0	1	>3	0.071	1.000	Co-occurrence
+TET2	TP53	131	38	13	0	<-3	0.073	1.000	Mutual exclusivity
+TET2	WT1	132	38	12	0	<-3	0.074	1.000	Mutual exclusivity
+ATM	CDKN2A	174	6	1	1	>3	0.076	1.000	Co-occurrence
+BCOR	CDKN2A	174	6	1	1	>3	0.076	1.000	Co-occurrence
+ATM	t(15;17)	174	6	1	1	>3	0.076	1.000	Co-occurrence
+DNMT3A	IDH1	120	52	4	6	1.791	0.076	1.000	Co-occurrence
+SRSF2	BIRC3	168	13	0	1	>3	0.077	1.000	Co-occurrence
+SRSF2	MYD88	168	13	0	1	>3	0.077	1.000	Co-occurrence
+SRSF2	IL7R	168	13	0	1	>3	0.077	1.000	Co-occurrence
+ASXL1	NOTCH1	157	21	2	2	2.902	0.078	1.000	Co-occurrence
+NRAS	inv(16)	154	19	6	3	2.019	0.080	1.000	Co-occurrence
+MYCN	ZRSR2	175	2	4	1	>3	0.081	1.000	Co-occurrence
+HNRNPK	JAK2	175	2	4	1	>3	0.081	1.000	Co-occurrence
+EZH2	chr5loss	175	4	2	1	>3	0.081	1.000	Co-occurrence
+RUNX1	PHF6	164	11	5	2	2.576	0.081	1.000	Co-occurrence
+FLT3	SMC1A	106	70	6	0	<-3	0.084	1.000	Mutual exclusivity
+ZRSR2	chr8gain	160	3	17	2	2.650	0.085	1.000	Co-occurrence
+SF3B1	NOTCH1	175	3	3	1	>3	0.086	1.000	Co-occurrence
+chr17loss	chr7qdel	175	3	3	1	>3	0.086	1.000	Co-occurrence
+FLT3	IDH1	103	69	9	1	-2.592	0.091	1.000	Mutual exclusivity
+SRSF2	BCOR	163	12	5	2	2.442	0.093	1.000	Co-occurrence
+TET2	FLT3	84	28	60	10	-1.000	0.094	1.000	Mutual exclusivity
+HNRNPK	chr5qdel	174	2	5	1	>3	0.096	1.000	Co-occurrence
+chr5qdel	chr5loss	174	5	2	1	>3	0.096	1.000	Co-occurrence
+chr5loss	chr21gain	174	2	5	1	>3	0.096	1.000	Co-occurrence
+chr13gain	chr21gain	174	2	5	1	>3	0.096	1.000	Co-occurrence
+MAP2K1	inv(16)	172	1	8	1	>3	0.097	1.000	Co-occurrence
+NPM1	ATM	117	58	7	0	<-3	0.099	1.000	Mutual exclusivity
+NPM1	PHF6	117	58	7	0	<-3	0.099	1.000	Mutual exclusivity
+NPM1	SETBP1	124	56	0	2	>3	0.100	1.000	Co-occurrence
+PRPF40B	chr8gain	163	0	18	1	>3	0.104	1.000	Co-occurrence
+POT1	chr8gain	163	0	18	1	>3	0.104	1.000	Co-occurrence
+FBXW7	chr8gain	163	0	18	1	>3	0.104	1.000	Co-occurrence
+TBL1XR1	chr8gain	163	0	18	1	>3	0.104	1.000	Co-occurrence
+NRAS	KRAS	153	19	7	3	1.787	0.105	1.000	Co-occurrence
+CSF1R	RAD21	174	3	4	1	>3	0.106	1.000	Co-occurrence
+ETV6	NOTCH1	174	4	3	1	>3	0.106	1.000	Co-occurrence
+NOTCH1	ZRSR2	174	3	4	1	>3	0.106	1.000	Co-occurrence
+NOTCH1	JAK2	174	3	4	1	>3	0.106	1.000	Co-occurrence
+JAK2	chr7qdel	174	4	3	1	>3	0.106	1.000	Co-occurrence
+TET2	SMC1A	141	35	3	3	2.010	0.106	1.000	Co-occurrence
+NPM1	WT1	113	57	11	1	-2.472	0.107	1.000	Mutual exclusivity
+STAG2	SETBP1	171	9	1	1	>3	0.107	1.000	Co-occurrence
+SETBP1	KRAS	171	1	9	1	>3	0.107	1.000	Co-occurrence
+KRAS	PTEN	171	9	1	1	>3	0.107	1.000	Co-occurrence
+FLT3	ASXL1	94	65	18	5	-1.316	0.108	1.000	Mutual exclusivity
+TET2	BRAF	143	36	1	2	2.990	0.111	1.000	Co-occurrence
+TET2	U2AF1	143	36	1	2	2.990	0.111	1.000	Co-occurrence
+NRAS	ETV6	157	20	3	2	2.388	0.111	1.000	Co-occurrence
+ATM	MYCN	173	6	2	1	>3	0.112	1.000	Co-occurrence
+U2AF1	BCOR	173	2	6	1	>3	0.112	1.000	Co-occurrence
+BCOR	t(11;19)	173	6	2	1	>3	0.112	1.000	Co-occurrence
+STAG2	BCORL1	163	8	9	2	2.179	0.115	1.000	Co-occurrence
+BCORL1	SETBP1	170	10	1	1	>3	0.118	1.000	Co-occurrence
+KIT	PTEN	170	10	1	1	>3	0.118	1.000	Co-occurrence
+BCORL1	PTEN	170	10	1	1	>3	0.118	1.000	Co-occurrence
+BCORL1	chr11qdel	170	10	1	1	>3	0.118	1.000	Co-occurrence
+CSF3R	KIT	170	1	10	1	>3	0.118	1.000	Co-occurrence
+chr8gain	chr21gain	159	17	4	2	2.225	0.120	1.000	Co-occurrence
+ASXL1	RAD21	156	21	3	2	2.308	0.121	1.000	Co-occurrence
+ASXL1	ZRSR2	156	21	3	2	2.308	0.121	1.000	Co-occurrence
+NRAS	NOTCH2	160	21	0	1	>3	0.121	1.000	Co-occurrence
+NRAS	U2AF2	160	21	0	1	>3	0.121	1.000	Co-occurrence
+NRAS	RIT1	160	21	0	1	>3	0.121	1.000	Co-occurrence
+NRAS	BRINP3	160	21	0	1	>3	0.121	1.000	Co-occurrence
+ASXL1	BIRC3	159	22	0	1	>3	0.126	1.000	Co-occurrence
+ASXL1	MYD88	159	22	0	1	>3	0.126	1.000	Co-occurrence
+ASXL1	TBL1XR1	159	22	0	1	>3	0.126	1.000	Co-occurrence
+SF3B1	chr5qdel	173	3	5	1	>3	0.126	1.000	Co-occurrence
+IDH2	NOTCH1	150	28	2	2	2.421	0.127	1.000	Co-occurrence
+IDH2	chr7qdel	150	28	2	2	2.421	0.127	1.000	Co-occurrence
+CSF3R	WT1	169	1	11	1	>3	0.128	1.000	Co-occurrence
+WT1	MAP2K1	169	11	1	1	>3	0.128	1.000	Co-occurrence
+NRAS	BCORL1	152	19	8	3	1.585	0.133	1.000	Co-occurrence
+FLT3	chr8gain	97	66	15	4	-1.351	0.135	1.000	Mutual exclusivity
+MAP2K1	RUNX1	168	1	12	1	>3	0.138	1.000	Co-occurrence
+TP53	chr11qdel	168	12	1	1	>3	0.138	1.000	Co-occurrence
+TET2	IDH2	117	35	27	3	-1.429	0.142	1.000	Mutual exclusivity
+NF1	BRAF	171	8	2	1	>3	0.142	1.000	Co-occurrence
+NF1	chr22gain	171	8	2	1	>3	0.142	1.000	Co-occurrence
+chr22gain	inv(16)	171	2	8	1	>3	0.142	1.000	Co-occurrence
+NF1	chr5loss	171	8	2	1	>3	0.142	1.000	Co-occurrence
+CSF1R	BCOR	172	3	6	1	>3	0.146	1.000	Co-occurrence
+ATM	chr7loss	172	6	3	1	>3	0.146	1.000	Co-occurrence
+SRSF2	chr11qdel	167	13	1	1	>3	0.148	1.000	Co-occurrence
+IDH1	RUNX1	161	8	11	2	1.871	0.153	1.000	Co-occurrence
+FLT3	PTPN11	105	69	7	1	-2.202	0.155	1.000	Mutual exclusivity
+ETV6	SMC1A	172	4	5	1	>3	0.156	1.000	Co-occurrence
+RAD21	SMC1A	172	4	5	1	>3	0.156	1.000	Co-occurrence
+JAK2	SMC1A	172	4	5	1	>3	0.156	1.000	Co-occurrence
+RAD21	t(8;21)	172	4	5	1	>3	0.156	1.000	Co-occurrence
+JAK2	t(8;21)	172	4	5	1	>3	0.156	1.000	Co-occurrence
+EZH2	chr5qdel	172	4	5	1	>3	0.156	1.000	Co-occurrence
+JAK2	chr5qdel	172	4	5	1	>3	0.156	1.000	Co-occurrence
+ETV6	chr21gain	172	4	5	1	>3	0.156	1.000	Co-occurrence
+EZH2	chr21gain	172	4	5	1	>3	0.156	1.000	Co-occurrence
+ZRSR2	chr21gain	172	4	5	1	>3	0.156	1.000	Co-occurrence
+FLT3	inv(16)	104	69	8	1	-2.408	0.156	1.000	Mutual exclusivity
+IDH1	CBL	170	9	2	1	>3	0.157	1.000	Co-occurrence
+CBL	STAG2	170	2	9	1	>3	0.157	1.000	Co-occurrence
+STAG2	t(11;19)	170	9	2	1	>3	0.157	1.000	Co-occurrence
+KRAS	t(11;19)	170	9	2	1	>3	0.157	1.000	Co-occurrence
+IDH1	chr5loss	170	9	2	1	>3	0.157	1.000	Co-occurrence
+BCOR	chr8gain	158	5	17	2	1.894	0.158	1.000	Co-occurrence
+NRAS	WT1	151	19	9	3	1.406	0.163	1.000	Co-occurrence
+IDH2	BIRC3	152	29	0	1	>3	0.165	1.000	Co-occurrence
+IDH2	MYD88	152	29	0	1	>3	0.165	1.000	Co-occurrence
+PTPN11	chr7loss	171	7	3	1	>3	0.166	1.000	Co-occurrence
+SF3B1	PTPN11	171	3	7	1	>3	0.166	1.000	Co-occurrence
+BRAF	BCORL1	169	2	10	1	>3	0.171	1.000	Co-occurrence
+BCORL1	U2AF1	169	10	2	1	>3	0.171	1.000	Co-occurrence
+DNMT3A	STAG2	115	57	9	1	-2.157	0.173	1.000	Mutual exclusivity
+STAG2	SRSF2	160	8	12	2	1.737	0.173	1.000	Co-occurrence
+TET2	SRSF2	135	33	9	5	1.184	0.174	1.000	Co-occurrence
+TET2	NRAS	124	36	20	2	-1.538	0.174	1.000	Mutual exclusivity
+DNMT3A	BCORL1	114	57	10	1	-2.322	0.178	1.000	Mutual exclusivity
+NPM1	BCORL1	114	57	10	1	-2.322	0.178	1.000	Mutual exclusivity
+NPM1	SMC1A	118	58	6	0	<-3	0.179	1.000	Mutual exclusivity
+NPM1	t(8;21)	118	58	6	0	<-3	0.179	1.000	Mutual exclusivity
+NPM1	chr5qdel	118	58	6	0	<-3	0.179	1.000	Mutual exclusivity
+DNMT3A	chr21gain	118	58	6	0	<-3	0.179	1.000	Mutual exclusivity
+NPM1	chr21gain	118	58	6	0	<-3	0.179	1.000	Mutual exclusivity
+NPM1	MYC	119	58	5	0	<-3	0.179	1.000	Mutual exclusivity
+NPM1	EZH2	119	58	5	0	<-3	0.179	1.000	Mutual exclusivity
+DNMT3A	ZRSR2	119	58	5	0	<-3	0.179	1.000	Mutual exclusivity
+NPM1	ZRSR2	119	58	5	0	<-3	0.179	1.000	Mutual exclusivity
+DNMT3A	JAK2	119	58	5	0	<-3	0.179	1.000	Mutual exclusivity
+NPM1	JAK2	119	58	5	0	<-3	0.179	1.000	Mutual exclusivity
+EZH2	PHF6	171	4	6	1	2.833	0.180	1.000	Co-occurrence
+PHF6	JAK2	171	6	4	1	2.833	0.180	1.000	Co-occurrence
+ASXL1	WT1	150	20	9	3	1.322	0.181	1.000	Co-occurrence
+SMC1A	t(8;21)	171	5	5	1	2.774	0.185	1.000	Co-occurrence
+SMC1A	chr21gain	171	5	5	1	2.774	0.185	1.000	Co-occurrence
+NF1	SF3B1	170	8	3	1	2.824	0.185	1.000	Co-occurrence
+NF1	CSF1R	170	8	3	1	2.824	0.185	1.000	Co-occurrence
+NF1	NOTCH1	170	8	3	1	2.824	0.185	1.000	Co-occurrence
+NF1	chr7loss	170	8	3	1	2.824	0.185	1.000	Co-occurrence
+CSF1R	inv(16)	170	3	8	1	2.824	0.185	1.000	Co-occurrence
+MYCN	WT1	168	2	11	1	2.933	0.186	1.000	Co-occurrence
+IDH2	ETV6	149	28	3	2	1.827	0.191	1.000	Co-occurrence
+IDH2	JAK2	149	28	3	2	1.827	0.191	1.000	Co-occurrence
+chr8gain	t(15;17)	162	18	1	1	>3	0.198	1.000	Co-occurrence
+chr8gain	chr11qdel	162	18	1	1	>3	0.198	1.000	Co-occurrence
+MAP2K1	chr8gain	162	1	18	1	>3	0.198	1.000	Co-occurrence
+CDKN2A	chr8gain	162	1	18	1	>3	0.198	1.000	Co-occurrence
+TP53	HNRNPK	167	12	2	1	2.799	0.200	1.000	Co-occurrence
+TP53	chr13gain	167	12	2	1	2.799	0.200	1.000	Co-occurrence
+NRAS	ATM	155	20	5	2	1.632	0.201	1.000	Co-occurrence
+SRSF2	BCORL1	159	12	9	2	1.558	0.203	1.000	Co-occurrence
+RAD21	PTPN11	170	4	7	1	2.602	0.203	1.000	Co-occurrence
+IDH1	SF3B1	169	9	3	1	2.646	0.204	1.000	Co-occurrence
+KRAS	NOTCH1	169	9	3	1	2.646	0.204	1.000	Co-occurrence
+IDH1	chr17loss	169	9	3	1	2.646	0.204	1.000	Co-occurrence
+TET2	POT1	144	37	0	1	>3	0.209	1.000	Co-occurrence
+TET2	IL7R	144	37	0	1	>3	0.209	1.000	Co-occurrence
+TET2	TBL1XR1	144	37	0	1	>3	0.209	1.000	Co-occurrence
+PHF6	SMC1A	170	6	5	1	2.503	0.212	1.000	Co-occurrence
+ATM	t(8;21)	170	6	5	1	2.503	0.212	1.000	Co-occurrence
+SRSF2	chr22gain	166	13	2	1	2.675	0.215	1.000	Co-occurrence
+SRSF2	chr13gain	166	13	2	1	2.675	0.215	1.000	Co-occurrence
+ASXL1	RUNX1	149	20	10	3	1.160	0.216	1.000	Co-occurrence
+TET2	KRAS	138	34	6	4	1.436	0.221	1.000	Co-occurrence
+IDH2	WT1	140	30	12	0	<-3	0.221	1.000	Mutual exclusivity
+BCORL1	CSF1R	168	10	3	1	2.485	0.222	1.000	Co-occurrence
+KIT	chr17loss	168	10	3	1	2.485	0.222	1.000	Co-occurrence
+NF1	EZH2	169	8	4	1	2.401	0.226	1.000	Co-occurrence
+ETV6	NF1	169	4	8	1	2.401	0.226	1.000	Co-occurrence
+MYC	inv(16)	169	4	8	1	2.401	0.226	1.000	Co-occurrence
+EZH2	inv(16)	169	4	8	1	2.401	0.226	1.000	Co-occurrence
+RAD21	inv(16)	169	4	8	1	2.401	0.226	1.000	Co-occurrence
+NRAS	MAP2K1	159	21	1	1	2.921	0.228	1.000	Co-occurrence
+NRAS	PTEN	159	21	1	1	2.921	0.228	1.000	Co-occurrence
+NRAS	t(15;17)	159	21	1	1	2.921	0.228	1.000	Co-occurrence
+NRAS	chr11qdel	159	21	1	1	2.921	0.228	1.000	Co-occurrence
+DNMT3A	TP53	113	56	11	2	-1.447	0.231	1.000	Mutual exclusivity
+DNMT3A	RUNX1	113	56	11	2	-1.447	0.231	1.000	Mutual exclusivity
+IDH2	RUNX1	143	26	9	4	1.290	0.234	1.000	Co-occurrence
+ASXL1	SETBP1	158	22	1	1	2.844	0.237	1.000	Co-occurrence
+NPM1	CBL	123	56	1	2	2.135	0.239	1.000	Co-occurrence
+NPM1	BRAF	123	56	1	2	2.135	0.239	1.000	Co-occurrence
+DNMT3A	U2AF1	123	56	1	2	2.135	0.239	1.000	Co-occurrence
+NPM1	HNRNPK	123	56	1	2	2.135	0.239	1.000	Co-occurrence
+chr8gain	inv(16)	156	17	7	2	1.391	0.239	1.000	Co-occurrence
+PTPN11	chr5qdel	169	7	5	1	2.272	0.239	1.000	Co-occurrence
+IDH1	MYC	168	9	4	1	2.222	0.249	1.000	Co-occurrence
+IDH1	EZH2	168	9	4	1	2.222	0.249	1.000	Co-occurrence
+ETV6	KRAS	168	4	9	1	2.222	0.249	1.000	Co-occurrence
+STAG2	ZRSR2	168	9	4	1	2.222	0.249	1.000	Co-occurrence
+IDH1	JAK2	168	9	4	1	2.222	0.249	1.000	Co-occurrence
+STAG2	JAK2	168	9	4	1	2.222	0.249	1.000	Co-occurrence
+FLT3	ATM	106	69	6	1	-1.966	0.252	1.000	Mutual exclusivity
+FLT3	PHF6	106	69	6	1	-1.966	0.252	1.000	Mutual exclusivity
+FLT3	SRSF2	101	67	11	3	-1.282	0.254	1.000	Mutual exclusivity
+TP53	chr7loss	166	12	3	1	2.205	0.258	1.000	Co-occurrence
+NF1	SMC1A	168	8	5	1	2.070	0.266	1.000	Co-occurrence
+KIT	MYC	167	10	4	1	2.062	0.270	1.000	Co-occurrence
+MYC	BCORL1	167	4	10	1	2.062	0.270	1.000	Co-occurrence
+BCORL1	JAK2	167	10	4	1	2.062	0.270	1.000	Co-occurrence
+ATM	PTPN11	168	6	7	1	2.000	0.274	1.000	Co-occurrence
+PTPN11	BCOR	168	7	6	1	2.000	0.274	1.000	Co-occurrence
+SRSF2	CSF1R	165	13	3	1	2.081	0.276	1.000	Co-occurrence
+SRSF2	NOTCH1	165	13	3	1	2.081	0.276	1.000	Co-occurrence
+TET2	ZRSR2	141	36	3	2	1.385	0.280	1.000	Co-occurrence
+KRAS	chr8gain	155	8	17	2	1.189	0.280	1.000	Co-occurrence
+CBL	chr8gain	161	2	18	1	2.161	0.283	1.000	Co-occurrence
+BRAF	chr8gain	161	2	18	1	2.161	0.283	1.000	Co-occurrence
+FLT3	BRAF	109	70	3	0	<-3	0.286	1.000	Mutual exclusivity
+FLT3	U2AF1	109	70	3	0	<-3	0.286	1.000	Mutual exclusivity
+FLT3	chr22gain	109	70	3	0	<-3	0.286	1.000	Mutual exclusivity
+FLT3	chr5loss	109	70	3	0	<-3	0.286	1.000	Mutual exclusivity
+STAG2	t(8;21)	167	9	5	1	1.892	0.291	1.000	Co-occurrence
+KRAS	t(8;21)	167	9	5	1	1.892	0.291	1.000	Co-occurrence
+IDH1	chr5qdel	167	9	5	1	1.892	0.291	1.000	Co-occurrence
+MYC	WT1	166	4	11	1	1.916	0.292	1.000	Co-occurrence
+FLT3	NOTCH1	108	70	4	0	<-3	0.300	1.000	Mutual exclusivity
+FLT3	chr17loss	108	70	4	0	<-3	0.300	1.000	Mutual exclusivity
+FLT3	chr7loss	108	70	4	0	<-3	0.300	1.000	Mutual exclusivity
+FLT3	chr7qdel	108	70	4	0	<-3	0.300	1.000	Mutual exclusivity
+PHF6	inv(16)	167	6	8	1	1.799	0.303	1.000	Co-occurrence
+BCOR	inv(16)	167	6	8	1	1.799	0.303	1.000	Co-occurrence
+DNMT3A	SF3B1	120	58	4	0	<-3	0.308	1.000	Mutual exclusivity
+NPM1	NOTCH1	120	58	4	0	<-3	0.308	1.000	Mutual exclusivity
+NPM1	chr17loss	120	58	4	0	<-3	0.308	1.000	Mutual exclusivity
+DNMT3A	chr7loss	120	58	4	0	<-3	0.308	1.000	Mutual exclusivity
+NPM1	chr7loss	120	58	4	0	<-3	0.308	1.000	Mutual exclusivity
+NPM1	chr7qdel	120	58	4	0	<-3	0.308	1.000	Mutual exclusivity
+ETV6	RUNX1	165	4	12	1	1.781	0.313	1.000	Co-occurrence
+TP53	ZRSR2	165	12	4	1	1.781	0.313	1.000	Co-occurrence
+TP53	JAK2	165	12	4	1	1.781	0.313	1.000	Co-occurrence
+RUNX1	JAK2	165	12	4	1	1.781	0.313	1.000	Co-occurrence
+BCORL1	t(8;21)	166	10	5	1	1.731	0.316	1.000	Co-occurrence
+KIT	chr5qdel	166	10	5	1	1.731	0.316	1.000	Co-occurrence
+DNMT3A	RIT1	124	57	0	1	>3	0.319	1.000	Co-occurrence
+NPM1	RIT1	124	57	0	1	>3	0.319	1.000	Co-occurrence
+DNMT3A	ABL1	124	57	0	1	>3	0.319	1.000	Co-occurrence
+NPM1	ABL1	124	57	0	1	>3	0.319	1.000	Co-occurrence
+DNMT3A	BRINP3	124	57	0	1	>3	0.319	1.000	Co-occurrence
+NPM1	BRINP3	124	57	0	1	>3	0.319	1.000	Co-occurrence
+DNMT3A	FBXW7	124	57	0	1	>3	0.319	1.000	Co-occurrence
+NPM1	TBL1XR1	124	57	0	1	>3	0.319	1.000	Co-occurrence
+NRAS	U2AF1	158	21	2	1	1.911	0.322	1.000	Co-occurrence
+NRAS	HNRNPK	158	21	2	1	1.911	0.322	1.000	Co-occurrence
+DNMT3A	TET2	101	43	23	15	0.615	0.328	1.000	Co-occurrence
+DNMT3A	MYC	122	55	2	3	1.734	0.329	1.000	Co-occurrence
+DNMT3A	RAD21	122	55	2	3	1.734	0.329	1.000	Co-occurrence
+KRAS	BCOR	166	9	6	1	1.620	0.331	1.000	Co-occurrence
+ATM	KRAS	166	6	9	1	1.620	0.331	1.000	Co-occurrence
+SRSF2	ZRSR2	164	13	4	1	1.657	0.333	1.000	Co-occurrence
+SRSF2	JAK2	164	13	4	1	1.657	0.333	1.000	Co-occurrence
+ASXL1	BRAF	157	22	2	1	1.835	0.335	1.000	Co-occurrence
+WT1	t(8;21)	165	11	5	1	1.585	0.340	1.000	Co-occurrence
+NPM1	ASXL1	106	53	18	5	-0.848	0.342	1.000	Mutual exclusivity
+DNMT3A	WT1	114	56	10	2	-1.296	0.343	1.000	Mutual exclusivity
+TET2	chr5qdel	138	38	6	0	<-3	0.346	1.000	Mutual exclusivity
+TET2	ATM	137	38	7	0	<-3	0.348	1.000	Mutual exclusivity
+TET2	PHF6	137	38	7	0	<-3	0.348	1.000	Mutual exclusivity
+KIT	PHF6	165	10	6	1	1.459	0.359	1.000	Co-occurrence
+BCORL1	PHF6	165	10	6	1	1.459	0.359	1.000	Co-occurrence
+KIT	BCOR	165	10	6	1	1.459	0.359	1.000	Co-occurrence
+IDH2	NF1	143	30	9	0	<-3	0.359	1.000	Mutual exclusivity
+IDH2	inv(16)	143	30	9	0	<-3	0.359	1.000	Mutual exclusivity
+RUNX1	SMC1A	164	12	5	1	1.451	0.363	1.000	Co-occurrence
+RUNX1	chr21gain	164	12	5	1	1.451	0.363	1.000	Co-occurrence
+KIT	ASXL1	148	11	23	0	<-3	0.364	1.000	Mutual exclusivity
+NRAS	KIT	149	22	11	0	<-3	0.365	1.000	Mutual exclusivity
+IDH1	PTPN11	165	9	7	1	1.389	0.370	1.000	Co-occurrence
+NRAS	RUNX1	147	22	13	0	<-3	0.372	1.000	Mutual exclusivity
+IDH2	IDH1	142	30	10	0	<-3	0.372	1.000	Mutual exclusivity
+NF1	inv(16)	165	8	8	1	1.366	0.373	1.000	Co-occurrence
+TET2	SETBP1	143	37	1	1	1.950	0.375	1.000	Co-occurrence
+TET2	PTEN	143	37	1	1	1.950	0.375	1.000	Co-occurrence
+FLT3	NOTCH2	112	69	0	1	>3	0.385	1.000	Co-occurrence
+FLT3	U2AF2	112	69	0	1	>3	0.385	1.000	Co-occurrence
+FLT3	GATA2	112	69	0	1	>3	0.385	1.000	Co-occurrence
+FLT3	ABL1	112	69	0	1	>3	0.385	1.000	Co-occurrence
+FLT3	BRINP3	112	69	0	1	>3	0.385	1.000	Co-occurrence
+FLT3	IL7R	112	69	0	1	>3	0.385	1.000	Co-occurrence
+SRSF2	chr21gain	163	13	5	1	1.326	0.386	1.000	Co-occurrence
+TET2	NF1	138	35	6	3	0.979	0.398	1.000	Co-occurrence
+NRAS	CSF1R	157	21	3	1	1.317	0.405	1.000	Co-occurrence
+NRAS	NOTCH1	157	21	3	1	1.317	0.405	1.000	Co-occurrence
+FLT3	t(8;21)	107	69	5	1	-1.689	0.408	1.000	Mutual exclusivity
+FLT3	chr5qdel	107	69	5	1	-1.689	0.408	1.000	Mutual exclusivity
+FLT3	chr21gain	107	69	5	1	-1.689	0.408	1.000	Mutual exclusivity
+ETV6	chr8gain	159	4	18	1	1.143	0.428	1.000	Co-occurrence
+DNMT3A	ATM	118	57	6	1	-1.535	0.433	1.000	Mutual exclusivity
+DNMT3A	PHF6	118	57	6	1	-1.535	0.433	1.000	Mutual exclusivity
+DNMT3A	chr8gain	109	54	15	4	-0.894	0.435	1.000	Mutual exclusivity
+NPM1	chr8gain	109	54	15	4	-0.894	0.435	1.000	Mutual exclusivity
+NF1	BCORL1	163	8	10	1	1.027	0.437	1.000	Co-occurrence
+BCORL1	inv(16)	163	10	8	1	1.027	0.437	1.000	Co-occurrence
+TET2	STAG2	137	35	7	3	0.746	0.438	1.000	Co-occurrence
+STAG2	KRAS	163	9	9	1	1.009	0.440	1.000	Co-occurrence
+KIT	KRAS	162	10	9	1	0.848	0.473	1.000	Co-occurrence
+ASXL1	chr8gain	141	22	18	1	-1.490	0.475	1.000	Mutual exclusivity
+NRAS	RAD21	156	21	4	1	0.893	0.479	1.000	Co-occurrence
+SRSF2	PTPN11	161	13	7	1	0.823	0.480	1.000	Co-occurrence
+FLT3	NF1	105	68	7	2	-1.181	0.486	1.000	Mutual exclusivity
+NF1	RUNX1	161	8	12	1	0.746	0.495	1.000	Co-occurrence
+TP53	NF1	161	12	8	1	0.746	0.495	1.000	Co-occurrence
+TP53	inv(16)	161	12	8	1	0.746	0.495	1.000	Co-occurrence
+ASXL1	MYC	155	22	4	1	0.817	0.495	1.000	Co-occurrence
+ASXL1	ETV6	155	22	4	1	0.817	0.495	1.000	Co-occurrence
+ASXL1	EZH2	155	22	4	1	0.817	0.495	1.000	Co-occurrence
+WT1	KRAS	161	11	9	1	0.702	0.504	1.000	Co-occurrence
+KIT	BCORL1	161	10	10	1	0.687	0.506	1.000	Co-occurrence
+DNMT3A	KIT	115	56	9	2	-1.132	0.507	1.000	Mutual exclusivity
+NPM1	KIT	115	56	9	2	-1.132	0.507	1.000	Mutual exclusivity
+TET2	chr22gain	142	37	2	1	0.940	0.507	1.000	Co-occurrence
+TET2	chr13gain	142	37	2	1	0.940	0.507	1.000	Co-occurrence
+FLT3	STAG2	107	65	5	5	0.719	0.511	1.000	Co-occurrence
+IDH2	chr7loss	149	29	3	1	0.776	0.517	1.000	Co-occurrence
+FLT3	CSF3R	110	70	2	0	<-3	0.524	1.000	Mutual exclusivity
+FLT3	t(15;17)	110	70	2	0	<-3	0.524	1.000	Mutual exclusivity
+FLT3	chr11qdel	110	70	2	0	<-3	0.524	1.000	Mutual exclusivity
+IDH2	chr8gain	137	26	15	4	0.491	0.524	1.000	Co-occurrence
+NPM1	IDH2	105	47	19	11	0.371	0.528	1.000	Co-occurrence
+IDH1	TP53	160	9	12	1	0.567	0.533	1.000	Co-occurrence
+TP53	STAG2	160	12	9	1	0.567	0.533	1.000	Co-occurrence
+STAG2	RUNX1	160	9	12	1	0.567	0.533	1.000	Co-occurrence
+DNMT3A	CDKN2A	123	57	1	1	1.110	0.537	1.000	Co-occurrence
+DNMT3A	t(15;17)	123	57	1	1	1.110	0.537	1.000	Co-occurrence
+WT1	BCORL1	160	11	10	1	0.541	0.538	1.000	Co-occurrence
+NRAS	t(8;21)	155	21	5	1	0.562	0.544	1.000	Co-occurrence
+NRAS	chr21gain	155	21	5	1	0.562	0.544	1.000	Co-occurrence
+ATM	chr8gain	157	6	18	1	0.540	0.544	1.000	Co-occurrence
+PHF6	chr8gain	157	6	18	1	0.540	0.544	1.000	Co-occurrence
+IDH2	ASXL1	134	25	18	5	0.574	0.546	1.000	Co-occurrence
+DNMT3A	CBL	121	58	3	0	<-3	0.552	1.000	Mutual exclusivity
+DNMT3A	MYCN	121	58	3	0	<-3	0.552	1.000	Mutual exclusivity
+NPM1	MYCN	121	58	3	0	<-3	0.552	1.000	Mutual exclusivity
+NPM1	U2AF1	121	58	3	0	<-3	0.552	1.000	Mutual exclusivity
+DNMT3A	chr22gain	121	58	3	0	<-3	0.552	1.000	Mutual exclusivity
+NPM1	chr22gain	121	58	3	0	<-3	0.552	1.000	Mutual exclusivity
+DNMT3A	t(11;19)	121	58	3	0	<-3	0.552	1.000	Mutual exclusivity
+NPM1	t(11;19)	121	58	3	0	<-3	0.552	1.000	Mutual exclusivity
+NPM1	chr5loss	121	58	3	0	<-3	0.552	1.000	Mutual exclusivity
+NPM1	SRSF2	113	55	11	3	-0.836	0.553	1.000	Mutual exclusivity
+FLT3	MYCN	111	68	1	2	1.707	0.560	1.000	Co-occurrence
+FLT3	HNRNPK	111	68	1	2	1.707	0.560	1.000	Co-occurrence
+FLT3	chr13gain	111	68	1	2	1.707	0.560	1.000	Co-occurrence
+IDH1	SRSF2	159	9	13	1	0.443	0.560	1.000	Co-occurrence
+ASXL1	SMC1A	154	22	5	1	0.485	0.561	1.000	Co-occurrence
+ASXL1	t(8;21)	154	22	5	1	0.485	0.561	1.000	Co-occurrence
+ASXL1	chr5qdel	154	22	5	1	0.485	0.561	1.000	Co-occurrence
+ASXL1	chr21gain	154	22	5	1	0.485	0.561	1.000	Co-occurrence
+FLT3	RUNX1	105	64	7	6	0.492	0.566	1.000	Co-occurrence
+KIT	TP53	159	10	12	1	0.406	0.568	1.000	Co-occurrence
+BCORL1	RUNX1	159	10	12	1	0.406	0.568	1.000	Co-occurrence
+TET2	chr17loss	140	38	4	0	<-3	0.581	1.000	Mutual exclusivity
+TET2	ASXL1	127	32	17	6	0.486	0.583	1.000	Co-occurrence
+TET2	ETV6	139	38	5	0	<-3	0.585	1.000	Mutual exclusivity
+TET2	RAD21	139	38	5	0	<-3	0.585	1.000	Mutual exclusivity
+IDH2	SMC1A	146	30	6	0	<-3	0.591	1.000	Mutual exclusivity
+IDH2	t(8;21)	146	30	6	0	<-3	0.591	1.000	Mutual exclusivity
+IDH2	chr21gain	146	30	6	0	<-3	0.591	1.000	Mutual exclusivity
+IDH2	MYC	147	30	5	0	<-3	0.593	1.000	Mutual exclusivity
+IDH2	EZH2	147	30	5	0	<-3	0.593	1.000	Mutual exclusivity
+IDH2	RAD21	147	30	5	0	<-3	0.593	1.000	Mutual exclusivity
+IDH2	ZRSR2	147	30	5	0	<-3	0.593	1.000	Mutual exclusivity
+NPM1	SF3B1	122	56	2	2	1.123	0.593	1.000	Co-occurrence
+DNMT3A	chr7qdel	122	56	2	2	1.123	0.593	1.000	Co-occurrence
+PTPN11	chr8gain	156	7	18	1	0.308	0.594	1.000	Co-occurrence
+ASXL1	ATM	152	23	7	0	<-3	0.598	1.000	Mutual exclusivity
+ASXL1	PHF6	152	23	7	0	<-3	0.598	1.000	Mutual exclusivity
+ASXL1	BCOR	152	23	7	0	<-3	0.598	1.000	Mutual exclusivity
+NRAS	PTPN11	152	22	8	0	<-3	0.598	1.000	Mutual exclusivity
+ASXL1	PTPN11	151	23	8	0	<-3	0.599	1.000	Mutual exclusivity
+WT1	RUNX1	158	11	12	1	0.259	0.601	1.000	Co-occurrence
+IDH2	ATM	145	30	7	0	<-3	0.602	1.000	Mutual exclusivity
+TP53	RUNX1	156	13	13	0	<-3	0.603	1.000	Mutual exclusivity
+WT1	SRSF2	156	12	14	0	<-3	0.603	1.000	Mutual exclusivity
+KIT	chr8gain	152	11	19	0	<-3	0.608	1.000	Mutual exclusivity
+BCORL1	chr8gain	152	11	19	0	<-3	0.608	1.000	Mutual exclusivity
+NRAS	IDH1	150	22	10	0	<-3	0.612	1.000	Mutual exclusivity
+ASXL1	IDH1	151	21	8	2	0.846	0.617	1.000	Co-occurrence
+WT1	chr8gain	151	12	19	0	<-3	0.618	1.000	Mutual exclusivity
+TP53	chr8gain	152	11	17	2	0.701	0.630	1.000	Co-occurrence
+DNMT3A	NRAS	110	50	14	8	0.330	0.632	1.000	Co-occurrence
+ASXL1	BCORL1	150	21	9	2	0.667	0.633	1.000	Co-occurrence
+DNMT3A	ASXL1	107	52	17	6	-0.461	0.636	1.000	Mutual exclusivity
+FLT3	CSF1R	110	68	2	2	0.694	0.639	1.000	Co-occurrence
+SRSF2	chr8gain	151	12	17	2	0.566	0.644	1.000	Co-occurrence
+FLT3	MYC	108	69	4	1	-1.354	0.650	1.000	Mutual exclusivity
+FLT3	ETV6	108	69	4	1	-1.354	0.650	1.000	Mutual exclusivity
+FLT3	EZH2	108	69	4	1	-1.354	0.650	1.000	Mutual exclusivity
+FLT3	RAD21	108	69	4	1	-1.354	0.650	1.000	Mutual exclusivity
+FLT3	ZRSR2	108	69	4	1	-1.354	0.650	1.000	Mutual exclusivity
+FLT3	JAK2	108	69	4	1	-1.354	0.650	1.000	Mutual exclusivity
+DNMT3A	ETV6	121	56	3	2	0.527	0.654	1.000	Co-occurrence
+NPM1	RAD21	121	56	3	2	0.527	0.654	1.000	Co-occurrence
+DNMT3A	SMC1A	119	57	5	1	-1.260	0.666	1.000	Mutual exclusivity
+DNMT3A	t(8;21)	119	57	5	1	-1.260	0.666	1.000	Mutual exclusivity
+DNMT3A	chr5qdel	119	57	5	1	-1.260	0.666	1.000	Mutual exclusivity
+IDH2	STAG2	144	28	8	2	0.363	0.671	1.000	Co-occurrence
+IDH2	KRAS	144	28	8	2	0.363	0.671	1.000	Co-occurrence
+FLT3	IDH2	92	60	20	10	-0.383	0.682	1.000	Mutual exclusivity
+TET2	inv(16)	136	37	8	1	-1.122	0.687	1.000	Mutual exclusivity
+TET2	IDH1	135	37	9	1	-1.303	0.690	1.000	Mutual exclusivity
+IDH2	KIT	142	29	10	1	-1.030	0.695	1.000	Mutual exclusivity
+IDH2	BCORL1	142	29	10	1	-1.030	0.695	1.000	Mutual exclusivity
+FLT3	BCOR	107	68	5	2	-0.668	0.709	1.000	Mutual exclusivity
+DNMT3A	PTPN11	119	55	5	3	0.376	0.711	1.000	Co-occurrence
+FLT3	BCORL1	106	65	6	5	0.443	0.751	1.000	Co-occurrence
+NPM1	NRAS	108	52	16	6	-0.361	0.808	1.000	Mutual exclusivity
+DNMT3A	IDH2	104	48	20	10	0.115	0.833	1.000	Co-occurrence
+MYCN	SF3B1	175	3	4	0	<-3	1.000	1.000	Mutual exclusivity
+BRAF	SF3B1	175	3	4	0	<-3	1.000	1.000	Mutual exclusivity
+CBL	CSF1R	175	3	4	0	<-3	1.000	1.000	Mutual exclusivity
+MYCN	CSF1R	175	3	4	0	<-3	1.000	1.000	Mutual exclusivity
+BRAF	CSF1R	175	3	4	0	<-3	1.000	1.000	Mutual exclusivity
+CBL	NOTCH1	175	3	4	0	<-3	1.000	1.000	Mutual exclusivity
+MYCN	NOTCH1	175	3	4	0	<-3	1.000	1.000	Mutual exclusivity
+BRAF	NOTCH1	175	3	4	0	<-3	1.000	1.000	Mutual exclusivity
+U2AF1	NOTCH1	175	3	4	0	<-3	1.000	1.000	Mutual exclusivity
+CBL	chr17loss	175	3	4	0	<-3	1.000	1.000	Mutual exclusivity
+MYCN	chr17loss	175	3	4	0	<-3	1.000	1.000	Mutual exclusivity
+BRAF	chr17loss	175	3	4	0	<-3	1.000	1.000	Mutual exclusivity
+U2AF1	chr17loss	175	3	4	0	<-3	1.000	1.000	Mutual exclusivity
+HNRNPK	chr17loss	175	3	4	0	<-3	1.000	1.000	Mutual exclusivity
+chr22gain	chr17loss	175	3	4	0	<-3	1.000	1.000	Mutual exclusivity
+CBL	chr7loss	175	3	4	0	<-3	1.000	1.000	Mutual exclusivity
+MYCN	chr7loss	175	3	4	0	<-3	1.000	1.000	Mutual exclusivity
+BRAF	chr7loss	175	3	4	0	<-3	1.000	1.000	Mutual exclusivity
+HNRNPK	chr7loss	175	3	4	0	<-3	1.000	1.000	Mutual exclusivity
+chr22gain	chr7loss	175	3	4	0	<-3	1.000	1.000	Mutual exclusivity
+t(11;19)	chr7loss	175	3	4	0	<-3	1.000	1.000	Mutual exclusivity
+CBL	chr7qdel	175	3	4	0	<-3	1.000	1.000	Mutual exclusivity
+MYCN	chr7qdel	175	3	4	0	<-3	1.000	1.000	Mutual exclusivity
+BRAF	chr7qdel	175	3	4	0	<-3	1.000	1.000	Mutual exclusivity
+chr22gain	chr7qdel	175	3	4	0	<-3	1.000	1.000	Mutual exclusivity
+t(11;19)	chr7qdel	175	3	4	0	<-3	1.000	1.000	Mutual exclusivity
+chr5loss	chr7qdel	175	3	4	0	<-3	1.000	1.000	Mutual exclusivity
+MYC	CBL	174	5	3	0	<-3	1.000	1.000	Mutual exclusivity
+ETV6	CBL	174	5	3	0	<-3	1.000	1.000	Mutual exclusivity
+MYC	MYCN	174	5	3	0	<-3	1.000	1.000	Mutual exclusivity
+ETV6	MYCN	174	5	3	0	<-3	1.000	1.000	Mutual exclusivity
+MYC	BRAF	174	5	3	0	<-3	1.000	1.000	Mutual exclusivity
+ETV6	BRAF	174	5	3	0	<-3	1.000	1.000	Mutual exclusivity
+CBL	EZH2	174	3	5	0	<-3	1.000	1.000	Mutual exclusivity
+MYCN	EZH2	174	3	5	0	<-3	1.000	1.000	Mutual exclusivity
+BRAF	EZH2	174	3	5	0	<-3	1.000	1.000	Mutual exclusivity
+CBL	RAD21	174	3	5	0	<-3	1.000	1.000	Mutual exclusivity
+MYCN	RAD21	174	3	5	0	<-3	1.000	1.000	Mutual exclusivity
+BRAF	RAD21	174	3	5	0	<-3	1.000	1.000	Mutual exclusivity
+MYC	U2AF1	174	5	3	0	<-3	1.000	1.000	Mutual exclusivity
+ETV6	U2AF1	174	5	3	0	<-3	1.000	1.000	Mutual exclusivity
+EZH2	U2AF1	174	5	3	0	<-3	1.000	1.000	Mutual exclusivity
+RAD21	U2AF1	174	5	3	0	<-3	1.000	1.000	Mutual exclusivity
+CBL	ZRSR2	174	3	5	0	<-3	1.000	1.000	Mutual exclusivity
+BRAF	ZRSR2	174	3	5	0	<-3	1.000	1.000	Mutual exclusivity
+U2AF1	ZRSR2	174	3	5	0	<-3	1.000	1.000	Mutual exclusivity
+MYC	HNRNPK	174	5	3	0	<-3	1.000	1.000	Mutual exclusivity
+ETV6	HNRNPK	174	5	3	0	<-3	1.000	1.000	Mutual exclusivity
+EZH2	HNRNPK	174	5	3	0	<-3	1.000	1.000	Mutual exclusivity
+RAD21	HNRNPK	174	5	3	0	<-3	1.000	1.000	Mutual exclusivity
+ZRSR2	HNRNPK	174	5	3	0	<-3	1.000	1.000	Mutual exclusivity
+CBL	JAK2	174	3	5	0	<-3	1.000	1.000	Mutual exclusivity
+MYCN	JAK2	174	3	5	0	<-3	1.000	1.000	Mutual exclusivity
+BRAF	JAK2	174	3	5	0	<-3	1.000	1.000	Mutual exclusivity
+U2AF1	JAK2	174	3	5	0	<-3	1.000	1.000	Mutual exclusivity
+MYC	chr22gain	174	5	3	0	<-3	1.000	1.000	Mutual exclusivity
+ETV6	chr22gain	174	5	3	0	<-3	1.000	1.000	Mutual exclusivity
+EZH2	chr22gain	174	5	3	0	<-3	1.000	1.000	Mutual exclusivity
+RAD21	chr22gain	174	5	3	0	<-3	1.000	1.000	Mutual exclusivity
+ZRSR2	chr22gain	174	5	3	0	<-3	1.000	1.000	Mutual exclusivity
+JAK2	chr22gain	174	5	3	0	<-3	1.000	1.000	Mutual exclusivity
+MYC	t(11;19)	174	5	3	0	<-3	1.000	1.000	Mutual exclusivity
+ETV6	t(11;19)	174	5	3	0	<-3	1.000	1.000	Mutual exclusivity
+EZH2	t(11;19)	174	5	3	0	<-3	1.000	1.000	Mutual exclusivity
+RAD21	t(11;19)	174	5	3	0	<-3	1.000	1.000	Mutual exclusivity
+ZRSR2	t(11;19)	174	5	3	0	<-3	1.000	1.000	Mutual exclusivity
+JAK2	t(11;19)	174	5	3	0	<-3	1.000	1.000	Mutual exclusivity
+MYC	chr5loss	174	5	3	0	<-3	1.000	1.000	Mutual exclusivity
+ETV6	chr5loss	174	5	3	0	<-3	1.000	1.000	Mutual exclusivity
+RAD21	chr5loss	174	5	3	0	<-3	1.000	1.000	Mutual exclusivity
+ZRSR2	chr5loss	174	5	3	0	<-3	1.000	1.000	Mutual exclusivity
+JAK2	chr5loss	174	5	3	0	<-3	1.000	1.000	Mutual exclusivity
+MYC	chr13gain	174	5	3	0	<-3	1.000	1.000	Mutual exclusivity
+ETV6	chr13gain	174	5	3	0	<-3	1.000	1.000	Mutual exclusivity
+EZH2	chr13gain	174	5	3	0	<-3	1.000	1.000	Mutual exclusivity
+RAD21	chr13gain	174	5	3	0	<-3	1.000	1.000	Mutual exclusivity
+ZRSR2	chr13gain	174	5	3	0	<-3	1.000	1.000	Mutual exclusivity
+JAK2	chr13gain	174	5	3	0	<-3	1.000	1.000	Mutual exclusivity
+PTPN11	chr17loss	170	8	4	0	<-3	1.000	1.000	Mutual exclusivity
+PTPN11	chr7qdel	170	8	4	0	<-3	1.000	1.000	Mutual exclusivity
+SF3B1	CSF1R	174	4	4	0	<-3	1.000	1.000	Mutual exclusivity
+CSF1R	NOTCH1	174	4	4	0	<-3	1.000	1.000	Mutual exclusivity
+SF3B1	chr17loss	174	4	4	0	<-3	1.000	1.000	Mutual exclusivity
+CSF1R	chr17loss	174	4	4	0	<-3	1.000	1.000	Mutual exclusivity
+NOTCH1	chr17loss	174	4	4	0	<-3	1.000	1.000	Mutual exclusivity
+SF3B1	chr7loss	174	4	4	0	<-3	1.000	1.000	Mutual exclusivity
+CSF1R	chr7loss	174	4	4	0	<-3	1.000	1.000	Mutual exclusivity
+NOTCH1	chr7loss	174	4	4	0	<-3	1.000	1.000	Mutual exclusivity
+chr17loss	chr7loss	174	4	4	0	<-3	1.000	1.000	Mutual exclusivity
+SF3B1	chr7qdel	174	4	4	0	<-3	1.000	1.000	Mutual exclusivity
+CSF1R	chr7qdel	174	4	4	0	<-3	1.000	1.000	Mutual exclusivity
+NOTCH1	chr7qdel	174	4	4	0	<-3	1.000	1.000	Mutual exclusivity
+chr7loss	chr7qdel	174	4	4	0	<-3	1.000	1.000	Mutual exclusivity
+MYC	SF3B1	173	5	4	0	<-3	1.000	1.000	Mutual exclusivity
+ETV6	SF3B1	173	5	4	0	<-3	1.000	1.000	Mutual exclusivity
+EZH2	SF3B1	173	5	4	0	<-3	1.000	1.000	Mutual exclusivity
+MYC	CSF1R	173	5	4	0	<-3	1.000	1.000	Mutual exclusivity
+ETV6	CSF1R	173	5	4	0	<-3	1.000	1.000	Mutual exclusivity
+EZH2	CSF1R	173	5	4	0	<-3	1.000	1.000	Mutual exclusivity
+SF3B1	RAD21	173	4	5	0	<-3	1.000	1.000	Mutual exclusivity
+MYC	NOTCH1	173	5	4	0	<-3	1.000	1.000	Mutual exclusivity
+EZH2	NOTCH1	173	5	4	0	<-3	1.000	1.000	Mutual exclusivity
+RAD21	NOTCH1	173	5	4	0	<-3	1.000	1.000	Mutual exclusivity
+SF3B1	ZRSR2	173	4	5	0	<-3	1.000	1.000	Mutual exclusivity
+CSF1R	ZRSR2	173	4	5	0	<-3	1.000	1.000	Mutual exclusivity
+SF3B1	JAK2	173	4	5	0	<-3	1.000	1.000	Mutual exclusivity
+CSF1R	JAK2	173	4	5	0	<-3	1.000	1.000	Mutual exclusivity
+MYC	chr17loss	173	5	4	0	<-3	1.000	1.000	Mutual exclusivity
+ETV6	chr17loss	173	5	4	0	<-3	1.000	1.000	Mutual exclusivity
+RAD21	chr17loss	173	5	4	0	<-3	1.000	1.000	Mutual exclusivity
+ZRSR2	chr17loss	173	5	4	0	<-3	1.000	1.000	Mutual exclusivity
+JAK2	chr17loss	173	5	4	0	<-3	1.000	1.000	Mutual exclusivity
+MYC	chr7loss	173	5	4	0	<-3	1.000	1.000	Mutual exclusivity
+ETV6	chr7loss	173	5	4	0	<-3	1.000	1.000	Mutual exclusivity
+EZH2	chr7loss	173	5	4	0	<-3	1.000	1.000	Mutual exclusivity
+RAD21	chr7loss	173	5	4	0	<-3	1.000	1.000	Mutual exclusivity
+ZRSR2	chr7loss	173	5	4	0	<-3	1.000	1.000	Mutual exclusivity
+JAK2	chr7loss	173	5	4	0	<-3	1.000	1.000	Mutual exclusivity
+MYC	chr7qdel	173	5	4	0	<-3	1.000	1.000	Mutual exclusivity
+ETV6	chr7qdel	173	5	4	0	<-3	1.000	1.000	Mutual exclusivity
+EZH2	chr7qdel	173	5	4	0	<-3	1.000	1.000	Mutual exclusivity
+RAD21	chr7qdel	173	5	4	0	<-3	1.000	1.000	Mutual exclusivity
+ZRSR2	chr7qdel	173	5	4	0	<-3	1.000	1.000	Mutual exclusivity
+chr8gain	chr17loss	159	19	4	0	<-3	1.000	1.000	Mutual exclusivity
+chr8gain	chr7loss	159	19	4	0	<-3	1.000	1.000	Mutual exclusivity
+chr8gain	chr7qdel	159	19	4	0	<-3	1.000	1.000	Mutual exclusivity
+CDH2	SF3B1	177	1	4	0	<-3	1.000	1.000	Mutual exclusivity
+CDH2	CSF1R	177	1	4	0	<-3	1.000	1.000	Mutual exclusivity
+BIRC3	CSF1R	177	1	4	0	<-3	1.000	1.000	Mutual exclusivity
+MYD88	CSF1R	177	1	4	0	<-3	1.000	1.000	Mutual exclusivity
+NOTCH2	CSF1R	177	1	4	0	<-3	1.000	1.000	Mutual exclusivity
+U2AF2	CSF1R	177	1	4	0	<-3	1.000	1.000	Mutual exclusivity
+CDH2	NOTCH1	177	1	4	0	<-3	1.000	1.000	Mutual exclusivity
+BIRC3	NOTCH1	177	1	4	0	<-3	1.000	1.000	Mutual exclusivity
+MYD88	NOTCH1	177	1	4	0	<-3	1.000	1.000	Mutual exclusivity
+NOTCH2	NOTCH1	177	1	4	0	<-3	1.000	1.000	Mutual exclusivity
+U2AF2	NOTCH1	177	1	4	0	<-3	1.000	1.000	Mutual exclusivity
+GATA2	NOTCH1	177	1	4	0	<-3	1.000	1.000	Mutual exclusivity
+CDH2	chr17loss	177	1	4	0	<-3	1.000	1.000	Mutual exclusivity
+BIRC3	chr17loss	177	1	4	0	<-3	1.000	1.000	Mutual exclusivity
+MYD88	chr17loss	177	1	4	0	<-3	1.000	1.000	Mutual exclusivity
+NOTCH2	chr17loss	177	1	4	0	<-3	1.000	1.000	Mutual exclusivity
+U2AF2	chr17loss	177	1	4	0	<-3	1.000	1.000	Mutual exclusivity
+GATA2	chr17loss	177	1	4	0	<-3	1.000	1.000	Mutual exclusivity
+RIT1	chr17loss	177	1	4	0	<-3	1.000	1.000	Mutual exclusivity
+ABL1	chr17loss	177	1	4	0	<-3	1.000	1.000	Mutual exclusivity
+BRINP3	chr17loss	177	1	4	0	<-3	1.000	1.000	Mutual exclusivity
+PRPF40B	chr17loss	177	1	4	0	<-3	1.000	1.000	Mutual exclusivity
+POT1	chr17loss	177	1	4	0	<-3	1.000	1.000	Mutual exclusivity
+FBXW7	chr17loss	177	1	4	0	<-3	1.000	1.000	Mutual exclusivity
+IL7R	chr17loss	177	1	4	0	<-3	1.000	1.000	Mutual exclusivity
+TBL1XR1	chr17loss	177	1	4	0	<-3	1.000	1.000	Mutual exclusivity
+SF1	chr17loss	177	1	4	0	<-3	1.000	1.000	Mutual exclusivity
+t(16;16)	chr17loss	177	1	4	0	<-3	1.000	1.000	Mutual exclusivity
+CDH2	chr7loss	177	1	4	0	<-3	1.000	1.000	Mutual exclusivity
+BIRC3	chr7loss	177	1	4	0	<-3	1.000	1.000	Mutual exclusivity
+MYD88	chr7loss	177	1	4	0	<-3	1.000	1.000	Mutual exclusivity
+NOTCH2	chr7loss	177	1	4	0	<-3	1.000	1.000	Mutual exclusivity
+U2AF2	chr7loss	177	1	4	0	<-3	1.000	1.000	Mutual exclusivity
+GATA2	chr7loss	177	1	4	0	<-3	1.000	1.000	Mutual exclusivity
+RIT1	chr7loss	177	1	4	0	<-3	1.000	1.000	Mutual exclusivity
+ABL1	chr7loss	177	1	4	0	<-3	1.000	1.000	Mutual exclusivity
+BRINP3	chr7loss	177	1	4	0	<-3	1.000	1.000	Mutual exclusivity
+PRPF40B	chr7loss	177	1	4	0	<-3	1.000	1.000	Mutual exclusivity
+POT1	chr7loss	177	1	4	0	<-3	1.000	1.000	Mutual exclusivity
+FBXW7	chr7loss	177	1	4	0	<-3	1.000	1.000	Mutual exclusivity
+IL7R	chr7loss	177	1	4	0	<-3	1.000	1.000	Mutual exclusivity
+TBL1XR1	chr7loss	177	1	4	0	<-3	1.000	1.000	Mutual exclusivity
+SF1	chr7loss	177	1	4	0	<-3	1.000	1.000	Mutual exclusivity
+t(16;16)	chr7loss	177	1	4	0	<-3	1.000	1.000	Mutual exclusivity
+CDH2	chr7qdel	177	1	4	0	<-3	1.000	1.000	Mutual exclusivity
+BIRC3	chr7qdel	177	1	4	0	<-3	1.000	1.000	Mutual exclusivity
+MYD88	chr7qdel	177	1	4	0	<-3	1.000	1.000	Mutual exclusivity
+NOTCH2	chr7qdel	177	1	4	0	<-3	1.000	1.000	Mutual exclusivity
+U2AF2	chr7qdel	177	1	4	0	<-3	1.000	1.000	Mutual exclusivity
+GATA2	chr7qdel	177	1	4	0	<-3	1.000	1.000	Mutual exclusivity
+RIT1	chr7qdel	177	1	4	0	<-3	1.000	1.000	Mutual exclusivity
+ABL1	chr7qdel	177	1	4	0	<-3	1.000	1.000	Mutual exclusivity
+BRINP3	chr7qdel	177	1	4	0	<-3	1.000	1.000	Mutual exclusivity
+PRPF40B	chr7qdel	177	1	4	0	<-3	1.000	1.000	Mutual exclusivity
+POT1	chr7qdel	177	1	4	0	<-3	1.000	1.000	Mutual exclusivity
+FBXW7	chr7qdel	177	1	4	0	<-3	1.000	1.000	Mutual exclusivity
+IL7R	chr7qdel	177	1	4	0	<-3	1.000	1.000	Mutual exclusivity
+TBL1XR1	chr7qdel	177	1	4	0	<-3	1.000	1.000	Mutual exclusivity
+SF1	chr7qdel	177	1	4	0	<-3	1.000	1.000	Mutual exclusivity
+t(16;16)	chr7qdel	177	1	4	0	<-3	1.000	1.000	Mutual exclusivity
+ASXL1	SF3B1	155	23	4	0	<-3	1.000	1.000	Mutual exclusivity
+ASXL1	CSF1R	155	23	4	0	<-3	1.000	1.000	Mutual exclusivity
+ASXL1	chr17loss	155	23	4	0	<-3	1.000	1.000	Mutual exclusivity
+ASXL1	chr7loss	155	23	4	0	<-3	1.000	1.000	Mutual exclusivity
+ASXL1	chr7qdel	155	23	4	0	<-3	1.000	1.000	Mutual exclusivity
+CDH2	ATM	174	1	7	0	<-3	1.000	1.000	Mutual exclusivity
+CDH2	PHF6	174	1	7	0	<-3	1.000	1.000	Mutual exclusivity
+BIRC3	PHF6	174	1	7	0	<-3	1.000	1.000	Mutual exclusivity
+MYD88	PHF6	174	1	7	0	<-3	1.000	1.000	Mutual exclusivity
+NOTCH2	PHF6	174	1	7	0	<-3	1.000	1.000	Mutual exclusivity
+U2AF2	PHF6	174	1	7	0	<-3	1.000	1.000	Mutual exclusivity
+GATA2	PHF6	174	1	7	0	<-3	1.000	1.000	Mutual exclusivity
+CDH2	BCOR	174	1	7	0	<-3	1.000	1.000	Mutual exclusivity
+BIRC3	BCOR	174	1	7	0	<-3	1.000	1.000	Mutual exclusivity
+MYD88	BCOR	174	1	7	0	<-3	1.000	1.000	Mutual exclusivity
+NOTCH2	BCOR	174	1	7	0	<-3	1.000	1.000	Mutual exclusivity
+U2AF2	BCOR	174	1	7	0	<-3	1.000	1.000	Mutual exclusivity
+GATA2	BCOR	174	1	7	0	<-3	1.000	1.000	Mutual exclusivity
+RIT1	BCOR	174	1	7	0	<-3	1.000	1.000	Mutual exclusivity
+CSF3R	ATM	173	2	7	0	<-3	1.000	1.000	Mutual exclusivity
+CSF3R	PHF6	173	2	7	0	<-3	1.000	1.000	Mutual exclusivity
+MAP2K1	PHF6	173	2	7	0	<-3	1.000	1.000	Mutual exclusivity
+SETBP1	PHF6	173	2	7	0	<-3	1.000	1.000	Mutual exclusivity
+CSF3R	BCOR	173	2	7	0	<-3	1.000	1.000	Mutual exclusivity
+MAP2K1	BCOR	173	2	7	0	<-3	1.000	1.000	Mutual exclusivity
+SETBP1	BCOR	173	2	7	0	<-3	1.000	1.000	Mutual exclusivity
+NRAS	SF3B1	156	22	4	0	<-3	1.000	1.000	Mutual exclusivity
+NRAS	chr17loss	156	22	4	0	<-3	1.000	1.000	Mutual exclusivity
+NRAS	chr7loss	156	22	4	0	<-3	1.000	1.000	Mutual exclusivity
+NRAS	chr7qdel	156	22	4	0	<-3	1.000	1.000	Mutual exclusivity
+DNMT3A	CSF1R	121	57	3	1	-0.499	1.000	1.000	Mutual exclusivity
+NPM1	CSF1R	121	57	3	1	-0.499	1.000	1.000	Mutual exclusivity
+DNMT3A	NOTCH1	121	57	3	1	-0.499	1.000	1.000	Mutual exclusivity
+DNMT3A	chr17loss	121	57	3	1	-0.499	1.000	1.000	Mutual exclusivity
+SRSF2	NOTCH2	167	14	1	0	<-3	1.000	1.000	Mutual exclusivity
+SRSF2	U2AF2	167	14	1	0	<-3	1.000	1.000	Mutual exclusivity
+SRSF2	GATA2	167	14	1	0	<-3	1.000	1.000	Mutual exclusivity
+SRSF2	RIT1	167	14	1	0	<-3	1.000	1.000	Mutual exclusivity
+SRSF2	ABL1	167	14	1	0	<-3	1.000	1.000	Mutual exclusivity
+SRSF2	BRINP3	167	14	1	0	<-3	1.000	1.000	Mutual exclusivity
+SRSF2	PRPF40B	167	14	1	0	<-3	1.000	1.000	Mutual exclusivity
+SRSF2	POT1	167	14	1	0	<-3	1.000	1.000	Mutual exclusivity
+SRSF2	FBXW7	167	14	1	0	<-3	1.000	1.000	Mutual exclusivity
+SRSF2	TBL1XR1	167	14	1	0	<-3	1.000	1.000	Mutual exclusivity
+SRSF2	SF1	167	14	1	0	<-3	1.000	1.000	Mutual exclusivity
+SRSF2	t(16;16)	167	14	1	0	<-3	1.000	1.000	Mutual exclusivity
+KIT	SF3B1	167	11	4	0	<-3	1.000	1.000	Mutual exclusivity
+BCORL1	SF3B1	167	11	4	0	<-3	1.000	1.000	Mutual exclusivity
+KIT	CSF1R	167	11	4	0	<-3	1.000	1.000	Mutual exclusivity
+KIT	NOTCH1	167	11	4	0	<-3	1.000	1.000	Mutual exclusivity
+BCORL1	NOTCH1	167	11	4	0	<-3	1.000	1.000	Mutual exclusivity
+BCORL1	chr17loss	167	11	4	0	<-3	1.000	1.000	Mutual exclusivity
+KIT	chr7loss	167	11	4	0	<-3	1.000	1.000	Mutual exclusivity
+BCORL1	chr7loss	167	11	4	0	<-3	1.000	1.000	Mutual exclusivity
+KIT	chr7qdel	167	11	4	0	<-3	1.000	1.000	Mutual exclusivity
+BCORL1	chr7qdel	167	11	4	0	<-3	1.000	1.000	Mutual exclusivity
+NRAS	CBL	157	22	3	0	<-3	1.000	1.000	Mutual exclusivity
+NRAS	MYCN	157	22	3	0	<-3	1.000	1.000	Mutual exclusivity
+NRAS	BRAF	157	22	3	0	<-3	1.000	1.000	Mutual exclusivity
+NRAS	chr22gain	157	22	3	0	<-3	1.000	1.000	Mutual exclusivity
+NRAS	chr5loss	157	22	3	0	<-3	1.000	1.000	Mutual exclusivity
+NRAS	chr13gain	157	22	3	0	<-3	1.000	1.000	Mutual exclusivity
+DNMT3A	CSF3R	122	58	2	0	<-3	1.000	1.000	Mutual exclusivity
+NPM1	CSF3R	122	58	2	0	<-3	1.000	1.000	Mutual exclusivity
+DNMT3A	MAP2K1	122	58	2	0	<-3	1.000	1.000	Mutual exclusivity
+NPM1	MAP2K1	122	58	2	0	<-3	1.000	1.000	Mutual exclusivity
+DNMT3A	SETBP1	122	58	2	0	<-3	1.000	1.000	Mutual exclusivity
+DNMT3A	PTEN	122	58	2	0	<-3	1.000	1.000	Mutual exclusivity
+NPM1	PTEN	122	58	2	0	<-3	1.000	1.000	Mutual exclusivity
+NPM1	CDKN2A	122	58	2	0	<-3	1.000	1.000	Mutual exclusivity
+NPM1	t(15;17)	122	58	2	0	<-3	1.000	1.000	Mutual exclusivity
+DNMT3A	chr11qdel	122	58	2	0	<-3	1.000	1.000	Mutual exclusivity
+NPM1	chr11qdel	122	58	2	0	<-3	1.000	1.000	Mutual exclusivity
+MYC	SMC1A	171	5	6	0	<-3	1.000	1.000	Mutual exclusivity
+ZRSR2	SMC1A	171	5	6	0	<-3	1.000	1.000	Mutual exclusivity
+MYC	t(8;21)	171	5	6	0	<-3	1.000	1.000	Mutual exclusivity
+ETV6	t(8;21)	171	5	6	0	<-3	1.000	1.000	Mutual exclusivity
+EZH2	t(8;21)	171	5	6	0	<-3	1.000	1.000	Mutual exclusivity
+ZRSR2	t(8;21)	171	5	6	0	<-3	1.000	1.000	Mutual exclusivity
+MYC	chr5qdel	171	5	6	0	<-3	1.000	1.000	Mutual exclusivity
+ETV6	chr5qdel	171	5	6	0	<-3	1.000	1.000	Mutual exclusivity
+RAD21	chr5qdel	171	5	6	0	<-3	1.000	1.000	Mutual exclusivity
+ZRSR2	chr5qdel	171	5	6	0	<-3	1.000	1.000	Mutual exclusivity
+MYC	chr21gain	171	5	6	0	<-3	1.000	1.000	Mutual exclusivity
+RAD21	chr21gain	171	5	6	0	<-3	1.000	1.000	Mutual exclusivity
+JAK2	chr21gain	171	5	6	0	<-3	1.000	1.000	Mutual exclusivity
+SRSF2	SF3B1	164	14	4	0	<-3	1.000	1.000	Mutual exclusivity
+SRSF2	chr17loss	164	14	4	0	<-3	1.000	1.000	Mutual exclusivity
+SRSF2	chr7loss	164	14	4	0	<-3	1.000	1.000	Mutual exclusivity
+SRSF2	chr7qdel	164	14	4	0	<-3	1.000	1.000	Mutual exclusivity
+CSF3R	ETV6	175	2	5	0	<-3	1.000	1.000	Mutual exclusivity
+MYC	MAP2K1	175	5	2	0	<-3	1.000	1.000	Mutual exclusivity
+ETV6	MAP2K1	175	5	2	0	<-3	1.000	1.000	Mutual exclusivity
+CSF3R	EZH2	175	2	5	0	<-3	1.000	1.000	Mutual exclusivity
+MAP2K1	EZH2	175	2	5	0	<-3	1.000	1.000	Mutual exclusivity
+MYC	SETBP1	175	5	2	0	<-3	1.000	1.000	Mutual exclusivity
+ETV6	SETBP1	175	5	2	0	<-3	1.000	1.000	Mutual exclusivity
+EZH2	SETBP1	175	5	2	0	<-3	1.000	1.000	Mutual exclusivity
+CSF3R	RAD21	175	2	5	0	<-3	1.000	1.000	Mutual exclusivity
+MAP2K1	RAD21	175	2	5	0	<-3	1.000	1.000	Mutual exclusivity
+SETBP1	RAD21	175	2	5	0	<-3	1.000	1.000	Mutual exclusivity
+CSF3R	ZRSR2	175	2	5	0	<-3	1.000	1.000	Mutual exclusivity
+MAP2K1	ZRSR2	175	2	5	0	<-3	1.000	1.000	Mutual exclusivity
+SETBP1	ZRSR2	175	2	5	0	<-3	1.000	1.000	Mutual exclusivity
+CSF3R	JAK2	175	2	5	0	<-3	1.000	1.000	Mutual exclusivity
+MAP2K1	JAK2	175	2	5	0	<-3	1.000	1.000	Mutual exclusivity
+SETBP1	JAK2	175	2	5	0	<-3	1.000	1.000	Mutual exclusivity
+MYC	PTEN	175	5	2	0	<-3	1.000	1.000	Mutual exclusivity
+ETV6	PTEN	175	5	2	0	<-3	1.000	1.000	Mutual exclusivity
+EZH2	PTEN	175	5	2	0	<-3	1.000	1.000	Mutual exclusivity
+RAD21	PTEN	175	5	2	0	<-3	1.000	1.000	Mutual exclusivity
+ZRSR2	PTEN	175	5	2	0	<-3	1.000	1.000	Mutual exclusivity
+JAK2	PTEN	175	5	2	0	<-3	1.000	1.000	Mutual exclusivity
+MYC	CDKN2A	175	5	2	0	<-3	1.000	1.000	Mutual exclusivity
+ETV6	CDKN2A	175	5	2	0	<-3	1.000	1.000	Mutual exclusivity
+EZH2	CDKN2A	175	5	2	0	<-3	1.000	1.000	Mutual exclusivity
+RAD21	CDKN2A	175	5	2	0	<-3	1.000	1.000	Mutual exclusivity
+ZRSR2	CDKN2A	175	5	2	0	<-3	1.000	1.000	Mutual exclusivity
+JAK2	CDKN2A	175	5	2	0	<-3	1.000	1.000	Mutual exclusivity
+MYC	t(15;17)	175	5	2	0	<-3	1.000	1.000	Mutual exclusivity
+ETV6	t(15;17)	175	5	2	0	<-3	1.000	1.000	Mutual exclusivity
+EZH2	t(15;17)	175	5	2	0	<-3	1.000	1.000	Mutual exclusivity
+RAD21	t(15;17)	175	5	2	0	<-3	1.000	1.000	Mutual exclusivity
+ZRSR2	t(15;17)	175	5	2	0	<-3	1.000	1.000	Mutual exclusivity
+JAK2	t(15;17)	175	5	2	0	<-3	1.000	1.000	Mutual exclusivity
+MYC	chr11qdel	175	5	2	0	<-3	1.000	1.000	Mutual exclusivity
+ETV6	chr11qdel	175	5	2	0	<-3	1.000	1.000	Mutual exclusivity
+EZH2	chr11qdel	175	5	2	0	<-3	1.000	1.000	Mutual exclusivity
+RAD21	chr11qdel	175	5	2	0	<-3	1.000	1.000	Mutual exclusivity
+ZRSR2	chr11qdel	175	5	2	0	<-3	1.000	1.000	Mutual exclusivity
+JAK2	chr11qdel	175	5	2	0	<-3	1.000	1.000	Mutual exclusivity
+TP53	SRSF2	156	12	13	1	0.000	1.000	1.000	Mutual exclusivity
+MYC	SRSF2	163	5	14	0	<-3	1.000	1.000	Mutual exclusivity
+ETV6	SRSF2	163	5	14	0	<-3	1.000	1.000	Mutual exclusivity
+TP53	SF3B1	165	13	4	0	<-3	1.000	1.000	Mutual exclusivity
+RUNX1	SF3B1	165	13	4	0	<-3	1.000	1.000	Mutual exclusivity
+TP53	CSF1R	165	13	4	0	<-3	1.000	1.000	Mutual exclusivity
+RUNX1	CSF1R	165	13	4	0	<-3	1.000	1.000	Mutual exclusivity
+TP53	NOTCH1	165	13	4	0	<-3	1.000	1.000	Mutual exclusivity
+RUNX1	NOTCH1	165	13	4	0	<-3	1.000	1.000	Mutual exclusivity
+RUNX1	chr17loss	165	13	4	0	<-3	1.000	1.000	Mutual exclusivity
+RUNX1	chr7loss	165	13	4	0	<-3	1.000	1.000	Mutual exclusivity
+RUNX1	chr7qdel	165	13	4	0	<-3	1.000	1.000	Mutual exclusivity
+TET2	SF3B1	141	37	3	1	0.345	1.000	1.000	Co-occurrence
+TET2	CSF1R	141	37	3	1	0.345	1.000	1.000	Co-occurrence
+TET2	NOTCH1	141	37	3	1	0.345	1.000	1.000	Co-occurrence
+TET2	chr7loss	141	37	3	1	0.345	1.000	1.000	Co-occurrence
+TET2	chr7qdel	141	37	3	1	0.345	1.000	1.000	Co-occurrence
+CBL	PTPN11	171	3	8	0	<-3	1.000	1.000	Mutual exclusivity
+MYCN	PTPN11	171	3	8	0	<-3	1.000	1.000	Mutual exclusivity
+BRAF	PTPN11	171	3	8	0	<-3	1.000	1.000	Mutual exclusivity
+U2AF1	PTPN11	171	3	8	0	<-3	1.000	1.000	Mutual exclusivity
+HNRNPK	PTPN11	171	3	8	0	<-3	1.000	1.000	Mutual exclusivity
+PTPN11	chr22gain	171	8	3	0	<-3	1.000	1.000	Mutual exclusivity
+PTPN11	t(11;19)	171	8	3	0	<-3	1.000	1.000	Mutual exclusivity
+PTPN11	chr5loss	171	8	3	0	<-3	1.000	1.000	Mutual exclusivity
+PTPN11	chr13gain	171	8	3	0	<-3	1.000	1.000	Mutual exclusivity
+MYC	PTPN11	169	5	8	0	<-3	1.000	1.000	Mutual exclusivity
+ETV6	PTPN11	169	5	8	0	<-3	1.000	1.000	Mutual exclusivity
+EZH2	PTPN11	169	5	8	0	<-3	1.000	1.000	Mutual exclusivity
+ZRSR2	PTPN11	169	5	8	0	<-3	1.000	1.000	Mutual exclusivity
+JAK2	PTPN11	169	5	8	0	<-3	1.000	1.000	Mutual exclusivity
+MYC	ETV6	172	5	5	0	<-3	1.000	1.000	Mutual exclusivity
+MYC	EZH2	172	5	5	0	<-3	1.000	1.000	Mutual exclusivity
+ETV6	EZH2	172	5	5	0	<-3	1.000	1.000	Mutual exclusivity
+MYC	RAD21	172	5	5	0	<-3	1.000	1.000	Mutual exclusivity
+ETV6	RAD21	172	5	5	0	<-3	1.000	1.000	Mutual exclusivity
+EZH2	RAD21	172	5	5	0	<-3	1.000	1.000	Mutual exclusivity
+MYC	ZRSR2	172	5	5	0	<-3	1.000	1.000	Mutual exclusivity
+ETV6	ZRSR2	172	5	5	0	<-3	1.000	1.000	Mutual exclusivity
+EZH2	ZRSR2	172	5	5	0	<-3	1.000	1.000	Mutual exclusivity
+RAD21	ZRSR2	172	5	5	0	<-3	1.000	1.000	Mutual exclusivity
+MYC	JAK2	172	5	5	0	<-3	1.000	1.000	Mutual exclusivity
+ETV6	JAK2	172	5	5	0	<-3	1.000	1.000	Mutual exclusivity
+EZH2	JAK2	172	5	5	0	<-3	1.000	1.000	Mutual exclusivity
+RAD21	JAK2	172	5	5	0	<-3	1.000	1.000	Mutual exclusivity
+ZRSR2	JAK2	172	5	5	0	<-3	1.000	1.000	Mutual exclusivity
+SF3B1	SMC1A	172	4	6	0	<-3	1.000	1.000	Mutual exclusivity
+CSF1R	SMC1A	172	4	6	0	<-3	1.000	1.000	Mutual exclusivity
+NOTCH1	SMC1A	172	4	6	0	<-3	1.000	1.000	Mutual exclusivity
+SF3B1	t(8;21)	172	4	6	0	<-3	1.000	1.000	Mutual exclusivity
+CSF1R	t(8;21)	172	4	6	0	<-3	1.000	1.000	Mutual exclusivity
+NOTCH1	t(8;21)	172	4	6	0	<-3	1.000	1.000	Mutual exclusivity
+CSF1R	chr5qdel	172	4	6	0	<-3	1.000	1.000	Mutual exclusivity
+NOTCH1	chr5qdel	172	4	6	0	<-3	1.000	1.000	Mutual exclusivity
+SMC1A	chr17loss	172	6	4	0	<-3	1.000	1.000	Mutual exclusivity
+t(8;21)	chr17loss	172	6	4	0	<-3	1.000	1.000	Mutual exclusivity
+SMC1A	chr7loss	172	6	4	0	<-3	1.000	1.000	Mutual exclusivity
+t(8;21)	chr7loss	172	6	4	0	<-3	1.000	1.000	Mutual exclusivity
+chr5qdel	chr7loss	172	6	4	0	<-3	1.000	1.000	Mutual exclusivity
+SMC1A	chr7qdel	172	6	4	0	<-3	1.000	1.000	Mutual exclusivity
+t(8;21)	chr7qdel	172	6	4	0	<-3	1.000	1.000	Mutual exclusivity
+SF3B1	chr21gain	172	4	6	0	<-3	1.000	1.000	Mutual exclusivity
+CSF1R	chr21gain	172	4	6	0	<-3	1.000	1.000	Mutual exclusivity
+NOTCH1	chr21gain	172	4	6	0	<-3	1.000	1.000	Mutual exclusivity
+chr17loss	chr21gain	172	4	6	0	<-3	1.000	1.000	Mutual exclusivity
+chr7loss	chr21gain	172	4	6	0	<-3	1.000	1.000	Mutual exclusivity
+chr7qdel	chr21gain	172	4	6	0	<-3	1.000	1.000	Mutual exclusivity
+NF1	chr17loss	169	9	4	0	<-3	1.000	1.000	Mutual exclusivity
+inv(16)	chr17loss	169	9	4	0	<-3	1.000	1.000	Mutual exclusivity
+inv(16)	chr7loss	169	9	4	0	<-3	1.000	1.000	Mutual exclusivity
+NF1	chr7qdel	169	9	4	0	<-3	1.000	1.000	Mutual exclusivity
+inv(16)	chr7qdel	169	9	4	0	<-3	1.000	1.000	Mutual exclusivity
+SF3B1	U2AF1	175	4	3	0	<-3	1.000	1.000	Mutual exclusivity
+CSF1R	U2AF1	175	4	3	0	<-3	1.000	1.000	Mutual exclusivity
+SF3B1	HNRNPK	175	4	3	0	<-3	1.000	1.000	Mutual exclusivity
+CSF1R	HNRNPK	175	4	3	0	<-3	1.000	1.000	Mutual exclusivity
+NOTCH1	HNRNPK	175	4	3	0	<-3	1.000	1.000	Mutual exclusivity
+SF3B1	chr22gain	175	4	3	0	<-3	1.000	1.000	Mutual exclusivity
+CSF1R	chr22gain	175	4	3	0	<-3	1.000	1.000	Mutual exclusivity
+NOTCH1	chr22gain	175	4	3	0	<-3	1.000	1.000	Mutual exclusivity
+SF3B1	t(11;19)	175	4	3	0	<-3	1.000	1.000	Mutual exclusivity
+CSF1R	t(11;19)	175	4	3	0	<-3	1.000	1.000	Mutual exclusivity
+NOTCH1	t(11;19)	175	4	3	0	<-3	1.000	1.000	Mutual exclusivity
+chr17loss	t(11;19)	175	4	3	0	<-3	1.000	1.000	Mutual exclusivity
+SF3B1	chr5loss	175	4	3	0	<-3	1.000	1.000	Mutual exclusivity
+CSF1R	chr5loss	175	4	3	0	<-3	1.000	1.000	Mutual exclusivity
+NOTCH1	chr5loss	175	4	3	0	<-3	1.000	1.000	Mutual exclusivity
+SF3B1	chr13gain	175	4	3	0	<-3	1.000	1.000	Mutual exclusivity
+CSF1R	chr13gain	175	4	3	0	<-3	1.000	1.000	Mutual exclusivity
+NOTCH1	chr13gain	175	4	3	0	<-3	1.000	1.000	Mutual exclusivity
+chr17loss	chr13gain	175	4	3	0	<-3	1.000	1.000	Mutual exclusivity
+chr7loss	chr13gain	175	4	3	0	<-3	1.000	1.000	Mutual exclusivity
+chr7qdel	chr13gain	175	4	3	0	<-3	1.000	1.000	Mutual exclusivity
+ATM	SF3B1	171	7	4	0	<-3	1.000	1.000	Mutual exclusivity
+ATM	CSF1R	171	7	4	0	<-3	1.000	1.000	Mutual exclusivity
+SF3B1	PHF6	171	4	7	0	<-3	1.000	1.000	Mutual exclusivity
+CSF1R	PHF6	171	4	7	0	<-3	1.000	1.000	Mutual exclusivity
+ATM	NOTCH1	171	7	4	0	<-3	1.000	1.000	Mutual exclusivity
+PHF6	NOTCH1	171	7	4	0	<-3	1.000	1.000	Mutual exclusivity
+SF3B1	BCOR	171	4	7	0	<-3	1.000	1.000	Mutual exclusivity
+NOTCH1	BCOR	171	4	7	0	<-3	1.000	1.000	Mutual exclusivity
+ATM	chr17loss	171	7	4	0	<-3	1.000	1.000	Mutual exclusivity
+PHF6	chr17loss	171	7	4	0	<-3	1.000	1.000	Mutual exclusivity
+BCOR	chr17loss	171	7	4	0	<-3	1.000	1.000	Mutual exclusivity
+PHF6	chr7loss	171	7	4	0	<-3	1.000	1.000	Mutual exclusivity
+BCOR	chr7loss	171	7	4	0	<-3	1.000	1.000	Mutual exclusivity
+ATM	chr7qdel	171	7	4	0	<-3	1.000	1.000	Mutual exclusivity
+PHF6	chr7qdel	171	7	4	0	<-3	1.000	1.000	Mutual exclusivity
+BCOR	chr7qdel	171	7	4	0	<-3	1.000	1.000	Mutual exclusivity
+STAG2	SF3B1	168	10	4	0	<-3	1.000	1.000	Mutual exclusivity
+IDH1	CSF1R	168	10	4	0	<-3	1.000	1.000	Mutual exclusivity
+STAG2	CSF1R	168	10	4	0	<-3	1.000	1.000	Mutual exclusivity
+IDH1	NOTCH1	168	10	4	0	<-3	1.000	1.000	Mutual exclusivity
+STAG2	NOTCH1	168	10	4	0	<-3	1.000	1.000	Mutual exclusivity
+STAG2	chr17loss	168	10	4	0	<-3	1.000	1.000	Mutual exclusivity
+KRAS	chr17loss	168	10	4	0	<-3	1.000	1.000	Mutual exclusivity
+IDH1	chr7loss	168	10	4	0	<-3	1.000	1.000	Mutual exclusivity
+STAG2	chr7loss	168	10	4	0	<-3	1.000	1.000	Mutual exclusivity
+KRAS	chr7loss	168	10	4	0	<-3	1.000	1.000	Mutual exclusivity
+IDH1	chr7qdel	168	10	4	0	<-3	1.000	1.000	Mutual exclusivity
+STAG2	chr7qdel	168	10	4	0	<-3	1.000	1.000	Mutual exclusivity
+KRAS	chr7qdel	168	10	4	0	<-3	1.000	1.000	Mutual exclusivity
+CDH2	IDH1	171	1	10	0	<-3	1.000	1.000	Mutual exclusivity
+CDH2	STAG2	171	1	10	0	<-3	1.000	1.000	Mutual exclusivity
+ATM	SRSF2	161	7	14	0	<-3	1.000	1.000	Mutual exclusivity
+IDH1	BIRC3	171	10	1	0	<-3	1.000	1.000	Mutual exclusivity
+STAG2	BIRC3	171	10	1	0	<-3	1.000	1.000	Mutual exclusivity
+IDH1	MYD88	171	10	1	0	<-3	1.000	1.000	Mutual exclusivity
+STAG2	MYD88	171	10	1	0	<-3	1.000	1.000	Mutual exclusivity
+IDH1	NOTCH2	171	10	1	0	<-3	1.000	1.000	Mutual exclusivity
+STAG2	NOTCH2	171	10	1	0	<-3	1.000	1.000	Mutual exclusivity
+IDH1	U2AF2	171	10	1	0	<-3	1.000	1.000	Mutual exclusivity
+STAG2	U2AF2	171	10	1	0	<-3	1.000	1.000	Mutual exclusivity
+IDH1	GATA2	171	10	1	0	<-3	1.000	1.000	Mutual exclusivity
+STAG2	GATA2	171	10	1	0	<-3	1.000	1.000	Mutual exclusivity
+CDH2	KRAS	171	1	10	0	<-3	1.000	1.000	Mutual exclusivity
+BIRC3	KRAS	171	1	10	0	<-3	1.000	1.000	Mutual exclusivity
+MYD88	KRAS	171	1	10	0	<-3	1.000	1.000	Mutual exclusivity
+NOTCH2	KRAS	171	1	10	0	<-3	1.000	1.000	Mutual exclusivity
+U2AF2	KRAS	171	1	10	0	<-3	1.000	1.000	Mutual exclusivity
+GATA2	KRAS	171	1	10	0	<-3	1.000	1.000	Mutual exclusivity
+SRSF2	PHF6	161	14	7	0	<-3	1.000	1.000	Mutual exclusivity
+IDH1	RIT1	171	10	1	0	<-3	1.000	1.000	Mutual exclusivity
+STAG2	RIT1	171	10	1	0	<-3	1.000	1.000	Mutual exclusivity
+KRAS	RIT1	171	10	1	0	<-3	1.000	1.000	Mutual exclusivity
+IDH1	ABL1	171	10	1	0	<-3	1.000	1.000	Mutual exclusivity
+STAG2	ABL1	171	10	1	0	<-3	1.000	1.000	Mutual exclusivity
+KRAS	ABL1	171	10	1	0	<-3	1.000	1.000	Mutual exclusivity
+IDH1	BRINP3	171	10	1	0	<-3	1.000	1.000	Mutual exclusivity
+STAG2	BRINP3	171	10	1	0	<-3	1.000	1.000	Mutual exclusivity
+KRAS	BRINP3	171	10	1	0	<-3	1.000	1.000	Mutual exclusivity
+IDH1	PRPF40B	171	10	1	0	<-3	1.000	1.000	Mutual exclusivity
+STAG2	PRPF40B	171	10	1	0	<-3	1.000	1.000	Mutual exclusivity
+KRAS	PRPF40B	171	10	1	0	<-3	1.000	1.000	Mutual exclusivity
+IDH1	POT1	171	10	1	0	<-3	1.000	1.000	Mutual exclusivity
+STAG2	POT1	171	10	1	0	<-3	1.000	1.000	Mutual exclusivity
+KRAS	POT1	171	10	1	0	<-3	1.000	1.000	Mutual exclusivity
+STAG2	FBXW7	171	10	1	0	<-3	1.000	1.000	Mutual exclusivity
+KRAS	FBXW7	171	10	1	0	<-3	1.000	1.000	Mutual exclusivity
+IDH1	IL7R	171	10	1	0	<-3	1.000	1.000	Mutual exclusivity
+STAG2	IL7R	171	10	1	0	<-3	1.000	1.000	Mutual exclusivity
+KRAS	IL7R	171	10	1	0	<-3	1.000	1.000	Mutual exclusivity
+IDH1	TBL1XR1	171	10	1	0	<-3	1.000	1.000	Mutual exclusivity
+STAG2	TBL1XR1	171	10	1	0	<-3	1.000	1.000	Mutual exclusivity
+KRAS	TBL1XR1	171	10	1	0	<-3	1.000	1.000	Mutual exclusivity
+IDH1	SF1	171	10	1	0	<-3	1.000	1.000	Mutual exclusivity
+STAG2	SF1	171	10	1	0	<-3	1.000	1.000	Mutual exclusivity
+KRAS	SF1	171	10	1	0	<-3	1.000	1.000	Mutual exclusivity
+IDH1	t(16;16)	171	10	1	0	<-3	1.000	1.000	Mutual exclusivity
+STAG2	t(16;16)	171	10	1	0	<-3	1.000	1.000	Mutual exclusivity
+KRAS	t(16;16)	171	10	1	0	<-3	1.000	1.000	Mutual exclusivity
+ASXL1	MAP2K1	157	23	2	0	<-3	1.000	1.000	Mutual exclusivity
+ASXL1	PTEN	157	23	2	0	<-3	1.000	1.000	Mutual exclusivity
+ASXL1	CDKN2A	157	23	2	0	<-3	1.000	1.000	Mutual exclusivity
+ASXL1	t(15;17)	157	23	2	0	<-3	1.000	1.000	Mutual exclusivity
+ASXL1	chr11qdel	157	23	2	0	<-3	1.000	1.000	Mutual exclusivity
+CDH2	NF1	172	1	9	0	<-3	1.000	1.000	Mutual exclusivity
+NF1	BIRC3	172	9	1	0	<-3	1.000	1.000	Mutual exclusivity
+NF1	MYD88	172	9	1	0	<-3	1.000	1.000	Mutual exclusivity
+NF1	NOTCH2	172	9	1	0	<-3	1.000	1.000	Mutual exclusivity
+NF1	U2AF2	172	9	1	0	<-3	1.000	1.000	Mutual exclusivity
+NF1	GATA2	172	9	1	0	<-3	1.000	1.000	Mutual exclusivity
+NF1	RIT1	172	9	1	0	<-3	1.000	1.000	Mutual exclusivity
+NF1	ABL1	172	9	1	0	<-3	1.000	1.000	Mutual exclusivity
+NF1	BRINP3	172	9	1	0	<-3	1.000	1.000	Mutual exclusivity
+NF1	PRPF40B	172	9	1	0	<-3	1.000	1.000	Mutual exclusivity
+NF1	POT1	172	9	1	0	<-3	1.000	1.000	Mutual exclusivity
+NF1	FBXW7	172	9	1	0	<-3	1.000	1.000	Mutual exclusivity
+NF1	IL7R	172	9	1	0	<-3	1.000	1.000	Mutual exclusivity
+NF1	TBL1XR1	172	9	1	0	<-3	1.000	1.000	Mutual exclusivity
+NF1	SF1	172	9	1	0	<-3	1.000	1.000	Mutual exclusivity
+NF1	t(16;16)	172	9	1	0	<-3	1.000	1.000	Mutual exclusivity
+CDH2	inv(16)	172	1	9	0	<-3	1.000	1.000	Mutual exclusivity
+BIRC3	inv(16)	172	1	9	0	<-3	1.000	1.000	Mutual exclusivity
+MYD88	inv(16)	172	1	9	0	<-3	1.000	1.000	Mutual exclusivity
+NOTCH2	inv(16)	172	1	9	0	<-3	1.000	1.000	Mutual exclusivity
+U2AF2	inv(16)	172	1	9	0	<-3	1.000	1.000	Mutual exclusivity
+GATA2	inv(16)	172	1	9	0	<-3	1.000	1.000	Mutual exclusivity
+RIT1	inv(16)	172	1	9	0	<-3	1.000	1.000	Mutual exclusivity
+ABL1	inv(16)	172	1	9	0	<-3	1.000	1.000	Mutual exclusivity
+BRINP3	inv(16)	172	1	9	0	<-3	1.000	1.000	Mutual exclusivity
+PRPF40B	inv(16)	172	1	9	0	<-3	1.000	1.000	Mutual exclusivity
+POT1	inv(16)	172	1	9	0	<-3	1.000	1.000	Mutual exclusivity
+FBXW7	inv(16)	172	1	9	0	<-3	1.000	1.000	Mutual exclusivity
+IL7R	inv(16)	172	1	9	0	<-3	1.000	1.000	Mutual exclusivity
+TBL1XR1	inv(16)	172	1	9	0	<-3	1.000	1.000	Mutual exclusivity
+t(16;16)	inv(16)	172	1	9	0	<-3	1.000	1.000	Mutual exclusivity
+ASXL1	CBL	156	23	3	0	<-3	1.000	1.000	Mutual exclusivity
+ASXL1	MYCN	156	23	3	0	<-3	1.000	1.000	Mutual exclusivity
+ASXL1	U2AF1	156	23	3	0	<-3	1.000	1.000	Mutual exclusivity
+ASXL1	HNRNPK	156	23	3	0	<-3	1.000	1.000	Mutual exclusivity
+ASXL1	chr22gain	156	23	3	0	<-3	1.000	1.000	Mutual exclusivity
+ASXL1	t(11;19)	156	23	3	0	<-3	1.000	1.000	Mutual exclusivity
+ASXL1	chr5loss	156	23	3	0	<-3	1.000	1.000	Mutual exclusivity
+ASXL1	chr13gain	156	23	3	0	<-3	1.000	1.000	Mutual exclusivity
+PTPN11	PTEN	172	8	2	0	<-3	1.000	1.000	Mutual exclusivity
+PTPN11	CDKN2A	172	8	2	0	<-3	1.000	1.000	Mutual exclusivity
+PTPN11	t(15;17)	172	8	2	0	<-3	1.000	1.000	Mutual exclusivity
+PTPN11	chr11qdel	172	8	2	0	<-3	1.000	1.000	Mutual exclusivity
+WT1	SETBP1	168	12	2	0	<-3	1.000	1.000	Mutual exclusivity
+WT1	PTEN	168	12	2	0	<-3	1.000	1.000	Mutual exclusivity
+WT1	CDKN2A	168	12	2	0	<-3	1.000	1.000	Mutual exclusivity
+WT1	t(15;17)	168	12	2	0	<-3	1.000	1.000	Mutual exclusivity
+WT1	chr11qdel	168	12	2	0	<-3	1.000	1.000	Mutual exclusivity
+NRAS	CSF3R	158	22	2	0	<-3	1.000	1.000	Mutual exclusivity
+NRAS	SETBP1	158	22	2	0	<-3	1.000	1.000	Mutual exclusivity
+NRAS	CDKN2A	158	22	2	0	<-3	1.000	1.000	Mutual exclusivity
+NRAS	CDH2	159	22	1	0	<-3	1.000	1.000	Mutual exclusivity
+NRAS	BIRC3	159	22	1	0	<-3	1.000	1.000	Mutual exclusivity
+NRAS	MYD88	159	22	1	0	<-3	1.000	1.000	Mutual exclusivity
+NRAS	GATA2	159	22	1	0	<-3	1.000	1.000	Mutual exclusivity
+NRAS	ABL1	159	22	1	0	<-3	1.000	1.000	Mutual exclusivity
+NRAS	PRPF40B	159	22	1	0	<-3	1.000	1.000	Mutual exclusivity
+NRAS	POT1	159	22	1	0	<-3	1.000	1.000	Mutual exclusivity
+NRAS	FBXW7	159	22	1	0	<-3	1.000	1.000	Mutual exclusivity
+NRAS	IL7R	159	22	1	0	<-3	1.000	1.000	Mutual exclusivity
+NRAS	TBL1XR1	159	22	1	0	<-3	1.000	1.000	Mutual exclusivity
+NRAS	SF1	159	22	1	0	<-3	1.000	1.000	Mutual exclusivity
+NRAS	t(16;16)	159	22	1	0	<-3	1.000	1.000	Mutual exclusivity
+PTPN11	SMC1A	168	8	6	0	<-3	1.000	1.000	Mutual exclusivity
+PTPN11	t(8;21)	168	8	6	0	<-3	1.000	1.000	Mutual exclusivity
+PTPN11	chr21gain	168	8	6	0	<-3	1.000	1.000	Mutual exclusivity
+CSF3R	IDH1	170	2	10	0	<-3	1.000	1.000	Mutual exclusivity
+CSF3R	STAG2	170	2	10	0	<-3	1.000	1.000	Mutual exclusivity
+IDH1	MAP2K1	170	10	2	0	<-3	1.000	1.000	Mutual exclusivity
+STAG2	MAP2K1	170	10	2	0	<-3	1.000	1.000	Mutual exclusivity
+IDH1	SETBP1	170	10	2	0	<-3	1.000	1.000	Mutual exclusivity
+CSF3R	KRAS	170	2	10	0	<-3	1.000	1.000	Mutual exclusivity
+MAP2K1	KRAS	170	2	10	0	<-3	1.000	1.000	Mutual exclusivity
+IDH1	PTEN	170	10	2	0	<-3	1.000	1.000	Mutual exclusivity
+STAG2	PTEN	170	10	2	0	<-3	1.000	1.000	Mutual exclusivity
+IDH1	CDKN2A	170	10	2	0	<-3	1.000	1.000	Mutual exclusivity
+STAG2	CDKN2A	170	10	2	0	<-3	1.000	1.000	Mutual exclusivity
+KRAS	CDKN2A	170	10	2	0	<-3	1.000	1.000	Mutual exclusivity
+IDH1	t(15;17)	170	10	2	0	<-3	1.000	1.000	Mutual exclusivity
+STAG2	t(15;17)	170	10	2	0	<-3	1.000	1.000	Mutual exclusivity
+KRAS	t(15;17)	170	10	2	0	<-3	1.000	1.000	Mutual exclusivity
+IDH1	chr11qdel	170	10	2	0	<-3	1.000	1.000	Mutual exclusivity
+STAG2	chr11qdel	170	10	2	0	<-3	1.000	1.000	Mutual exclusivity
+KRAS	chr11qdel	170	10	2	0	<-3	1.000	1.000	Mutual exclusivity
+NPM1	ETV6	120	57	4	1	-0.926	1.000	1.000	Mutual exclusivity
+DNMT3A	EZH2	120	57	4	1	-0.926	1.000	1.000	Mutual exclusivity
+SRSF2	KRAS	158	14	10	0	<-3	1.000	1.000	Mutual exclusivity
+CSF1R	PTPN11	170	4	8	0	<-3	1.000	1.000	Mutual exclusivity
+NOTCH1	PTPN11	170	4	8	0	<-3	1.000	1.000	Mutual exclusivity
+CBL	ATM	172	3	7	0	<-3	1.000	1.000	Mutual exclusivity
+ATM	BRAF	172	7	3	0	<-3	1.000	1.000	Mutual exclusivity
+ATM	U2AF1	172	7	3	0	<-3	1.000	1.000	Mutual exclusivity
+CBL	PHF6	172	3	7	0	<-3	1.000	1.000	Mutual exclusivity
+MYCN	PHF6	172	3	7	0	<-3	1.000	1.000	Mutual exclusivity
+BRAF	PHF6	172	3	7	0	<-3	1.000	1.000	Mutual exclusivity
+U2AF1	PHF6	172	3	7	0	<-3	1.000	1.000	Mutual exclusivity
+ATM	HNRNPK	172	7	3	0	<-3	1.000	1.000	Mutual exclusivity
+PHF6	HNRNPK	172	7	3	0	<-3	1.000	1.000	Mutual exclusivity
+CBL	BCOR	172	3	7	0	<-3	1.000	1.000	Mutual exclusivity
+MYCN	BCOR	172	3	7	0	<-3	1.000	1.000	Mutual exclusivity
+BRAF	BCOR	172	3	7	0	<-3	1.000	1.000	Mutual exclusivity
+HNRNPK	BCOR	172	3	7	0	<-3	1.000	1.000	Mutual exclusivity
+ATM	chr22gain	172	7	3	0	<-3	1.000	1.000	Mutual exclusivity
+PHF6	chr22gain	172	7	3	0	<-3	1.000	1.000	Mutual exclusivity
+BCOR	chr22gain	172	7	3	0	<-3	1.000	1.000	Mutual exclusivity
+ATM	t(11;19)	172	7	3	0	<-3	1.000	1.000	Mutual exclusivity
+PHF6	t(11;19)	172	7	3	0	<-3	1.000	1.000	Mutual exclusivity
+ATM	chr5loss	172	7	3	0	<-3	1.000	1.000	Mutual exclusivity
+PHF6	chr5loss	172	7	3	0	<-3	1.000	1.000	Mutual exclusivity
+BCOR	chr5loss	172	7	3	0	<-3	1.000	1.000	Mutual exclusivity
+ATM	chr13gain	172	7	3	0	<-3	1.000	1.000	Mutual exclusivity
+PHF6	chr13gain	172	7	3	0	<-3	1.000	1.000	Mutual exclusivity
+BCOR	chr13gain	172	7	3	0	<-3	1.000	1.000	Mutual exclusivity
+IDH1	ATM	165	10	7	0	<-3	1.000	1.000	Mutual exclusivity
+STAG2	ATM	165	10	7	0	<-3	1.000	1.000	Mutual exclusivity
+STAG2	PHF6	165	10	7	0	<-3	1.000	1.000	Mutual exclusivity
+KRAS	PHF6	165	10	7	0	<-3	1.000	1.000	Mutual exclusivity
+IDH1	BCOR	165	10	7	0	<-3	1.000	1.000	Mutual exclusivity
+STAG2	BCOR	165	10	7	0	<-3	1.000	1.000	Mutual exclusivity
+CBL	MAP2K1	177	3	2	0	<-3	1.000	1.000	Mutual exclusivity
+MYCN	MAP2K1	177	3	2	0	<-3	1.000	1.000	Mutual exclusivity
+BRAF	MAP2K1	177	3	2	0	<-3	1.000	1.000	Mutual exclusivity
+CBL	SETBP1	177	3	2	0	<-3	1.000	1.000	Mutual exclusivity
+MYCN	SETBP1	177	3	2	0	<-3	1.000	1.000	Mutual exclusivity
+CBL	PTEN	177	3	2	0	<-3	1.000	1.000	Mutual exclusivity
+MYCN	PTEN	177	3	2	0	<-3	1.000	1.000	Mutual exclusivity
+BRAF	PTEN	177	3	2	0	<-3	1.000	1.000	Mutual exclusivity
+U2AF1	PTEN	177	3	2	0	<-3	1.000	1.000	Mutual exclusivity
+HNRNPK	PTEN	177	3	2	0	<-3	1.000	1.000	Mutual exclusivity
+CBL	CDKN2A	177	3	2	0	<-3	1.000	1.000	Mutual exclusivity
+MYCN	CDKN2A	177	3	2	0	<-3	1.000	1.000	Mutual exclusivity
+BRAF	CDKN2A	177	3	2	0	<-3	1.000	1.000	Mutual exclusivity
+U2AF1	CDKN2A	177	3	2	0	<-3	1.000	1.000	Mutual exclusivity
+HNRNPK	CDKN2A	177	3	2	0	<-3	1.000	1.000	Mutual exclusivity
+CBL	t(15;17)	177	3	2	0	<-3	1.000	1.000	Mutual exclusivity
+MYCN	t(15;17)	177	3	2	0	<-3	1.000	1.000	Mutual exclusivity
+BRAF	t(15;17)	177	3	2	0	<-3	1.000	1.000	Mutual exclusivity
+U2AF1	t(15;17)	177	3	2	0	<-3	1.000	1.000	Mutual exclusivity
+HNRNPK	t(15;17)	177	3	2	0	<-3	1.000	1.000	Mutual exclusivity
+chr22gain	t(15;17)	177	3	2	0	<-3	1.000	1.000	Mutual exclusivity
+CBL	chr11qdel	177	3	2	0	<-3	1.000	1.000	Mutual exclusivity
+MYCN	chr11qdel	177	3	2	0	<-3	1.000	1.000	Mutual exclusivity
+BRAF	chr11qdel	177	3	2	0	<-3	1.000	1.000	Mutual exclusivity
+U2AF1	chr11qdel	177	3	2	0	<-3	1.000	1.000	Mutual exclusivity
+HNRNPK	chr11qdel	177	3	2	0	<-3	1.000	1.000	Mutual exclusivity
+CBL	SMC1A	173	3	6	0	<-3	1.000	1.000	Mutual exclusivity
+MYCN	SMC1A	173	3	6	0	<-3	1.000	1.000	Mutual exclusivity
+BRAF	SMC1A	173	3	6	0	<-3	1.000	1.000	Mutual exclusivity
+U2AF1	SMC1A	173	3	6	0	<-3	1.000	1.000	Mutual exclusivity
+HNRNPK	SMC1A	173	3	6	0	<-3	1.000	1.000	Mutual exclusivity
+CBL	t(8;21)	173	3	6	0	<-3	1.000	1.000	Mutual exclusivity
+MYCN	t(8;21)	173	3	6	0	<-3	1.000	1.000	Mutual exclusivity
+BRAF	t(8;21)	173	3	6	0	<-3	1.000	1.000	Mutual exclusivity
+U2AF1	t(8;21)	173	3	6	0	<-3	1.000	1.000	Mutual exclusivity
+HNRNPK	t(8;21)	173	3	6	0	<-3	1.000	1.000	Mutual exclusivity
+SMC1A	chr22gain	173	6	3	0	<-3	1.000	1.000	Mutual exclusivity
+t(8;21)	chr22gain	173	6	3	0	<-3	1.000	1.000	Mutual exclusivity
+CBL	chr5qdel	173	3	6	0	<-3	1.000	1.000	Mutual exclusivity
+MYCN	chr5qdel	173	3	6	0	<-3	1.000	1.000	Mutual exclusivity
+BRAF	chr5qdel	173	3	6	0	<-3	1.000	1.000	Mutual exclusivity
+U2AF1	chr5qdel	173	3	6	0	<-3	1.000	1.000	Mutual exclusivity
+chr22gain	chr5qdel	173	3	6	0	<-3	1.000	1.000	Mutual exclusivity
+SMC1A	t(11;19)	173	6	3	0	<-3	1.000	1.000	Mutual exclusivity
+t(8;21)	t(11;19)	173	6	3	0	<-3	1.000	1.000	Mutual exclusivity
+chr5qdel	t(11;19)	173	6	3	0	<-3	1.000	1.000	Mutual exclusivity
+SMC1A	chr5loss	173	6	3	0	<-3	1.000	1.000	Mutual exclusivity
+t(8;21)	chr5loss	173	6	3	0	<-3	1.000	1.000	Mutual exclusivity
+SMC1A	chr13gain	173	6	3	0	<-3	1.000	1.000	Mutual exclusivity
+t(8;21)	chr13gain	173	6	3	0	<-3	1.000	1.000	Mutual exclusivity
+chr5qdel	chr13gain	173	6	3	0	<-3	1.000	1.000	Mutual exclusivity
+CBL	chr21gain	173	3	6	0	<-3	1.000	1.000	Mutual exclusivity
+MYCN	chr21gain	173	3	6	0	<-3	1.000	1.000	Mutual exclusivity
+BRAF	chr21gain	173	3	6	0	<-3	1.000	1.000	Mutual exclusivity
+U2AF1	chr21gain	173	3	6	0	<-3	1.000	1.000	Mutual exclusivity
+HNRNPK	chr21gain	173	3	6	0	<-3	1.000	1.000	Mutual exclusivity
+t(11;19)	chr21gain	173	3	6	0	<-3	1.000	1.000	Mutual exclusivity
+MYC	ATM	170	5	7	0	<-3	1.000	1.000	Mutual exclusivity
+ETV6	ATM	170	5	7	0	<-3	1.000	1.000	Mutual exclusivity
+ATM	EZH2	170	7	5	0	<-3	1.000	1.000	Mutual exclusivity
+ATM	RAD21	170	7	5	0	<-3	1.000	1.000	Mutual exclusivity
+MYC	PHF6	170	5	7	0	<-3	1.000	1.000	Mutual exclusivity
+ETV6	PHF6	170	5	7	0	<-3	1.000	1.000	Mutual exclusivity
+RAD21	PHF6	170	5	7	0	<-3	1.000	1.000	Mutual exclusivity
+ATM	ZRSR2	170	7	5	0	<-3	1.000	1.000	Mutual exclusivity
+PHF6	ZRSR2	170	7	5	0	<-3	1.000	1.000	Mutual exclusivity
+ATM	JAK2	170	7	5	0	<-3	1.000	1.000	Mutual exclusivity
+MYC	BCOR	170	5	7	0	<-3	1.000	1.000	Mutual exclusivity
+ETV6	BCOR	170	5	7	0	<-3	1.000	1.000	Mutual exclusivity
+EZH2	BCOR	170	5	7	0	<-3	1.000	1.000	Mutual exclusivity
+RAD21	BCOR	170	5	7	0	<-3	1.000	1.000	Mutual exclusivity
+ZRSR2	BCOR	170	5	7	0	<-3	1.000	1.000	Mutual exclusivity
+JAK2	BCOR	170	5	7	0	<-3	1.000	1.000	Mutual exclusivity
+NRAS	MYC	155	22	5	0	<-3	1.000	1.000	Mutual exclusivity
+NRAS	EZH2	155	22	5	0	<-3	1.000	1.000	Mutual exclusivity
+NRAS	ZRSR2	155	22	5	0	<-3	1.000	1.000	Mutual exclusivity
+NRAS	JAK2	155	22	5	0	<-3	1.000	1.000	Mutual exclusivity
+WT1	SMC1A	164	12	6	0	<-3	1.000	1.000	Mutual exclusivity
+WT1	chr5qdel	164	12	6	0	<-3	1.000	1.000	Mutual exclusivity
+WT1	chr21gain	164	12	6	0	<-3	1.000	1.000	Mutual exclusivity
+WT1	SF3B1	166	12	4	0	<-3	1.000	1.000	Mutual exclusivity
+WT1	CSF1R	166	12	4	0	<-3	1.000	1.000	Mutual exclusivity
+WT1	NOTCH1	166	12	4	0	<-3	1.000	1.000	Mutual exclusivity
+WT1	chr17loss	166	12	4	0	<-3	1.000	1.000	Mutual exclusivity
+WT1	chr7loss	166	12	4	0	<-3	1.000	1.000	Mutual exclusivity
+WT1	chr7qdel	166	12	4	0	<-3	1.000	1.000	Mutual exclusivity
+IDH2	CDH2	151	30	1	0	<-3	1.000	1.000	Mutual exclusivity
+IDH2	NOTCH2	151	30	1	0	<-3	1.000	1.000	Mutual exclusivity
+IDH2	U2AF2	151	30	1	0	<-3	1.000	1.000	Mutual exclusivity
+IDH2	GATA2	151	30	1	0	<-3	1.000	1.000	Mutual exclusivity
+IDH2	RIT1	151	30	1	0	<-3	1.000	1.000	Mutual exclusivity
+IDH2	ABL1	151	30	1	0	<-3	1.000	1.000	Mutual exclusivity
+IDH2	BRINP3	151	30	1	0	<-3	1.000	1.000	Mutual exclusivity
+IDH2	PRPF40B	151	30	1	0	<-3	1.000	1.000	Mutual exclusivity
+IDH2	POT1	151	30	1	0	<-3	1.000	1.000	Mutual exclusivity
+IDH2	FBXW7	151	30	1	0	<-3	1.000	1.000	Mutual exclusivity
+IDH2	IL7R	151	30	1	0	<-3	1.000	1.000	Mutual exclusivity
+IDH2	TBL1XR1	151	30	1	0	<-3	1.000	1.000	Mutual exclusivity
+IDH2	SF1	151	30	1	0	<-3	1.000	1.000	Mutual exclusivity
+IDH2	t(16;16)	151	30	1	0	<-3	1.000	1.000	Mutual exclusivity
+KIT	SMC1A	165	11	6	0	<-3	1.000	1.000	Mutual exclusivity
+BCORL1	SMC1A	165	11	6	0	<-3	1.000	1.000	Mutual exclusivity
+BCORL1	chr5qdel	165	11	6	0	<-3	1.000	1.000	Mutual exclusivity
+KIT	chr21gain	165	11	6	0	<-3	1.000	1.000	Mutual exclusivity
+BCORL1	chr21gain	165	11	6	0	<-3	1.000	1.000	Mutual exclusivity
+DNMT3A	BRAF	122	57	2	1	0.098	1.000	1.000	Co-occurrence
+DNMT3A	HNRNPK	122	57	2	1	0.098	1.000	1.000	Co-occurrence
+DNMT3A	chr5loss	122	57	2	1	0.098	1.000	1.000	Co-occurrence
+DNMT3A	chr13gain	122	57	2	1	0.098	1.000	1.000	Co-occurrence
+NPM1	chr13gain	122	57	2	1	0.098	1.000	1.000	Co-occurrence
+CSF3R	SF3B1	176	2	4	0	<-3	1.000	1.000	Mutual exclusivity
+MAP2K1	SF3B1	176	2	4	0	<-3	1.000	1.000	Mutual exclusivity
+SF3B1	SETBP1	176	4	2	0	<-3	1.000	1.000	Mutual exclusivity
+CSF3R	CSF1R	176	2	4	0	<-3	1.000	1.000	Mutual exclusivity
+MAP2K1	CSF1R	176	2	4	0	<-3	1.000	1.000	Mutual exclusivity
+SETBP1	CSF1R	176	2	4	0	<-3	1.000	1.000	Mutual exclusivity
+CSF3R	NOTCH1	176	2	4	0	<-3	1.000	1.000	Mutual exclusivity
+MAP2K1	NOTCH1	176	2	4	0	<-3	1.000	1.000	Mutual exclusivity
+SETBP1	NOTCH1	176	2	4	0	<-3	1.000	1.000	Mutual exclusivity
+SF3B1	PTEN	176	4	2	0	<-3	1.000	1.000	Mutual exclusivity
+CSF1R	PTEN	176	4	2	0	<-3	1.000	1.000	Mutual exclusivity
+NOTCH1	PTEN	176	4	2	0	<-3	1.000	1.000	Mutual exclusivity
+SF3B1	CDKN2A	176	4	2	0	<-3	1.000	1.000	Mutual exclusivity
+CSF1R	CDKN2A	176	4	2	0	<-3	1.000	1.000	Mutual exclusivity
+NOTCH1	CDKN2A	176	4	2	0	<-3	1.000	1.000	Mutual exclusivity
+SF3B1	t(15;17)	176	4	2	0	<-3	1.000	1.000	Mutual exclusivity
+CSF1R	t(15;17)	176	4	2	0	<-3	1.000	1.000	Mutual exclusivity
+NOTCH1	t(15;17)	176	4	2	0	<-3	1.000	1.000	Mutual exclusivity
+CSF3R	chr17loss	176	2	4	0	<-3	1.000	1.000	Mutual exclusivity
+MAP2K1	chr17loss	176	2	4	0	<-3	1.000	1.000	Mutual exclusivity
+SETBP1	chr17loss	176	2	4	0	<-3	1.000	1.000	Mutual exclusivity
+PTEN	chr17loss	176	2	4	0	<-3	1.000	1.000	Mutual exclusivity
+CDKN2A	chr17loss	176	2	4	0	<-3	1.000	1.000	Mutual exclusivity
+t(15;17)	chr17loss	176	2	4	0	<-3	1.000	1.000	Mutual exclusivity
+SF3B1	chr11qdel	176	4	2	0	<-3	1.000	1.000	Mutual exclusivity
+CSF1R	chr11qdel	176	4	2	0	<-3	1.000	1.000	Mutual exclusivity
+NOTCH1	chr11qdel	176	4	2	0	<-3	1.000	1.000	Mutual exclusivity
+chr17loss	chr11qdel	176	4	2	0	<-3	1.000	1.000	Mutual exclusivity
+CSF3R	chr7loss	176	2	4	0	<-3	1.000	1.000	Mutual exclusivity
+MAP2K1	chr7loss	176	2	4	0	<-3	1.000	1.000	Mutual exclusivity
+SETBP1	chr7loss	176	2	4	0	<-3	1.000	1.000	Mutual exclusivity
+PTEN	chr7loss	176	2	4	0	<-3	1.000	1.000	Mutual exclusivity
+CDKN2A	chr7loss	176	2	4	0	<-3	1.000	1.000	Mutual exclusivity
+t(15;17)	chr7loss	176	2	4	0	<-3	1.000	1.000	Mutual exclusivity
+chr11qdel	chr7loss	176	2	4	0	<-3	1.000	1.000	Mutual exclusivity
+CSF3R	chr7qdel	176	2	4	0	<-3	1.000	1.000	Mutual exclusivity
+MAP2K1	chr7qdel	176	2	4	0	<-3	1.000	1.000	Mutual exclusivity
+SETBP1	chr7qdel	176	2	4	0	<-3	1.000	1.000	Mutual exclusivity
+PTEN	chr7qdel	176	2	4	0	<-3	1.000	1.000	Mutual exclusivity
+CDKN2A	chr7qdel	176	2	4	0	<-3	1.000	1.000	Mutual exclusivity
+t(15;17)	chr7qdel	176	2	4	0	<-3	1.000	1.000	Mutual exclusivity
+chr11qdel	chr7qdel	176	2	4	0	<-3	1.000	1.000	Mutual exclusivity
+CDH2	WT1	169	1	12	0	<-3	1.000	1.000	Mutual exclusivity
+SMC1A	chr8gain	157	6	19	0	<-3	1.000	1.000	Mutual exclusivity
+t(8;21)	chr8gain	157	6	19	0	<-3	1.000	1.000	Mutual exclusivity
+chr8gain	chr5qdel	157	19	6	0	<-3	1.000	1.000	Mutual exclusivity
+CBL	MYCN	176	3	3	0	<-3	1.000	1.000	Mutual exclusivity
+CBL	BRAF	176	3	3	0	<-3	1.000	1.000	Mutual exclusivity
+MYCN	BRAF	176	3	3	0	<-3	1.000	1.000	Mutual exclusivity
+CBL	U2AF1	176	3	3	0	<-3	1.000	1.000	Mutual exclusivity
+MYCN	U2AF1	176	3	3	0	<-3	1.000	1.000	Mutual exclusivity
+BRAF	U2AF1	176	3	3	0	<-3	1.000	1.000	Mutual exclusivity
+CBL	HNRNPK	176	3	3	0	<-3	1.000	1.000	Mutual exclusivity
+MYCN	HNRNPK	176	3	3	0	<-3	1.000	1.000	Mutual exclusivity
+BRAF	HNRNPK	176	3	3	0	<-3	1.000	1.000	Mutual exclusivity
+U2AF1	HNRNPK	176	3	3	0	<-3	1.000	1.000	Mutual exclusivity
+CBL	chr22gain	176	3	3	0	<-3	1.000	1.000	Mutual exclusivity
+MYCN	chr22gain	176	3	3	0	<-3	1.000	1.000	Mutual exclusivity
+BRAF	chr22gain	176	3	3	0	<-3	1.000	1.000	Mutual exclusivity
+U2AF1	chr22gain	176	3	3	0	<-3	1.000	1.000	Mutual exclusivity
+HNRNPK	chr22gain	176	3	3	0	<-3	1.000	1.000	Mutual exclusivity
+CBL	t(11;19)	176	3	3	0	<-3	1.000	1.000	Mutual exclusivity
+MYCN	t(11;19)	176	3	3	0	<-3	1.000	1.000	Mutual exclusivity
+BRAF	t(11;19)	176	3	3	0	<-3	1.000	1.000	Mutual exclusivity
+U2AF1	t(11;19)	176	3	3	0	<-3	1.000	1.000	Mutual exclusivity
+HNRNPK	t(11;19)	176	3	3	0	<-3	1.000	1.000	Mutual exclusivity
+chr22gain	t(11;19)	176	3	3	0	<-3	1.000	1.000	Mutual exclusivity
+CBL	chr5loss	176	3	3	0	<-3	1.000	1.000	Mutual exclusivity
+MYCN	chr5loss	176	3	3	0	<-3	1.000	1.000	Mutual exclusivity
+BRAF	chr5loss	176	3	3	0	<-3	1.000	1.000	Mutual exclusivity
+U2AF1	chr5loss	176	3	3	0	<-3	1.000	1.000	Mutual exclusivity
+HNRNPK	chr5loss	176	3	3	0	<-3	1.000	1.000	Mutual exclusivity
+t(11;19)	chr5loss	176	3	3	0	<-3	1.000	1.000	Mutual exclusivity
+CBL	chr13gain	176	3	3	0	<-3	1.000	1.000	Mutual exclusivity
+MYCN	chr13gain	176	3	3	0	<-3	1.000	1.000	Mutual exclusivity
+BRAF	chr13gain	176	3	3	0	<-3	1.000	1.000	Mutual exclusivity
+U2AF1	chr13gain	176	3	3	0	<-3	1.000	1.000	Mutual exclusivity
+HNRNPK	chr13gain	176	3	3	0	<-3	1.000	1.000	Mutual exclusivity
+t(11;19)	chr13gain	176	3	3	0	<-3	1.000	1.000	Mutual exclusivity
+chr5loss	chr13gain	176	3	3	0	<-3	1.000	1.000	Mutual exclusivity
+DNMT3A	BCOR	119	56	5	2	-0.234	1.000	1.000	Mutual exclusivity
+NPM1	BCOR	119	56	5	2	-0.234	1.000	1.000	Mutual exclusivity
+FLT3	SF3B1	109	69	3	1	-0.925	1.000	1.000	Mutual exclusivity
+NF1	ATM	166	9	7	0	<-3	1.000	1.000	Mutual exclusivity
+NF1	PHF6	166	9	7	0	<-3	1.000	1.000	Mutual exclusivity
+NF1	BCOR	166	9	7	0	<-3	1.000	1.000	Mutual exclusivity
+WT1	PHF6	163	12	7	0	<-3	1.000	1.000	Mutual exclusivity
+WT1	BCOR	163	12	7	0	<-3	1.000	1.000	Mutual exclusivity
+ASXL1	JAK2	154	23	5	0	<-3	1.000	1.000	Mutual exclusivity
+CDH2	MYC	176	1	5	0	<-3	1.000	1.000	Mutual exclusivity
+CDH2	ETV6	176	1	5	0	<-3	1.000	1.000	Mutual exclusivity
+CDH2	EZH2	176	1	5	0	<-3	1.000	1.000	Mutual exclusivity
+MYC	BIRC3	176	5	1	0	<-3	1.000	1.000	Mutual exclusivity
+ETV6	BIRC3	176	5	1	0	<-3	1.000	1.000	Mutual exclusivity
+EZH2	BIRC3	176	5	1	0	<-3	1.000	1.000	Mutual exclusivity
+MYC	MYD88	176	5	1	0	<-3	1.000	1.000	Mutual exclusivity
+ETV6	MYD88	176	5	1	0	<-3	1.000	1.000	Mutual exclusivity
+EZH2	MYD88	176	5	1	0	<-3	1.000	1.000	Mutual exclusivity
+MYC	NOTCH2	176	5	1	0	<-3	1.000	1.000	Mutual exclusivity
+ETV6	NOTCH2	176	5	1	0	<-3	1.000	1.000	Mutual exclusivity
+EZH2	NOTCH2	176	5	1	0	<-3	1.000	1.000	Mutual exclusivity
+MYC	U2AF2	176	5	1	0	<-3	1.000	1.000	Mutual exclusivity
+ETV6	U2AF2	176	5	1	0	<-3	1.000	1.000	Mutual exclusivity
+EZH2	U2AF2	176	5	1	0	<-3	1.000	1.000	Mutual exclusivity
+CDH2	RAD21	176	1	5	0	<-3	1.000	1.000	Mutual exclusivity
+BIRC3	RAD21	176	1	5	0	<-3	1.000	1.000	Mutual exclusivity
+MYD88	RAD21	176	1	5	0	<-3	1.000	1.000	Mutual exclusivity
+NOTCH2	RAD21	176	1	5	0	<-3	1.000	1.000	Mutual exclusivity
+U2AF2	RAD21	176	1	5	0	<-3	1.000	1.000	Mutual exclusivity
+MYC	GATA2	176	5	1	0	<-3	1.000	1.000	Mutual exclusivity
+ETV6	GATA2	176	5	1	0	<-3	1.000	1.000	Mutual exclusivity
+EZH2	GATA2	176	5	1	0	<-3	1.000	1.000	Mutual exclusivity
+RAD21	GATA2	176	5	1	0	<-3	1.000	1.000	Mutual exclusivity
+CDH2	ZRSR2	176	1	5	0	<-3	1.000	1.000	Mutual exclusivity
+BIRC3	ZRSR2	176	1	5	0	<-3	1.000	1.000	Mutual exclusivity
+MYD88	ZRSR2	176	1	5	0	<-3	1.000	1.000	Mutual exclusivity
+NOTCH2	ZRSR2	176	1	5	0	<-3	1.000	1.000	Mutual exclusivity
+U2AF2	ZRSR2	176	1	5	0	<-3	1.000	1.000	Mutual exclusivity
+GATA2	ZRSR2	176	1	5	0	<-3	1.000	1.000	Mutual exclusivity
+CDH2	JAK2	176	1	5	0	<-3	1.000	1.000	Mutual exclusivity
+BIRC3	JAK2	176	1	5	0	<-3	1.000	1.000	Mutual exclusivity
+MYD88	JAK2	176	1	5	0	<-3	1.000	1.000	Mutual exclusivity
+NOTCH2	JAK2	176	1	5	0	<-3	1.000	1.000	Mutual exclusivity
+U2AF2	JAK2	176	1	5	0	<-3	1.000	1.000	Mutual exclusivity
+GATA2	JAK2	176	1	5	0	<-3	1.000	1.000	Mutual exclusivity
+MYC	RIT1	176	5	1	0	<-3	1.000	1.000	Mutual exclusivity
+ETV6	RIT1	176	5	1	0	<-3	1.000	1.000	Mutual exclusivity
+EZH2	RIT1	176	5	1	0	<-3	1.000	1.000	Mutual exclusivity
+RAD21	RIT1	176	5	1	0	<-3	1.000	1.000	Mutual exclusivity
+ZRSR2	RIT1	176	5	1	0	<-3	1.000	1.000	Mutual exclusivity
+JAK2	RIT1	176	5	1	0	<-3	1.000	1.000	Mutual exclusivity
+MYC	ABL1	176	5	1	0	<-3	1.000	1.000	Mutual exclusivity
+ETV6	ABL1	176	5	1	0	<-3	1.000	1.000	Mutual exclusivity
+EZH2	ABL1	176	5	1	0	<-3	1.000	1.000	Mutual exclusivity
+RAD21	ABL1	176	5	1	0	<-3	1.000	1.000	Mutual exclusivity
+ZRSR2	ABL1	176	5	1	0	<-3	1.000	1.000	Mutual exclusivity
+JAK2	ABL1	176	5	1	0	<-3	1.000	1.000	Mutual exclusivity
+MYC	BRINP3	176	5	1	0	<-3	1.000	1.000	Mutual exclusivity
+ETV6	BRINP3	176	5	1	0	<-3	1.000	1.000	Mutual exclusivity
+EZH2	BRINP3	176	5	1	0	<-3	1.000	1.000	Mutual exclusivity
+RAD21	BRINP3	176	5	1	0	<-3	1.000	1.000	Mutual exclusivity
+ZRSR2	BRINP3	176	5	1	0	<-3	1.000	1.000	Mutual exclusivity
+JAK2	BRINP3	176	5	1	0	<-3	1.000	1.000	Mutual exclusivity
+MYC	PRPF40B	176	5	1	0	<-3	1.000	1.000	Mutual exclusivity
+ETV6	PRPF40B	176	5	1	0	<-3	1.000	1.000	Mutual exclusivity
+EZH2	PRPF40B	176	5	1	0	<-3	1.000	1.000	Mutual exclusivity
+RAD21	PRPF40B	176	5	1	0	<-3	1.000	1.000	Mutual exclusivity
+ZRSR2	PRPF40B	176	5	1	0	<-3	1.000	1.000	Mutual exclusivity
+JAK2	PRPF40B	176	5	1	0	<-3	1.000	1.000	Mutual exclusivity
+MYC	POT1	176	5	1	0	<-3	1.000	1.000	Mutual exclusivity
+ETV6	POT1	176	5	1	0	<-3	1.000	1.000	Mutual exclusivity
+EZH2	POT1	176	5	1	0	<-3	1.000	1.000	Mutual exclusivity
+RAD21	POT1	176	5	1	0	<-3	1.000	1.000	Mutual exclusivity
+JAK2	POT1	176	5	1	0	<-3	1.000	1.000	Mutual exclusivity
+MYC	FBXW7	176	5	1	0	<-3	1.000	1.000	Mutual exclusivity
+ETV6	FBXW7	176	5	1	0	<-3	1.000	1.000	Mutual exclusivity
+EZH2	FBXW7	176	5	1	0	<-3	1.000	1.000	Mutual exclusivity
+RAD21	FBXW7	176	5	1	0	<-3	1.000	1.000	Mutual exclusivity
+ZRSR2	FBXW7	176	5	1	0	<-3	1.000	1.000	Mutual exclusivity
+JAK2	FBXW7	176	5	1	0	<-3	1.000	1.000	Mutual exclusivity
+MYC	IL7R	176	5	1	0	<-3	1.000	1.000	Mutual exclusivity
+ETV6	IL7R	176	5	1	0	<-3	1.000	1.000	Mutual exclusivity
+EZH2	IL7R	176	5	1	0	<-3	1.000	1.000	Mutual exclusivity
+RAD21	IL7R	176	5	1	0	<-3	1.000	1.000	Mutual exclusivity
+ZRSR2	IL7R	176	5	1	0	<-3	1.000	1.000	Mutual exclusivity
+JAK2	IL7R	176	5	1	0	<-3	1.000	1.000	Mutual exclusivity
+MYC	TBL1XR1	176	5	1	0	<-3	1.000	1.000	Mutual exclusivity
+ETV6	TBL1XR1	176	5	1	0	<-3	1.000	1.000	Mutual exclusivity
+EZH2	TBL1XR1	176	5	1	0	<-3	1.000	1.000	Mutual exclusivity
+RAD21	TBL1XR1	176	5	1	0	<-3	1.000	1.000	Mutual exclusivity
+ZRSR2	TBL1XR1	176	5	1	0	<-3	1.000	1.000	Mutual exclusivity
+JAK2	TBL1XR1	176	5	1	0	<-3	1.000	1.000	Mutual exclusivity
+MYC	SF1	176	5	1	0	<-3	1.000	1.000	Mutual exclusivity
+ETV6	SF1	176	5	1	0	<-3	1.000	1.000	Mutual exclusivity
+EZH2	SF1	176	5	1	0	<-3	1.000	1.000	Mutual exclusivity
+RAD21	SF1	176	5	1	0	<-3	1.000	1.000	Mutual exclusivity
+ZRSR2	SF1	176	5	1	0	<-3	1.000	1.000	Mutual exclusivity
+JAK2	SF1	176	5	1	0	<-3	1.000	1.000	Mutual exclusivity
+MYC	t(16;16)	176	5	1	0	<-3	1.000	1.000	Mutual exclusivity
+ETV6	t(16;16)	176	5	1	0	<-3	1.000	1.000	Mutual exclusivity
+EZH2	t(16;16)	176	5	1	0	<-3	1.000	1.000	Mutual exclusivity
+RAD21	t(16;16)	176	5	1	0	<-3	1.000	1.000	Mutual exclusivity
+ZRSR2	t(16;16)	176	5	1	0	<-3	1.000	1.000	Mutual exclusivity
+JAK2	t(16;16)	176	5	1	0	<-3	1.000	1.000	Mutual exclusivity
+DNMT3A	CDH2	123	58	1	0	<-3	1.000	1.000	Mutual exclusivity
+NPM1	CDH2	123	58	1	0	<-3	1.000	1.000	Mutual exclusivity
+DNMT3A	BIRC3	123	58	1	0	<-3	1.000	1.000	Mutual exclusivity
+NPM1	BIRC3	123	58	1	0	<-3	1.000	1.000	Mutual exclusivity
+DNMT3A	MYD88	123	58	1	0	<-3	1.000	1.000	Mutual exclusivity
+NPM1	MYD88	123	58	1	0	<-3	1.000	1.000	Mutual exclusivity
+DNMT3A	NOTCH2	123	58	1	0	<-3	1.000	1.000	Mutual exclusivity
+NPM1	NOTCH2	123	58	1	0	<-3	1.000	1.000	Mutual exclusivity
+DNMT3A	U2AF2	123	58	1	0	<-3	1.000	1.000	Mutual exclusivity
+NPM1	U2AF2	123	58	1	0	<-3	1.000	1.000	Mutual exclusivity
+DNMT3A	GATA2	123	58	1	0	<-3	1.000	1.000	Mutual exclusivity
+NPM1	GATA2	123	58	1	0	<-3	1.000	1.000	Mutual exclusivity
+DNMT3A	PRPF40B	123	58	1	0	<-3	1.000	1.000	Mutual exclusivity
+NPM1	PRPF40B	123	58	1	0	<-3	1.000	1.000	Mutual exclusivity
+DNMT3A	POT1	123	58	1	0	<-3	1.000	1.000	Mutual exclusivity
+NPM1	POT1	123	58	1	0	<-3	1.000	1.000	Mutual exclusivity
+NPM1	FBXW7	123	58	1	0	<-3	1.000	1.000	Mutual exclusivity
+DNMT3A	IL7R	123	58	1	0	<-3	1.000	1.000	Mutual exclusivity
+NPM1	IL7R	123	58	1	0	<-3	1.000	1.000	Mutual exclusivity
+DNMT3A	TBL1XR1	123	58	1	0	<-3	1.000	1.000	Mutual exclusivity
+DNMT3A	SF1	123	58	1	0	<-3	1.000	1.000	Mutual exclusivity
+NPM1	SF1	123	58	1	0	<-3	1.000	1.000	Mutual exclusivity
+DNMT3A	t(16;16)	123	58	1	0	<-3	1.000	1.000	Mutual exclusivity
+NPM1	t(16;16)	123	58	1	0	<-3	1.000	1.000	Mutual exclusivity
+TP53	CBL	166	13	3	0	<-3	1.000	1.000	Mutual exclusivity
+TP53	MYCN	166	13	3	0	<-3	1.000	1.000	Mutual exclusivity
+TP53	BRAF	166	13	3	0	<-3	1.000	1.000	Mutual exclusivity
+TP53	U2AF1	166	13	3	0	<-3	1.000	1.000	Mutual exclusivity
+RUNX1	U2AF1	166	13	3	0	<-3	1.000	1.000	Mutual exclusivity
+RUNX1	HNRNPK	166	13	3	0	<-3	1.000	1.000	Mutual exclusivity
+SF3B1	chr8gain	159	4	19	0	<-3	1.000	1.000	Mutual exclusivity
+CSF1R	chr8gain	159	4	19	0	<-3	1.000	1.000	Mutual exclusivity
+NOTCH1	chr8gain	159	4	19	0	<-3	1.000	1.000	Mutual exclusivity
+RUNX1	chr22gain	166	13	3	0	<-3	1.000	1.000	Mutual exclusivity
+TP53	t(11;19)	166	13	3	0	<-3	1.000	1.000	Mutual exclusivity
+RUNX1	t(11;19)	166	13	3	0	<-3	1.000	1.000	Mutual exclusivity
+RUNX1	chr5loss	166	13	3	0	<-3	1.000	1.000	Mutual exclusivity
+RUNX1	chr13gain	166	13	3	0	<-3	1.000	1.000	Mutual exclusivity
+TP53	PTPN11	161	13	8	0	<-3	1.000	1.000	Mutual exclusivity
+RUNX1	PTPN11	161	13	8	0	<-3	1.000	1.000	Mutual exclusivity
+SF3B1	BIRC3	177	4	1	0	<-3	1.000	1.000	Mutual exclusivity
+SF3B1	MYD88	177	4	1	0	<-3	1.000	1.000	Mutual exclusivity
+SF3B1	NOTCH2	177	4	1	0	<-3	1.000	1.000	Mutual exclusivity
+SF3B1	U2AF2	177	4	1	0	<-3	1.000	1.000	Mutual exclusivity
+SF3B1	GATA2	177	4	1	0	<-3	1.000	1.000	Mutual exclusivity
+CSF1R	GATA2	177	4	1	0	<-3	1.000	1.000	Mutual exclusivity
+SF3B1	RIT1	177	4	1	0	<-3	1.000	1.000	Mutual exclusivity
+CSF1R	RIT1	177	4	1	0	<-3	1.000	1.000	Mutual exclusivity
+NOTCH1	RIT1	177	4	1	0	<-3	1.000	1.000	Mutual exclusivity
+SF3B1	ABL1	177	4	1	0	<-3	1.000	1.000	Mutual exclusivity
+CSF1R	ABL1	177	4	1	0	<-3	1.000	1.000	Mutual exclusivity
+NOTCH1	ABL1	177	4	1	0	<-3	1.000	1.000	Mutual exclusivity
+SF3B1	BRINP3	177	4	1	0	<-3	1.000	1.000	Mutual exclusivity
+CSF1R	BRINP3	177	4	1	0	<-3	1.000	1.000	Mutual exclusivity
+NOTCH1	BRINP3	177	4	1	0	<-3	1.000	1.000	Mutual exclusivity
+SF3B1	PRPF40B	177	4	1	0	<-3	1.000	1.000	Mutual exclusivity
+CSF1R	PRPF40B	177	4	1	0	<-3	1.000	1.000	Mutual exclusivity
+NOTCH1	PRPF40B	177	4	1	0	<-3	1.000	1.000	Mutual exclusivity
+SF3B1	POT1	177	4	1	0	<-3	1.000	1.000	Mutual exclusivity
+CSF1R	POT1	177	4	1	0	<-3	1.000	1.000	Mutual exclusivity
+NOTCH1	POT1	177	4	1	0	<-3	1.000	1.000	Mutual exclusivity
+SF3B1	FBXW7	177	4	1	0	<-3	1.000	1.000	Mutual exclusivity
+CSF1R	FBXW7	177	4	1	0	<-3	1.000	1.000	Mutual exclusivity
+NOTCH1	FBXW7	177	4	1	0	<-3	1.000	1.000	Mutual exclusivity
+SF3B1	IL7R	177	4	1	0	<-3	1.000	1.000	Mutual exclusivity
+CSF1R	IL7R	177	4	1	0	<-3	1.000	1.000	Mutual exclusivity
+NOTCH1	IL7R	177	4	1	0	<-3	1.000	1.000	Mutual exclusivity
+SF3B1	TBL1XR1	177	4	1	0	<-3	1.000	1.000	Mutual exclusivity
+CSF1R	TBL1XR1	177	4	1	0	<-3	1.000	1.000	Mutual exclusivity
+NOTCH1	TBL1XR1	177	4	1	0	<-3	1.000	1.000	Mutual exclusivity
+SF3B1	SF1	177	4	1	0	<-3	1.000	1.000	Mutual exclusivity
+CSF1R	SF1	177	4	1	0	<-3	1.000	1.000	Mutual exclusivity
+NOTCH1	SF1	177	4	1	0	<-3	1.000	1.000	Mutual exclusivity
+SF3B1	t(16;16)	177	4	1	0	<-3	1.000	1.000	Mutual exclusivity
+CSF1R	t(16;16)	177	4	1	0	<-3	1.000	1.000	Mutual exclusivity
+NOTCH1	t(16;16)	177	4	1	0	<-3	1.000	1.000	Mutual exclusivity
+TP53	ATM	162	13	7	0	<-3	1.000	1.000	Mutual exclusivity
+ATM	RUNX1	162	7	13	0	<-3	1.000	1.000	Mutual exclusivity
+TP53	PHF6	162	13	7	0	<-3	1.000	1.000	Mutual exclusivity
+TP53	BCOR	162	13	7	0	<-3	1.000	1.000	Mutual exclusivity
+RUNX1	BCOR	162	13	7	0	<-3	1.000	1.000	Mutual exclusivity
+KIT	MAP2K1	169	11	2	0	<-3	1.000	1.000	Mutual exclusivity
+KIT	SETBP1	169	11	2	0	<-3	1.000	1.000	Mutual exclusivity
+KIT	CDKN2A	169	11	2	0	<-3	1.000	1.000	Mutual exclusivity
+BCORL1	CDKN2A	169	11	2	0	<-3	1.000	1.000	Mutual exclusivity
+KIT	t(15;17)	169	11	2	0	<-3	1.000	1.000	Mutual exclusivity
+BCORL1	t(15;17)	169	11	2	0	<-3	1.000	1.000	Mutual exclusivity
+KIT	chr11qdel	169	11	2	0	<-3	1.000	1.000	Mutual exclusivity
+CDH2	BIRC3	180	1	1	0	<-3	1.000	1.000	Mutual exclusivity
+CDH2	MYD88	180	1	1	0	<-3	1.000	1.000	Mutual exclusivity
+CDH2	NOTCH2	180	1	1	0	<-3	1.000	1.000	Mutual exclusivity
+BIRC3	NOTCH2	180	1	1	0	<-3	1.000	1.000	Mutual exclusivity
+MYD88	NOTCH2	180	1	1	0	<-3	1.000	1.000	Mutual exclusivity
+CDH2	U2AF2	180	1	1	0	<-3	1.000	1.000	Mutual exclusivity
+BIRC3	U2AF2	180	1	1	0	<-3	1.000	1.000	Mutual exclusivity
+MYD88	U2AF2	180	1	1	0	<-3	1.000	1.000	Mutual exclusivity
+CDH2	GATA2	180	1	1	0	<-3	1.000	1.000	Mutual exclusivity
+BIRC3	GATA2	180	1	1	0	<-3	1.000	1.000	Mutual exclusivity
+MYD88	GATA2	180	1	1	0	<-3	1.000	1.000	Mutual exclusivity
+NOTCH2	GATA2	180	1	1	0	<-3	1.000	1.000	Mutual exclusivity
+U2AF2	GATA2	180	1	1	0	<-3	1.000	1.000	Mutual exclusivity
+CDH2	RIT1	180	1	1	0	<-3	1.000	1.000	Mutual exclusivity
+BIRC3	RIT1	180	1	1	0	<-3	1.000	1.000	Mutual exclusivity
+MYD88	RIT1	180	1	1	0	<-3	1.000	1.000	Mutual exclusivity
+NOTCH2	RIT1	180	1	1	0	<-3	1.000	1.000	Mutual exclusivity
+U2AF2	RIT1	180	1	1	0	<-3	1.000	1.000	Mutual exclusivity
+GATA2	RIT1	180	1	1	0	<-3	1.000	1.000	Mutual exclusivity
+CDH2	ABL1	180	1	1	0	<-3	1.000	1.000	Mutual exclusivity
+BIRC3	ABL1	180	1	1	0	<-3	1.000	1.000	Mutual exclusivity
+MYD88	ABL1	180	1	1	0	<-3	1.000	1.000	Mutual exclusivity
+NOTCH2	ABL1	180	1	1	0	<-3	1.000	1.000	Mutual exclusivity
+U2AF2	ABL1	180	1	1	0	<-3	1.000	1.000	Mutual exclusivity
+GATA2	ABL1	180	1	1	0	<-3	1.000	1.000	Mutual exclusivity
+RIT1	ABL1	180	1	1	0	<-3	1.000	1.000	Mutual exclusivity
+CDH2	BRINP3	180	1	1	0	<-3	1.000	1.000	Mutual exclusivity
+BIRC3	BRINP3	180	1	1	0	<-3	1.000	1.000	Mutual exclusivity
+MYD88	BRINP3	180	1	1	0	<-3	1.000	1.000	Mutual exclusivity
+NOTCH2	BRINP3	180	1	1	0	<-3	1.000	1.000	Mutual exclusivity
+U2AF2	BRINP3	180	1	1	0	<-3	1.000	1.000	Mutual exclusivity
+GATA2	BRINP3	180	1	1	0	<-3	1.000	1.000	Mutual exclusivity
+RIT1	BRINP3	180	1	1	0	<-3	1.000	1.000	Mutual exclusivity
+ABL1	BRINP3	180	1	1	0	<-3	1.000	1.000	Mutual exclusivity
+CDH2	PRPF40B	180	1	1	0	<-3	1.000	1.000	Mutual exclusivity
+BIRC3	PRPF40B	180	1	1	0	<-3	1.000	1.000	Mutual exclusivity
+MYD88	PRPF40B	180	1	1	0	<-3	1.000	1.000	Mutual exclusivity
+NOTCH2	PRPF40B	180	1	1	0	<-3	1.000	1.000	Mutual exclusivity
+U2AF2	PRPF40B	180	1	1	0	<-3	1.000	1.000	Mutual exclusivity
+GATA2	PRPF40B	180	1	1	0	<-3	1.000	1.000	Mutual exclusivity
+RIT1	PRPF40B	180	1	1	0	<-3	1.000	1.000	Mutual exclusivity
+ABL1	PRPF40B	180	1	1	0	<-3	1.000	1.000	Mutual exclusivity
+BRINP3	PRPF40B	180	1	1	0	<-3	1.000	1.000	Mutual exclusivity
+CDH2	POT1	180	1	1	0	<-3	1.000	1.000	Mutual exclusivity
+BIRC3	POT1	180	1	1	0	<-3	1.000	1.000	Mutual exclusivity
+MYD88	POT1	180	1	1	0	<-3	1.000	1.000	Mutual exclusivity
+NOTCH2	POT1	180	1	1	0	<-3	1.000	1.000	Mutual exclusivity
+U2AF2	POT1	180	1	1	0	<-3	1.000	1.000	Mutual exclusivity
+GATA2	POT1	180	1	1	0	<-3	1.000	1.000	Mutual exclusivity
+RIT1	POT1	180	1	1	0	<-3	1.000	1.000	Mutual exclusivity
+ABL1	POT1	180	1	1	0	<-3	1.000	1.000	Mutual exclusivity
+BRINP3	POT1	180	1	1	0	<-3	1.000	1.000	Mutual exclusivity
+PRPF40B	POT1	180	1	1	0	<-3	1.000	1.000	Mutual exclusivity
+CDH2	FBXW7	180	1	1	0	<-3	1.000	1.000	Mutual exclusivity
+BIRC3	FBXW7	180	1	1	0	<-3	1.000	1.000	Mutual exclusivity
+MYD88	FBXW7	180	1	1	0	<-3	1.000	1.000	Mutual exclusivity
+NOTCH2	FBXW7	180	1	1	0	<-3	1.000	1.000	Mutual exclusivity
+U2AF2	FBXW7	180	1	1	0	<-3	1.000	1.000	Mutual exclusivity
+GATA2	FBXW7	180	1	1	0	<-3	1.000	1.000	Mutual exclusivity
+RIT1	FBXW7	180	1	1	0	<-3	1.000	1.000	Mutual exclusivity
+ABL1	FBXW7	180	1	1	0	<-3	1.000	1.000	Mutual exclusivity
+BRINP3	FBXW7	180	1	1	0	<-3	1.000	1.000	Mutual exclusivity
+PRPF40B	FBXW7	180	1	1	0	<-3	1.000	1.000	Mutual exclusivity
+POT1	FBXW7	180	1	1	0	<-3	1.000	1.000	Mutual exclusivity
+CDH2	IL7R	180	1	1	0	<-3	1.000	1.000	Mutual exclusivity
+BIRC3	IL7R	180	1	1	0	<-3	1.000	1.000	Mutual exclusivity
+MYD88	IL7R	180	1	1	0	<-3	1.000	1.000	Mutual exclusivity
+NOTCH2	IL7R	180	1	1	0	<-3	1.000	1.000	Mutual exclusivity
+U2AF2	IL7R	180	1	1	0	<-3	1.000	1.000	Mutual exclusivity
+GATA2	IL7R	180	1	1	0	<-3	1.000	1.000	Mutual exclusivity
+RIT1	IL7R	180	1	1	0	<-3	1.000	1.000	Mutual exclusivity
+ABL1	IL7R	180	1	1	0	<-3	1.000	1.000	Mutual exclusivity
+BRINP3	IL7R	180	1	1	0	<-3	1.000	1.000	Mutual exclusivity
+PRPF40B	IL7R	180	1	1	0	<-3	1.000	1.000	Mutual exclusivity
+POT1	IL7R	180	1	1	0	<-3	1.000	1.000	Mutual exclusivity
+FBXW7	IL7R	180	1	1	0	<-3	1.000	1.000	Mutual exclusivity
+CDH2	TBL1XR1	180	1	1	0	<-3	1.000	1.000	Mutual exclusivity
+BIRC3	TBL1XR1	180	1	1	0	<-3	1.000	1.000	Mutual exclusivity
+MYD88	TBL1XR1	180	1	1	0	<-3	1.000	1.000	Mutual exclusivity
+NOTCH2	TBL1XR1	180	1	1	0	<-3	1.000	1.000	Mutual exclusivity
+U2AF2	TBL1XR1	180	1	1	0	<-3	1.000	1.000	Mutual exclusivity
+GATA2	TBL1XR1	180	1	1	0	<-3	1.000	1.000	Mutual exclusivity
+RIT1	TBL1XR1	180	1	1	0	<-3	1.000	1.000	Mutual exclusivity
+ABL1	TBL1XR1	180	1	1	0	<-3	1.000	1.000	Mutual exclusivity
+BRINP3	TBL1XR1	180	1	1	0	<-3	1.000	1.000	Mutual exclusivity
+PRPF40B	TBL1XR1	180	1	1	0	<-3	1.000	1.000	Mutual exclusivity
+POT1	TBL1XR1	180	1	1	0	<-3	1.000	1.000	Mutual exclusivity
+FBXW7	TBL1XR1	180	1	1	0	<-3	1.000	1.000	Mutual exclusivity
+IL7R	TBL1XR1	180	1	1	0	<-3	1.000	1.000	Mutual exclusivity
+CDH2	SF1	180	1	1	0	<-3	1.000	1.000	Mutual exclusivity
+BIRC3	SF1	180	1	1	0	<-3	1.000	1.000	Mutual exclusivity
+MYD88	SF1	180	1	1	0	<-3	1.000	1.000	Mutual exclusivity
+NOTCH2	SF1	180	1	1	0	<-3	1.000	1.000	Mutual exclusivity
+U2AF2	SF1	180	1	1	0	<-3	1.000	1.000	Mutual exclusivity
+GATA2	SF1	180	1	1	0	<-3	1.000	1.000	Mutual exclusivity
+RIT1	SF1	180	1	1	0	<-3	1.000	1.000	Mutual exclusivity
+ABL1	SF1	180	1	1	0	<-3	1.000	1.000	Mutual exclusivity
+BRINP3	SF1	180	1	1	0	<-3	1.000	1.000	Mutual exclusivity
+PRPF40B	SF1	180	1	1	0	<-3	1.000	1.000	Mutual exclusivity
+POT1	SF1	180	1	1	0	<-3	1.000	1.000	Mutual exclusivity
+FBXW7	SF1	180	1	1	0	<-3	1.000	1.000	Mutual exclusivity
+IL7R	SF1	180	1	1	0	<-3	1.000	1.000	Mutual exclusivity
+TBL1XR1	SF1	180	1	1	0	<-3	1.000	1.000	Mutual exclusivity
+CDH2	t(16;16)	180	1	1	0	<-3	1.000	1.000	Mutual exclusivity
+BIRC3	t(16;16)	180	1	1	0	<-3	1.000	1.000	Mutual exclusivity
+MYD88	t(16;16)	180	1	1	0	<-3	1.000	1.000	Mutual exclusivity
+NOTCH2	t(16;16)	180	1	1	0	<-3	1.000	1.000	Mutual exclusivity
+U2AF2	t(16;16)	180	1	1	0	<-3	1.000	1.000	Mutual exclusivity
+GATA2	t(16;16)	180	1	1	0	<-3	1.000	1.000	Mutual exclusivity
+RIT1	t(16;16)	180	1	1	0	<-3	1.000	1.000	Mutual exclusivity
+ABL1	t(16;16)	180	1	1	0	<-3	1.000	1.000	Mutual exclusivity
+BRINP3	t(16;16)	180	1	1	0	<-3	1.000	1.000	Mutual exclusivity
+PRPF40B	t(16;16)	180	1	1	0	<-3	1.000	1.000	Mutual exclusivity
+POT1	t(16;16)	180	1	1	0	<-3	1.000	1.000	Mutual exclusivity
+FBXW7	t(16;16)	180	1	1	0	<-3	1.000	1.000	Mutual exclusivity
+IL7R	t(16;16)	180	1	1	0	<-3	1.000	1.000	Mutual exclusivity
+TBL1XR1	t(16;16)	180	1	1	0	<-3	1.000	1.000	Mutual exclusivity
+SF1	t(16;16)	180	1	1	0	<-3	1.000	1.000	Mutual exclusivity
+ATM	BIRC3	174	7	1	0	<-3	1.000	1.000	Mutual exclusivity
+ATM	MYD88	174	7	1	0	<-3	1.000	1.000	Mutual exclusivity
+ATM	NOTCH2	174	7	1	0	<-3	1.000	1.000	Mutual exclusivity
+ATM	U2AF2	174	7	1	0	<-3	1.000	1.000	Mutual exclusivity
+ATM	GATA2	174	7	1	0	<-3	1.000	1.000	Mutual exclusivity
+ATM	RIT1	174	7	1	0	<-3	1.000	1.000	Mutual exclusivity
+PHF6	RIT1	174	7	1	0	<-3	1.000	1.000	Mutual exclusivity
+ATM	ABL1	174	7	1	0	<-3	1.000	1.000	Mutual exclusivity
+PHF6	ABL1	174	7	1	0	<-3	1.000	1.000	Mutual exclusivity
+BCOR	ABL1	174	7	1	0	<-3	1.000	1.000	Mutual exclusivity
+ATM	BRINP3	174	7	1	0	<-3	1.000	1.000	Mutual exclusivity
+PHF6	BRINP3	174	7	1	0	<-3	1.000	1.000	Mutual exclusivity
+BCOR	BRINP3	174	7	1	0	<-3	1.000	1.000	Mutual exclusivity
+ATM	PRPF40B	174	7	1	0	<-3	1.000	1.000	Mutual exclusivity
+PHF6	PRPF40B	174	7	1	0	<-3	1.000	1.000	Mutual exclusivity
+ATM	POT1	174	7	1	0	<-3	1.000	1.000	Mutual exclusivity
+PHF6	POT1	174	7	1	0	<-3	1.000	1.000	Mutual exclusivity
+BCOR	POT1	174	7	1	0	<-3	1.000	1.000	Mutual exclusivity
+ATM	FBXW7	174	7	1	0	<-3	1.000	1.000	Mutual exclusivity
+BCOR	FBXW7	174	7	1	0	<-3	1.000	1.000	Mutual exclusivity
+ATM	IL7R	174	7	1	0	<-3	1.000	1.000	Mutual exclusivity
+PHF6	IL7R	174	7	1	0	<-3	1.000	1.000	Mutual exclusivity
+BCOR	IL7R	174	7	1	0	<-3	1.000	1.000	Mutual exclusivity
+ATM	TBL1XR1	174	7	1	0	<-3	1.000	1.000	Mutual exclusivity
+PHF6	TBL1XR1	174	7	1	0	<-3	1.000	1.000	Mutual exclusivity
+BCOR	TBL1XR1	174	7	1	0	<-3	1.000	1.000	Mutual exclusivity
+ATM	SF1	174	7	1	0	<-3	1.000	1.000	Mutual exclusivity
+PHF6	SF1	174	7	1	0	<-3	1.000	1.000	Mutual exclusivity
+ATM	t(16;16)	174	7	1	0	<-3	1.000	1.000	Mutual exclusivity
+PHF6	t(16;16)	174	7	1	0	<-3	1.000	1.000	Mutual exclusivity
+BCOR	t(16;16)	174	7	1	0	<-3	1.000	1.000	Mutual exclusivity
+ATM	MAP2K1	173	7	2	0	<-3	1.000	1.000	Mutual exclusivity
+ATM	SETBP1	173	7	2	0	<-3	1.000	1.000	Mutual exclusivity
+ATM	PTEN	173	7	2	0	<-3	1.000	1.000	Mutual exclusivity
+PHF6	PTEN	173	7	2	0	<-3	1.000	1.000	Mutual exclusivity
+BCOR	PTEN	173	7	2	0	<-3	1.000	1.000	Mutual exclusivity
+PHF6	CDKN2A	173	7	2	0	<-3	1.000	1.000	Mutual exclusivity
+PHF6	t(15;17)	173	7	2	0	<-3	1.000	1.000	Mutual exclusivity
+BCOR	t(15;17)	173	7	2	0	<-3	1.000	1.000	Mutual exclusivity
+ATM	chr11qdel	173	7	2	0	<-3	1.000	1.000	Mutual exclusivity
+PHF6	chr11qdel	173	7	2	0	<-3	1.000	1.000	Mutual exclusivity
+BCOR	chr11qdel	173	7	2	0	<-3	1.000	1.000	Mutual exclusivity
+NRAS	SMC1A	154	22	6	0	<-3	1.000	1.000	Mutual exclusivity
+NRAS	chr5qdel	154	22	6	0	<-3	1.000	1.000	Mutual exclusivity
+MYC	TP53	164	5	13	0	<-3	1.000	1.000	Mutual exclusivity
+TP53	ETV6	164	13	5	0	<-3	1.000	1.000	Mutual exclusivity
+MYC	RUNX1	164	5	13	0	<-3	1.000	1.000	Mutual exclusivity
+RUNX1	EZH2	164	13	5	0	<-3	1.000	1.000	Mutual exclusivity
+TP53	RAD21	164	13	5	0	<-3	1.000	1.000	Mutual exclusivity
+RUNX1	RAD21	164	13	5	0	<-3	1.000	1.000	Mutual exclusivity
+RUNX1	ZRSR2	164	13	5	0	<-3	1.000	1.000	Mutual exclusivity
+PHF6	PTPN11	167	7	8	0	<-3	1.000	1.000	Mutual exclusivity
+KIT	CBL	168	11	3	0	<-3	1.000	1.000	Mutual exclusivity
+KIT	MYCN	168	11	3	0	<-3	1.000	1.000	Mutual exclusivity
+KIT	BRAF	168	11	3	0	<-3	1.000	1.000	Mutual exclusivity
+CBL	BCORL1	168	3	11	0	<-3	1.000	1.000	Mutual exclusivity
+MYCN	BCORL1	168	3	11	0	<-3	1.000	1.000	Mutual exclusivity
+KIT	U2AF1	168	11	3	0	<-3	1.000	1.000	Mutual exclusivity
+KIT	HNRNPK	168	11	3	0	<-3	1.000	1.000	Mutual exclusivity
+BCORL1	HNRNPK	168	11	3	0	<-3	1.000	1.000	Mutual exclusivity
+KIT	chr22gain	168	11	3	0	<-3	1.000	1.000	Mutual exclusivity
+BCORL1	chr22gain	168	11	3	0	<-3	1.000	1.000	Mutual exclusivity
+KIT	t(11;19)	168	11	3	0	<-3	1.000	1.000	Mutual exclusivity
+BCORL1	t(11;19)	168	11	3	0	<-3	1.000	1.000	Mutual exclusivity
+KIT	chr5loss	168	11	3	0	<-3	1.000	1.000	Mutual exclusivity
+BCORL1	chr5loss	168	11	3	0	<-3	1.000	1.000	Mutual exclusivity
+KIT	chr13gain	168	11	3	0	<-3	1.000	1.000	Mutual exclusivity
+BCORL1	chr13gain	168	11	3	0	<-3	1.000	1.000	Mutual exclusivity
+TP53	BCORL1	158	13	11	0	<-3	1.000	1.000	Mutual exclusivity
+KIT	ETV6	166	11	5	0	<-3	1.000	1.000	Mutual exclusivity
+ETV6	BCORL1	166	5	11	0	<-3	1.000	1.000	Mutual exclusivity
+KIT	EZH2	166	11	5	0	<-3	1.000	1.000	Mutual exclusivity
+BCORL1	EZH2	166	11	5	0	<-3	1.000	1.000	Mutual exclusivity
+KIT	RAD21	166	11	5	0	<-3	1.000	1.000	Mutual exclusivity
+BCORL1	RAD21	166	11	5	0	<-3	1.000	1.000	Mutual exclusivity
+KIT	ZRSR2	166	11	5	0	<-3	1.000	1.000	Mutual exclusivity
+BCORL1	ZRSR2	166	11	5	0	<-3	1.000	1.000	Mutual exclusivity
+KIT	JAK2	166	11	5	0	<-3	1.000	1.000	Mutual exclusivity
+CBL	WT1	167	3	12	0	<-3	1.000	1.000	Mutual exclusivity
+WT1	BRAF	167	12	3	0	<-3	1.000	1.000	Mutual exclusivity
+WT1	U2AF1	167	12	3	0	<-3	1.000	1.000	Mutual exclusivity
+WT1	HNRNPK	167	12	3	0	<-3	1.000	1.000	Mutual exclusivity
+WT1	chr22gain	167	12	3	0	<-3	1.000	1.000	Mutual exclusivity
+WT1	t(11;19)	167	12	3	0	<-3	1.000	1.000	Mutual exclusivity
+WT1	chr5loss	167	12	3	0	<-3	1.000	1.000	Mutual exclusivity
+WT1	chr13gain	167	12	3	0	<-3	1.000	1.000	Mutual exclusivity
+WT1	EZH2	165	12	5	0	<-3	1.000	1.000	Mutual exclusivity
+WT1	RAD21	165	12	5	0	<-3	1.000	1.000	Mutual exclusivity
+WT1	ZRSR2	165	12	5	0	<-3	1.000	1.000	Mutual exclusivity
+WT1	JAK2	165	12	5	0	<-3	1.000	1.000	Mutual exclusivity
+CDH2	SRSF2	167	1	14	0	<-3	1.000	1.000	Mutual exclusivity
+NF1	WT1	161	9	12	0	<-3	1.000	1.000	Mutual exclusivity
+SMC1A	chr5qdel	170	6	6	0	<-3	1.000	1.000	Mutual exclusivity
+t(8;21)	chr5qdel	170	6	6	0	<-3	1.000	1.000	Mutual exclusivity
+t(8;21)	chr21gain	170	6	6	0	<-3	1.000	1.000	Mutual exclusivity
+chr5qdel	chr21gain	170	6	6	0	<-3	1.000	1.000	Mutual exclusivity
+CSF3R	NF1	171	2	9	0	<-3	1.000	1.000	Mutual exclusivity
+NF1	MAP2K1	171	9	2	0	<-3	1.000	1.000	Mutual exclusivity
+NF1	SETBP1	171	9	2	0	<-3	1.000	1.000	Mutual exclusivity
+NF1	PTEN	171	9	2	0	<-3	1.000	1.000	Mutual exclusivity
+NF1	CDKN2A	171	9	2	0	<-3	1.000	1.000	Mutual exclusivity
+CSF3R	inv(16)	171	2	9	0	<-3	1.000	1.000	Mutual exclusivity
+SETBP1	inv(16)	171	2	9	0	<-3	1.000	1.000	Mutual exclusivity
+PTEN	inv(16)	171	2	9	0	<-3	1.000	1.000	Mutual exclusivity
+CDKN2A	inv(16)	171	2	9	0	<-3	1.000	1.000	Mutual exclusivity
+NF1	t(15;17)	171	9	2	0	<-3	1.000	1.000	Mutual exclusivity
+inv(16)	t(15;17)	171	9	2	0	<-3	1.000	1.000	Mutual exclusivity
+NF1	chr11qdel	171	9	2	0	<-3	1.000	1.000	Mutual exclusivity
+inv(16)	chr11qdel	171	9	2	0	<-3	1.000	1.000	Mutual exclusivity
+IDH2	SF3B1	148	30	4	0	<-3	1.000	1.000	Mutual exclusivity
+IDH2	CSF1R	148	30	4	0	<-3	1.000	1.000	Mutual exclusivity
+IDH2	chr17loss	148	30	4	0	<-3	1.000	1.000	Mutual exclusivity
+KIT	ATM	164	11	7	0	<-3	1.000	1.000	Mutual exclusivity
+IDH1	WT1	160	10	12	0	<-3	1.000	1.000	Mutual exclusivity
+STAG2	WT1	160	10	12	0	<-3	1.000	1.000	Mutual exclusivity
+ATM	BCORL1	164	7	11	0	<-3	1.000	1.000	Mutual exclusivity
+TET2	PTPN11	137	37	7	1	-0.919	1.000	1.000	Mutual exclusivity
+MYC	chr8gain	158	5	19	0	<-3	1.000	1.000	Mutual exclusivity
+EZH2	chr8gain	158	5	19	0	<-3	1.000	1.000	Mutual exclusivity
+RAD21	chr8gain	158	5	19	0	<-3	1.000	1.000	Mutual exclusivity
+JAK2	chr8gain	158	5	19	0	<-3	1.000	1.000	Mutual exclusivity
+FLT3	MAP2K1	111	69	1	1	0.686	1.000	1.000	Co-occurrence
+FLT3	SETBP1	111	69	1	1	0.686	1.000	1.000	Co-occurrence
+FLT3	PTEN	111	69	1	1	0.686	1.000	1.000	Co-occurrence
+FLT3	CDKN2A	111	69	1	1	0.686	1.000	1.000	Co-occurrence
+MYCN	chr8gain	160	3	19	0	<-3	1.000	1.000	Mutual exclusivity
+U2AF1	chr8gain	160	3	19	0	<-3	1.000	1.000	Mutual exclusivity
+HNRNPK	chr8gain	160	3	19	0	<-3	1.000	1.000	Mutual exclusivity
+chr8gain	t(11;19)	160	19	3	0	<-3	1.000	1.000	Mutual exclusivity
+chr8gain	chr5loss	160	19	3	0	<-3	1.000	1.000	Mutual exclusivity
+FLT3	CDH2	111	70	1	0	<-3	1.000	1.000	Mutual exclusivity
+FLT3	BIRC3	111	70	1	0	<-3	1.000	1.000	Mutual exclusivity
+FLT3	MYD88	111	70	1	0	<-3	1.000	1.000	Mutual exclusivity
+FLT3	RIT1	111	70	1	0	<-3	1.000	1.000	Mutual exclusivity
+FLT3	PRPF40B	111	70	1	0	<-3	1.000	1.000	Mutual exclusivity
+FLT3	POT1	111	70	1	0	<-3	1.000	1.000	Mutual exclusivity
+FLT3	FBXW7	111	70	1	0	<-3	1.000	1.000	Mutual exclusivity
+FLT3	TBL1XR1	111	70	1	0	<-3	1.000	1.000	Mutual exclusivity
+FLT3	SF1	111	70	1	0	<-3	1.000	1.000	Mutual exclusivity
+FLT3	t(16;16)	111	70	1	0	<-3	1.000	1.000	Mutual exclusivity
+IDH1	NF1	163	10	9	0	<-3	1.000	1.000	Mutual exclusivity
+STAG2	NF1	163	10	9	0	<-3	1.000	1.000	Mutual exclusivity
+NF1	KRAS	163	9	10	0	<-3	1.000	1.000	Mutual exclusivity
+IDH2	PHF6	146	29	6	1	-0.253	1.000	1.000	Mutual exclusivity
+IDH2	BCOR	146	29	6	1	-0.253	1.000	1.000	Mutual exclusivity
+IDH1	inv(16)	163	10	9	0	<-3	1.000	1.000	Mutual exclusivity
+STAG2	inv(16)	163	10	9	0	<-3	1.000	1.000	Mutual exclusivity
+KRAS	inv(16)	163	10	9	0	<-3	1.000	1.000	Mutual exclusivity
+TP53	SMC1A	163	13	6	0	<-3	1.000	1.000	Mutual exclusivity
+TP53	t(8;21)	163	13	6	0	<-3	1.000	1.000	Mutual exclusivity
+RUNX1	t(8;21)	163	13	6	0	<-3	1.000	1.000	Mutual exclusivity
+RUNX1	chr5qdel	163	13	6	0	<-3	1.000	1.000	Mutual exclusivity
+KIT	SRSF2	157	11	14	0	<-3	1.000	1.000	Mutual exclusivity
+RUNX1	chr8gain	151	12	18	1	-0.516	1.000	1.000	Mutual exclusivity
+WT1	PTPN11	162	12	8	0	<-3	1.000	1.000	Mutual exclusivity
+FLT3	CBL	110	69	2	1	-0.327	1.000	1.000	Mutual exclusivity
+FLT3	t(11;19)	110	69	2	1	-0.327	1.000	1.000	Mutual exclusivity
+KIT	PTPN11	163	11	8	0	<-3	1.000	1.000	Mutual exclusivity
+BCORL1	PTPN11	163	11	8	0	<-3	1.000	1.000	Mutual exclusivity
+CBL	SRSF2	165	3	14	0	<-3	1.000	1.000	Mutual exclusivity
+MYCN	SRSF2	165	3	14	0	<-3	1.000	1.000	Mutual exclusivity
+BRAF	SRSF2	165	3	14	0	<-3	1.000	1.000	Mutual exclusivity
+SRSF2	U2AF1	165	14	3	0	<-3	1.000	1.000	Mutual exclusivity
+SRSF2	HNRNPK	165	14	3	0	<-3	1.000	1.000	Mutual exclusivity
+SRSF2	t(11;19)	165	14	3	0	<-3	1.000	1.000	Mutual exclusivity
+SRSF2	chr5loss	165	14	3	0	<-3	1.000	1.000	Mutual exclusivity
+NF1	t(8;21)	167	9	6	0	<-3	1.000	1.000	Mutual exclusivity
+NF1	chr5qdel	167	9	6	0	<-3	1.000	1.000	Mutual exclusivity
+inv(16)	chr5qdel	167	9	6	0	<-3	1.000	1.000	Mutual exclusivity
+NF1	chr21gain	167	9	6	0	<-3	1.000	1.000	Mutual exclusivity
+NRAS	PHF6	153	22	7	0	<-3	1.000	1.000	Mutual exclusivity
+NRAS	BCOR	154	21	6	1	0.290	1.000	1.000	Co-occurrence
+SRSF2	EZH2	163	14	5	0	<-3	1.000	1.000	Mutual exclusivity
+SRSF2	RAD21	163	14	5	0	<-3	1.000	1.000	Mutual exclusivity
+TET2	MYCN	141	38	3	0	<-3	1.000	1.000	Mutual exclusivity
+TET2	HNRNPK	141	38	3	0	<-3	1.000	1.000	Mutual exclusivity
+TET2	t(11;19)	141	38	3	0	<-3	1.000	1.000	Mutual exclusivity
+TET2	chr5loss	141	38	3	0	<-3	1.000	1.000	Mutual exclusivity
+CSF3R	SMC1A	174	2	6	0	<-3	1.000	1.000	Mutual exclusivity
+MAP2K1	SMC1A	174	2	6	0	<-3	1.000	1.000	Mutual exclusivity
+SETBP1	SMC1A	174	2	6	0	<-3	1.000	1.000	Mutual exclusivity
+SMC1A	PTEN	174	6	2	0	<-3	1.000	1.000	Mutual exclusivity
+SMC1A	CDKN2A	174	6	2	0	<-3	1.000	1.000	Mutual exclusivity
+MAP2K1	t(8;21)	174	2	6	0	<-3	1.000	1.000	Mutual exclusivity
+SETBP1	t(8;21)	174	2	6	0	<-3	1.000	1.000	Mutual exclusivity
+CDKN2A	t(8;21)	174	2	6	0	<-3	1.000	1.000	Mutual exclusivity
+SMC1A	t(15;17)	174	6	2	0	<-3	1.000	1.000	Mutual exclusivity
+t(8;21)	t(15;17)	174	6	2	0	<-3	1.000	1.000	Mutual exclusivity
+CSF3R	chr5qdel	174	2	6	0	<-3	1.000	1.000	Mutual exclusivity
+MAP2K1	chr5qdel	174	2	6	0	<-3	1.000	1.000	Mutual exclusivity
+SETBP1	chr5qdel	174	2	6	0	<-3	1.000	1.000	Mutual exclusivity
+PTEN	chr5qdel	174	2	6	0	<-3	1.000	1.000	Mutual exclusivity
+CDKN2A	chr5qdel	174	2	6	0	<-3	1.000	1.000	Mutual exclusivity
+t(15;17)	chr5qdel	174	2	6	0	<-3	1.000	1.000	Mutual exclusivity
+SMC1A	chr11qdel	174	6	2	0	<-3	1.000	1.000	Mutual exclusivity
+t(8;21)	chr11qdel	174	6	2	0	<-3	1.000	1.000	Mutual exclusivity
+chr5qdel	chr11qdel	174	6	2	0	<-3	1.000	1.000	Mutual exclusivity
+CSF3R	chr21gain	174	2	6	0	<-3	1.000	1.000	Mutual exclusivity
+MAP2K1	chr21gain	174	2	6	0	<-3	1.000	1.000	Mutual exclusivity
+SETBP1	chr21gain	174	2	6	0	<-3	1.000	1.000	Mutual exclusivity
+PTEN	chr21gain	174	2	6	0	<-3	1.000	1.000	Mutual exclusivity
+CDKN2A	chr21gain	174	2	6	0	<-3	1.000	1.000	Mutual exclusivity
+t(15;17)	chr21gain	174	2	6	0	<-3	1.000	1.000	Mutual exclusivity
+NF1	RAD21	168	9	5	0	<-3	1.000	1.000	Mutual exclusivity
+NF1	ZRSR2	168	9	5	0	<-3	1.000	1.000	Mutual exclusivity
+NF1	JAK2	168	9	5	0	<-3	1.000	1.000	Mutual exclusivity
+CDH2	SMC1A	175	1	6	0	<-3	1.000	1.000	Mutual exclusivity
+BIRC3	SMC1A	175	1	6	0	<-3	1.000	1.000	Mutual exclusivity
+MYD88	SMC1A	175	1	6	0	<-3	1.000	1.000	Mutual exclusivity
+NOTCH2	SMC1A	175	1	6	0	<-3	1.000	1.000	Mutual exclusivity
+U2AF2	SMC1A	175	1	6	0	<-3	1.000	1.000	Mutual exclusivity
+GATA2	SMC1A	175	1	6	0	<-3	1.000	1.000	Mutual exclusivity
+SMC1A	RIT1	175	6	1	0	<-3	1.000	1.000	Mutual exclusivity
+SMC1A	ABL1	175	6	1	0	<-3	1.000	1.000	Mutual exclusivity
+SMC1A	BRINP3	175	6	1	0	<-3	1.000	1.000	Mutual exclusivity
+SMC1A	PRPF40B	175	6	1	0	<-3	1.000	1.000	Mutual exclusivity
+SMC1A	POT1	175	6	1	0	<-3	1.000	1.000	Mutual exclusivity
+SMC1A	FBXW7	175	6	1	0	<-3	1.000	1.000	Mutual exclusivity
+SMC1A	IL7R	175	6	1	0	<-3	1.000	1.000	Mutual exclusivity
+SMC1A	TBL1XR1	175	6	1	0	<-3	1.000	1.000	Mutual exclusivity
+SMC1A	SF1	175	6	1	0	<-3	1.000	1.000	Mutual exclusivity
+BIRC3	t(8;21)	175	1	6	0	<-3	1.000	1.000	Mutual exclusivity
+MYD88	t(8;21)	175	1	6	0	<-3	1.000	1.000	Mutual exclusivity
+NOTCH2	t(8;21)	175	1	6	0	<-3	1.000	1.000	Mutual exclusivity
+U2AF2	t(8;21)	175	1	6	0	<-3	1.000	1.000	Mutual exclusivity
+GATA2	t(8;21)	175	1	6	0	<-3	1.000	1.000	Mutual exclusivity
+RIT1	t(8;21)	175	1	6	0	<-3	1.000	1.000	Mutual exclusivity
+ABL1	t(8;21)	175	1	6	0	<-3	1.000	1.000	Mutual exclusivity
+BRINP3	t(8;21)	175	1	6	0	<-3	1.000	1.000	Mutual exclusivity
+PRPF40B	t(8;21)	175	1	6	0	<-3	1.000	1.000	Mutual exclusivity
+POT1	t(8;21)	175	1	6	0	<-3	1.000	1.000	Mutual exclusivity
+FBXW7	t(8;21)	175	1	6	0	<-3	1.000	1.000	Mutual exclusivity
+IL7R	t(8;21)	175	1	6	0	<-3	1.000	1.000	Mutual exclusivity
+TBL1XR1	t(8;21)	175	1	6	0	<-3	1.000	1.000	Mutual exclusivity
+SF1	t(8;21)	175	1	6	0	<-3	1.000	1.000	Mutual exclusivity
+SMC1A	t(16;16)	175	6	1	0	<-3	1.000	1.000	Mutual exclusivity
+t(8;21)	t(16;16)	175	6	1	0	<-3	1.000	1.000	Mutual exclusivity
+CDH2	chr5qdel	175	1	6	0	<-3	1.000	1.000	Mutual exclusivity
+BIRC3	chr5qdel	175	1	6	0	<-3	1.000	1.000	Mutual exclusivity
+MYD88	chr5qdel	175	1	6	0	<-3	1.000	1.000	Mutual exclusivity
+NOTCH2	chr5qdel	175	1	6	0	<-3	1.000	1.000	Mutual exclusivity
+U2AF2	chr5qdel	175	1	6	0	<-3	1.000	1.000	Mutual exclusivity
+GATA2	chr5qdel	175	1	6	0	<-3	1.000	1.000	Mutual exclusivity
+RIT1	chr5qdel	175	1	6	0	<-3	1.000	1.000	Mutual exclusivity
+ABL1	chr5qdel	175	1	6	0	<-3	1.000	1.000	Mutual exclusivity
+BRINP3	chr5qdel	175	1	6	0	<-3	1.000	1.000	Mutual exclusivity
+PRPF40B	chr5qdel	175	1	6	0	<-3	1.000	1.000	Mutual exclusivity
+POT1	chr5qdel	175	1	6	0	<-3	1.000	1.000	Mutual exclusivity
+FBXW7	chr5qdel	175	1	6	0	<-3	1.000	1.000	Mutual exclusivity
+IL7R	chr5qdel	175	1	6	0	<-3	1.000	1.000	Mutual exclusivity
+TBL1XR1	chr5qdel	175	1	6	0	<-3	1.000	1.000	Mutual exclusivity
+SF1	chr5qdel	175	1	6	0	<-3	1.000	1.000	Mutual exclusivity
+t(16;16)	chr5qdel	175	1	6	0	<-3	1.000	1.000	Mutual exclusivity
+CDH2	chr21gain	175	1	6	0	<-3	1.000	1.000	Mutual exclusivity
+BIRC3	chr21gain	175	1	6	0	<-3	1.000	1.000	Mutual exclusivity
+MYD88	chr21gain	175	1	6	0	<-3	1.000	1.000	Mutual exclusivity
+NOTCH2	chr21gain	175	1	6	0	<-3	1.000	1.000	Mutual exclusivity
+U2AF2	chr21gain	175	1	6	0	<-3	1.000	1.000	Mutual exclusivity
+GATA2	chr21gain	175	1	6	0	<-3	1.000	1.000	Mutual exclusivity
+RIT1	chr21gain	175	1	6	0	<-3	1.000	1.000	Mutual exclusivity
+ABL1	chr21gain	175	1	6	0	<-3	1.000	1.000	Mutual exclusivity
+BRINP3	chr21gain	175	1	6	0	<-3	1.000	1.000	Mutual exclusivity
+PRPF40B	chr21gain	175	1	6	0	<-3	1.000	1.000	Mutual exclusivity
+FBXW7	chr21gain	175	1	6	0	<-3	1.000	1.000	Mutual exclusivity
+IL7R	chr21gain	175	1	6	0	<-3	1.000	1.000	Mutual exclusivity
+TBL1XR1	chr21gain	175	1	6	0	<-3	1.000	1.000	Mutual exclusivity
+SF1	chr21gain	175	1	6	0	<-3	1.000	1.000	Mutual exclusivity
+t(16;16)	chr21gain	175	1	6	0	<-3	1.000	1.000	Mutual exclusivity
+IDH2	CBL	149	30	3	0	<-3	1.000	1.000	Mutual exclusivity
+IDH2	MYCN	149	30	3	0	<-3	1.000	1.000	Mutual exclusivity
+IDH2	BRAF	149	30	3	0	<-3	1.000	1.000	Mutual exclusivity
+IDH2	U2AF1	149	30	3	0	<-3	1.000	1.000	Mutual exclusivity
+IDH2	chr22gain	149	30	3	0	<-3	1.000	1.000	Mutual exclusivity
+IDH2	t(11;19)	149	30	3	0	<-3	1.000	1.000	Mutual exclusivity
+IDH2	chr5loss	149	30	3	0	<-3	1.000	1.000	Mutual exclusivity
+IDH2	chr13gain	149	30	3	0	<-3	1.000	1.000	Mutual exclusivity
+NRAS	SRSF2	147	21	13	1	-0.893	1.000	1.000	Mutual exclusivity
+CBL	NF1	170	3	9	0	<-3	1.000	1.000	Mutual exclusivity
+NF1	MYCN	170	9	3	0	<-3	1.000	1.000	Mutual exclusivity
+NF1	U2AF1	170	9	3	0	<-3	1.000	1.000	Mutual exclusivity
+NF1	HNRNPK	170	9	3	0	<-3	1.000	1.000	Mutual exclusivity
+CBL	inv(16)	170	3	9	0	<-3	1.000	1.000	Mutual exclusivity
+MYCN	inv(16)	170	3	9	0	<-3	1.000	1.000	Mutual exclusivity
+BRAF	inv(16)	170	3	9	0	<-3	1.000	1.000	Mutual exclusivity
+U2AF1	inv(16)	170	3	9	0	<-3	1.000	1.000	Mutual exclusivity
+HNRNPK	inv(16)	170	3	9	0	<-3	1.000	1.000	Mutual exclusivity
+NF1	t(11;19)	170	9	3	0	<-3	1.000	1.000	Mutual exclusivity
+inv(16)	t(11;19)	170	9	3	0	<-3	1.000	1.000	Mutual exclusivity
+inv(16)	chr5loss	170	9	3	0	<-3	1.000	1.000	Mutual exclusivity
+NF1	chr13gain	170	9	3	0	<-3	1.000	1.000	Mutual exclusivity
+inv(16)	chr13gain	170	9	3	0	<-3	1.000	1.000	Mutual exclusivity
+SF3B1	inv(16)	169	4	9	0	<-3	1.000	1.000	Mutual exclusivity
+NOTCH1	inv(16)	169	4	9	0	<-3	1.000	1.000	Mutual exclusivity
+TET2	CSF3R	142	38	2	0	<-3	1.000	1.000	Mutual exclusivity
+TET2	MAP2K1	142	38	2	0	<-3	1.000	1.000	Mutual exclusivity
+TET2	CDKN2A	142	38	2	0	<-3	1.000	1.000	Mutual exclusivity
+TET2	t(15;17)	142	38	2	0	<-3	1.000	1.000	Mutual exclusivity
+TET2	chr11qdel	142	38	2	0	<-3	1.000	1.000	Mutual exclusivity
+TET2	CDH2	143	38	1	0	<-3	1.000	1.000	Mutual exclusivity
+TET2	BIRC3	143	38	1	0	<-3	1.000	1.000	Mutual exclusivity
+TET2	MYD88	143	38	1	0	<-3	1.000	1.000	Mutual exclusivity
+TET2	NOTCH2	143	38	1	0	<-3	1.000	1.000	Mutual exclusivity
+TET2	U2AF2	143	38	1	0	<-3	1.000	1.000	Mutual exclusivity
+TET2	GATA2	143	38	1	0	<-3	1.000	1.000	Mutual exclusivity
+TET2	RIT1	143	38	1	0	<-3	1.000	1.000	Mutual exclusivity
+TET2	ABL1	143	38	1	0	<-3	1.000	1.000	Mutual exclusivity
+TET2	BRINP3	143	38	1	0	<-3	1.000	1.000	Mutual exclusivity
+TET2	PRPF40B	143	38	1	0	<-3	1.000	1.000	Mutual exclusivity
+TET2	FBXW7	143	38	1	0	<-3	1.000	1.000	Mutual exclusivity
+TET2	SF1	143	38	1	0	<-3	1.000	1.000	Mutual exclusivity
+TET2	t(16;16)	143	38	1	0	<-3	1.000	1.000	Mutual exclusivity
+SF3B1	KRAS	168	4	10	0	<-3	1.000	1.000	Mutual exclusivity
+CSF1R	KRAS	168	4	10	0	<-3	1.000	1.000	Mutual exclusivity
+TP53	KRAS	159	13	10	0	<-3	1.000	1.000	Mutual exclusivity
+RUNX1	KRAS	159	13	10	0	<-3	1.000	1.000	Mutual exclusivity
+IDH2	CSF3R	150	30	2	0	<-3	1.000	1.000	Mutual exclusivity
+IDH2	MAP2K1	150	30	2	0	<-3	1.000	1.000	Mutual exclusivity
+IDH2	SETBP1	150	30	2	0	<-3	1.000	1.000	Mutual exclusivity
+IDH2	PTEN	150	30	2	0	<-3	1.000	1.000	Mutual exclusivity
+IDH2	CDKN2A	150	30	2	0	<-3	1.000	1.000	Mutual exclusivity
+IDH2	t(15;17)	150	30	2	0	<-3	1.000	1.000	Mutual exclusivity
+IDH2	chr11qdel	150	30	2	0	<-3	1.000	1.000	Mutual exclusivity
+CSF3R	ASXL1	157	2	23	0	<-3	1.000	1.000	Mutual exclusivity
+CSF3R	MAP2K1	178	2	2	0	<-3	1.000	1.000	Mutual exclusivity
+CSF3R	SETBP1	178	2	2	0	<-3	1.000	1.000	Mutual exclusivity
+MAP2K1	SETBP1	178	2	2	0	<-3	1.000	1.000	Mutual exclusivity
+CSF3R	PTEN	178	2	2	0	<-3	1.000	1.000	Mutual exclusivity
+MAP2K1	PTEN	178	2	2	0	<-3	1.000	1.000	Mutual exclusivity
+SETBP1	PTEN	178	2	2	0	<-3	1.000	1.000	Mutual exclusivity
+CSF3R	CDKN2A	178	2	2	0	<-3	1.000	1.000	Mutual exclusivity
+MAP2K1	CDKN2A	178	2	2	0	<-3	1.000	1.000	Mutual exclusivity
+SETBP1	CDKN2A	178	2	2	0	<-3	1.000	1.000	Mutual exclusivity
+PTEN	CDKN2A	178	2	2	0	<-3	1.000	1.000	Mutual exclusivity
+CSF3R	t(15;17)	178	2	2	0	<-3	1.000	1.000	Mutual exclusivity
+MAP2K1	t(15;17)	178	2	2	0	<-3	1.000	1.000	Mutual exclusivity
+SETBP1	t(15;17)	178	2	2	0	<-3	1.000	1.000	Mutual exclusivity
+PTEN	t(15;17)	178	2	2	0	<-3	1.000	1.000	Mutual exclusivity
+CDKN2A	t(15;17)	178	2	2	0	<-3	1.000	1.000	Mutual exclusivity
+CSF3R	chr11qdel	178	2	2	0	<-3	1.000	1.000	Mutual exclusivity
+MAP2K1	chr11qdel	178	2	2	0	<-3	1.000	1.000	Mutual exclusivity
+SETBP1	chr11qdel	178	2	2	0	<-3	1.000	1.000	Mutual exclusivity
+PTEN	chr11qdel	178	2	2	0	<-3	1.000	1.000	Mutual exclusivity
+CDKN2A	chr11qdel	178	2	2	0	<-3	1.000	1.000	Mutual exclusivity
+t(15;17)	chr11qdel	178	2	2	0	<-3	1.000	1.000	Mutual exclusivity
+ATM	SMC1A	169	7	6	0	<-3	1.000	1.000	Mutual exclusivity
+SMC1A	BCOR	169	6	7	0	<-3	1.000	1.000	Mutual exclusivity
+PHF6	t(8;21)	169	7	6	0	<-3	1.000	1.000	Mutual exclusivity
+BCOR	t(8;21)	169	7	6	0	<-3	1.000	1.000	Mutual exclusivity
+CDH2	chr8gain	162	1	19	0	<-3	1.000	1.000	Mutual exclusivity
+BIRC3	chr8gain	162	1	19	0	<-3	1.000	1.000	Mutual exclusivity
+MYD88	chr8gain	162	1	19	0	<-3	1.000	1.000	Mutual exclusivity
+NOTCH2	chr8gain	162	1	19	0	<-3	1.000	1.000	Mutual exclusivity
+U2AF2	chr8gain	162	1	19	0	<-3	1.000	1.000	Mutual exclusivity
+GATA2	chr8gain	162	1	19	0	<-3	1.000	1.000	Mutual exclusivity
+RIT1	chr8gain	162	1	19	0	<-3	1.000	1.000	Mutual exclusivity
+ABL1	chr8gain	162	1	19	0	<-3	1.000	1.000	Mutual exclusivity
+BRINP3	chr8gain	162	1	19	0	<-3	1.000	1.000	Mutual exclusivity
+IL7R	chr8gain	162	1	19	0	<-3	1.000	1.000	Mutual exclusivity
+SF1	chr8gain	162	1	19	0	<-3	1.000	1.000	Mutual exclusivity
+t(16;16)	chr8gain	162	1	19	0	<-3	1.000	1.000	Mutual exclusivity
+ATM	chr5qdel	169	7	6	0	<-3	1.000	1.000	Mutual exclusivity
+PHF6	chr5qdel	169	7	6	0	<-3	1.000	1.000	Mutual exclusivity
+BCOR	chr5qdel	169	7	6	0	<-3	1.000	1.000	Mutual exclusivity
+ATM	chr21gain	169	7	6	0	<-3	1.000	1.000	Mutual exclusivity
+PHF6	chr21gain	169	7	6	0	<-3	1.000	1.000	Mutual exclusivity
+BCOR	chr21gain	169	7	6	0	<-3	1.000	1.000	Mutual exclusivity
+SRSF2	t(8;21)	162	14	6	0	<-3	1.000	1.000	Mutual exclusivity
+SRSF2	chr5qdel	162	14	6	0	<-3	1.000	1.000	Mutual exclusivity
+IDH2	TP53	141	28	11	2	-0.127	1.000	1.000	Mutual exclusivity
+CSF3R	PTPN11	172	2	8	0	<-3	1.000	1.000	Mutual exclusivity
+MAP2K1	PTPN11	172	2	8	0	<-3	1.000	1.000	Mutual exclusivity
+SETBP1	PTPN11	172	2	8	0	<-3	1.000	1.000	Mutual exclusivity
+IDH1	ETV6	167	10	5	0	<-3	1.000	1.000	Mutual exclusivity
+MYC	STAG2	167	5	10	0	<-3	1.000	1.000	Mutual exclusivity
+ETV6	STAG2	167	5	10	0	<-3	1.000	1.000	Mutual exclusivity
+STAG2	EZH2	167	10	5	0	<-3	1.000	1.000	Mutual exclusivity
+IDH1	RAD21	167	10	5	0	<-3	1.000	1.000	Mutual exclusivity
+STAG2	RAD21	167	10	5	0	<-3	1.000	1.000	Mutual exclusivity
+MYC	KRAS	167	5	10	0	<-3	1.000	1.000	Mutual exclusivity
+EZH2	KRAS	167	5	10	0	<-3	1.000	1.000	Mutual exclusivity
+RAD21	KRAS	167	5	10	0	<-3	1.000	1.000	Mutual exclusivity
+IDH1	ZRSR2	167	10	5	0	<-3	1.000	1.000	Mutual exclusivity
+KRAS	ZRSR2	167	10	5	0	<-3	1.000	1.000	Mutual exclusivity
+KRAS	JAK2	167	10	5	0	<-3	1.000	1.000	Mutual exclusivity
+IDH1	SMC1A	166	10	6	0	<-3	1.000	1.000	Mutual exclusivity
+STAG2	SMC1A	166	10	6	0	<-3	1.000	1.000	Mutual exclusivity
+KRAS	SMC1A	166	10	6	0	<-3	1.000	1.000	Mutual exclusivity
+IDH1	t(8;21)	166	10	6	0	<-3	1.000	1.000	Mutual exclusivity
+STAG2	chr5qdel	166	10	6	0	<-3	1.000	1.000	Mutual exclusivity
+KRAS	chr5qdel	166	10	6	0	<-3	1.000	1.000	Mutual exclusivity
+IDH1	chr21gain	166	10	6	0	<-3	1.000	1.000	Mutual exclusivity
+STAG2	chr21gain	166	10	6	0	<-3	1.000	1.000	Mutual exclusivity
+KRAS	chr21gain	166	10	6	0	<-3	1.000	1.000	Mutual exclusivity
+TET2	RUNX1	133	36	11	2	-0.574	1.000	1.000	Mutual exclusivity
+IDH1	STAG2	162	10	10	0	<-3	1.000	1.000	Mutual exclusivity
+IDH1	KRAS	162	10	10	0	<-3	1.000	1.000	Mutual exclusivity
+IDH1	MYCN	169	10	3	0	<-3	1.000	1.000	Mutual exclusivity
+STAG2	MYCN	169	10	3	0	<-3	1.000	1.000	Mutual exclusivity
+IDH1	BRAF	169	10	3	0	<-3	1.000	1.000	Mutual exclusivity
+STAG2	BRAF	169	10	3	0	<-3	1.000	1.000	Mutual exclusivity
+IDH1	U2AF1	169	10	3	0	<-3	1.000	1.000	Mutual exclusivity
+STAG2	U2AF1	169	10	3	0	<-3	1.000	1.000	Mutual exclusivity
+CBL	KRAS	169	3	10	0	<-3	1.000	1.000	Mutual exclusivity
+MYCN	KRAS	169	3	10	0	<-3	1.000	1.000	Mutual exclusivity
+BRAF	KRAS	169	3	10	0	<-3	1.000	1.000	Mutual exclusivity
+U2AF1	KRAS	169	3	10	0	<-3	1.000	1.000	Mutual exclusivity
+IDH1	HNRNPK	169	10	3	0	<-3	1.000	1.000	Mutual exclusivity
+STAG2	HNRNPK	169	10	3	0	<-3	1.000	1.000	Mutual exclusivity
+KRAS	HNRNPK	169	10	3	0	<-3	1.000	1.000	Mutual exclusivity
+IDH1	chr22gain	169	10	3	0	<-3	1.000	1.000	Mutual exclusivity
+STAG2	chr22gain	169	10	3	0	<-3	1.000	1.000	Mutual exclusivity
+KRAS	chr22gain	169	10	3	0	<-3	1.000	1.000	Mutual exclusivity
+IDH1	t(11;19)	169	10	3	0	<-3	1.000	1.000	Mutual exclusivity
+STAG2	chr5loss	169	10	3	0	<-3	1.000	1.000	Mutual exclusivity
+KRAS	chr5loss	169	10	3	0	<-3	1.000	1.000	Mutual exclusivity
+IDH1	chr13gain	169	10	3	0	<-3	1.000	1.000	Mutual exclusivity
+STAG2	chr13gain	169	10	3	0	<-3	1.000	1.000	Mutual exclusivity
+KRAS	chr13gain	169	10	3	0	<-3	1.000	1.000	Mutual exclusivity
+KIT	NF1	162	11	9	0	<-3	1.000	1.000	Mutual exclusivity
+NRAS	STAG2	151	21	9	1	-0.324	1.000	1.000	Mutual exclusivity
+NRAS	ASXL1	140	19	20	3	0.144	1.000	1.000	Co-occurrence
+FLT3	KRAS	106	66	6	4	0.099	1.000	1.000	Co-occurrence
+CSF3R	SRSF2	166	2	14	0	<-3	1.000	1.000	Mutual exclusivity
+SRSF2	MAP2K1	166	14	2	0	<-3	1.000	1.000	Mutual exclusivity
+SRSF2	SETBP1	166	14	2	0	<-3	1.000	1.000	Mutual exclusivity
+SRSF2	PTEN	166	14	2	0	<-3	1.000	1.000	Mutual exclusivity
+SRSF2	CDKN2A	166	14	2	0	<-3	1.000	1.000	Mutual exclusivity
+SRSF2	t(15;17)	166	14	2	0	<-3	1.000	1.000	Mutual exclusivity
+CDH2	TP53	168	1	13	0	<-3	1.000	1.000	Mutual exclusivity
+CDH2	RUNX1	168	1	13	0	<-3	1.000	1.000	Mutual exclusivity
+TP53	BIRC3	168	13	1	0	<-3	1.000	1.000	Mutual exclusivity
+TP53	MYD88	168	13	1	0	<-3	1.000	1.000	Mutual exclusivity
+TP53	NOTCH2	168	13	1	0	<-3	1.000	1.000	Mutual exclusivity
+RUNX1	NOTCH2	168	13	1	0	<-3	1.000	1.000	Mutual exclusivity
+TP53	U2AF2	168	13	1	0	<-3	1.000	1.000	Mutual exclusivity
+RUNX1	U2AF2	168	13	1	0	<-3	1.000	1.000	Mutual exclusivity
+TP53	GATA2	168	13	1	0	<-3	1.000	1.000	Mutual exclusivity
+RUNX1	GATA2	168	13	1	0	<-3	1.000	1.000	Mutual exclusivity
+TP53	RIT1	168	13	1	0	<-3	1.000	1.000	Mutual exclusivity
+RUNX1	RIT1	168	13	1	0	<-3	1.000	1.000	Mutual exclusivity
+TP53	ABL1	168	13	1	0	<-3	1.000	1.000	Mutual exclusivity
+RUNX1	ABL1	168	13	1	0	<-3	1.000	1.000	Mutual exclusivity
+TP53	BRINP3	168	13	1	0	<-3	1.000	1.000	Mutual exclusivity
+RUNX1	BRINP3	168	13	1	0	<-3	1.000	1.000	Mutual exclusivity
+TP53	PRPF40B	168	13	1	0	<-3	1.000	1.000	Mutual exclusivity
+RUNX1	PRPF40B	168	13	1	0	<-3	1.000	1.000	Mutual exclusivity
+TP53	POT1	168	13	1	0	<-3	1.000	1.000	Mutual exclusivity
+RUNX1	POT1	168	13	1	0	<-3	1.000	1.000	Mutual exclusivity
+TP53	FBXW7	168	13	1	0	<-3	1.000	1.000	Mutual exclusivity
+RUNX1	FBXW7	168	13	1	0	<-3	1.000	1.000	Mutual exclusivity
+TP53	IL7R	168	13	1	0	<-3	1.000	1.000	Mutual exclusivity
+RUNX1	IL7R	168	13	1	0	<-3	1.000	1.000	Mutual exclusivity
+TP53	TBL1XR1	168	13	1	0	<-3	1.000	1.000	Mutual exclusivity
+RUNX1	TBL1XR1	168	13	1	0	<-3	1.000	1.000	Mutual exclusivity
+TP53	SF1	168	13	1	0	<-3	1.000	1.000	Mutual exclusivity
+RUNX1	SF1	168	13	1	0	<-3	1.000	1.000	Mutual exclusivity
+TP53	t(16;16)	168	13	1	0	<-3	1.000	1.000	Mutual exclusivity
+RUNX1	t(16;16)	168	13	1	0	<-3	1.000	1.000	Mutual exclusivity
+CSF3R	CBL	177	2	3	0	<-3	1.000	1.000	Mutual exclusivity
+CSF3R	MYCN	177	2	3	0	<-3	1.000	1.000	Mutual exclusivity
+CSF3R	BRAF	177	2	3	0	<-3	1.000	1.000	Mutual exclusivity
+CSF3R	U2AF1	177	2	3	0	<-3	1.000	1.000	Mutual exclusivity
+MAP2K1	U2AF1	177	2	3	0	<-3	1.000	1.000	Mutual exclusivity
+SETBP1	U2AF1	177	2	3	0	<-3	1.000	1.000	Mutual exclusivity
+CSF3R	HNRNPK	177	2	3	0	<-3	1.000	1.000	Mutual exclusivity
+MAP2K1	HNRNPK	177	2	3	0	<-3	1.000	1.000	Mutual exclusivity
+SETBP1	HNRNPK	177	2	3	0	<-3	1.000	1.000	Mutual exclusivity
+CSF3R	chr22gain	177	2	3	0	<-3	1.000	1.000	Mutual exclusivity
+MAP2K1	chr22gain	177	2	3	0	<-3	1.000	1.000	Mutual exclusivity
+SETBP1	chr22gain	177	2	3	0	<-3	1.000	1.000	Mutual exclusivity
+PTEN	chr22gain	177	2	3	0	<-3	1.000	1.000	Mutual exclusivity
+CDKN2A	chr22gain	177	2	3	0	<-3	1.000	1.000	Mutual exclusivity
+CSF3R	t(11;19)	177	2	3	0	<-3	1.000	1.000	Mutual exclusivity
+MAP2K1	t(11;19)	177	2	3	0	<-3	1.000	1.000	Mutual exclusivity
+SETBP1	t(11;19)	177	2	3	0	<-3	1.000	1.000	Mutual exclusivity
+PTEN	t(11;19)	177	2	3	0	<-3	1.000	1.000	Mutual exclusivity
+CDKN2A	t(11;19)	177	2	3	0	<-3	1.000	1.000	Mutual exclusivity
+t(15;17)	t(11;19)	177	2	3	0	<-3	1.000	1.000	Mutual exclusivity
+chr11qdel	t(11;19)	177	2	3	0	<-3	1.000	1.000	Mutual exclusivity
+CSF3R	chr5loss	177	2	3	0	<-3	1.000	1.000	Mutual exclusivity
+MAP2K1	chr5loss	177	2	3	0	<-3	1.000	1.000	Mutual exclusivity
+SETBP1	chr5loss	177	2	3	0	<-3	1.000	1.000	Mutual exclusivity
+PTEN	chr5loss	177	2	3	0	<-3	1.000	1.000	Mutual exclusivity
+CDKN2A	chr5loss	177	2	3	0	<-3	1.000	1.000	Mutual exclusivity
+t(15;17)	chr5loss	177	2	3	0	<-3	1.000	1.000	Mutual exclusivity
+chr11qdel	chr5loss	177	2	3	0	<-3	1.000	1.000	Mutual exclusivity
+CSF3R	chr13gain	177	2	3	0	<-3	1.000	1.000	Mutual exclusivity
+MAP2K1	chr13gain	177	2	3	0	<-3	1.000	1.000	Mutual exclusivity
+SETBP1	chr13gain	177	2	3	0	<-3	1.000	1.000	Mutual exclusivity
+PTEN	chr13gain	177	2	3	0	<-3	1.000	1.000	Mutual exclusivity
+CDKN2A	chr13gain	177	2	3	0	<-3	1.000	1.000	Mutual exclusivity
+t(15;17)	chr13gain	177	2	3	0	<-3	1.000	1.000	Mutual exclusivity
+TET2	KIT	135	36	9	2	-0.263	1.000	1.000	Mutual exclusivity
+TET2	BCORL1	135	36	9	2	-0.263	1.000	1.000	Mutual exclusivity
+ATM	PHF6	168	7	7	0	<-3	1.000	1.000	Mutual exclusivity
+ATM	BCOR	168	7	7	0	<-3	1.000	1.000	Mutual exclusivity
+PHF6	BCOR	168	7	7	0	<-3	1.000	1.000	Mutual exclusivity
+TET2	MYC	140	37	4	1	-0.080	1.000	1.000	Mutual exclusivity
+TET2	EZH2	140	37	4	1	-0.080	1.000	1.000	Mutual exclusivity
+TET2	JAK2	140	37	4	1	-0.080	1.000	1.000	Mutual exclusivity
+CDH2	CBL	178	1	3	0	<-3	1.000	1.000	Mutual exclusivity
+CDH2	MYCN	178	1	3	0	<-3	1.000	1.000	Mutual exclusivity
+CDH2	BRAF	178	1	3	0	<-3	1.000	1.000	Mutual exclusivity
+CBL	BIRC3	178	3	1	0	<-3	1.000	1.000	Mutual exclusivity
+MYCN	BIRC3	178	3	1	0	<-3	1.000	1.000	Mutual exclusivity
+BRAF	BIRC3	178	3	1	0	<-3	1.000	1.000	Mutual exclusivity
+CBL	MYD88	178	3	1	0	<-3	1.000	1.000	Mutual exclusivity
+MYCN	MYD88	178	3	1	0	<-3	1.000	1.000	Mutual exclusivity
+BRAF	MYD88	178	3	1	0	<-3	1.000	1.000	Mutual exclusivity
+CBL	NOTCH2	178	3	1	0	<-3	1.000	1.000	Mutual exclusivity
+MYCN	NOTCH2	178	3	1	0	<-3	1.000	1.000	Mutual exclusivity
+BRAF	NOTCH2	178	3	1	0	<-3	1.000	1.000	Mutual exclusivity
+CBL	U2AF2	178	3	1	0	<-3	1.000	1.000	Mutual exclusivity
+MYCN	U2AF2	178	3	1	0	<-3	1.000	1.000	Mutual exclusivity
+BRAF	U2AF2	178	3	1	0	<-3	1.000	1.000	Mutual exclusivity
+CBL	GATA2	178	3	1	0	<-3	1.000	1.000	Mutual exclusivity
+MYCN	GATA2	178	3	1	0	<-3	1.000	1.000	Mutual exclusivity
+BRAF	GATA2	178	3	1	0	<-3	1.000	1.000	Mutual exclusivity
+CDH2	U2AF1	178	1	3	0	<-3	1.000	1.000	Mutual exclusivity
+BIRC3	U2AF1	178	1	3	0	<-3	1.000	1.000	Mutual exclusivity
+MYD88	U2AF1	178	1	3	0	<-3	1.000	1.000	Mutual exclusivity
+NOTCH2	U2AF1	178	1	3	0	<-3	1.000	1.000	Mutual exclusivity
+U2AF2	U2AF1	178	1	3	0	<-3	1.000	1.000	Mutual exclusivity
+GATA2	U2AF1	178	1	3	0	<-3	1.000	1.000	Mutual exclusivity
+CDH2	HNRNPK	178	1	3	0	<-3	1.000	1.000	Mutual exclusivity
+BIRC3	HNRNPK	178	1	3	0	<-3	1.000	1.000	Mutual exclusivity
+MYD88	HNRNPK	178	1	3	0	<-3	1.000	1.000	Mutual exclusivity
+NOTCH2	HNRNPK	178	1	3	0	<-3	1.000	1.000	Mutual exclusivity
+U2AF2	HNRNPK	178	1	3	0	<-3	1.000	1.000	Mutual exclusivity
+GATA2	HNRNPK	178	1	3	0	<-3	1.000	1.000	Mutual exclusivity
+CBL	RIT1	178	3	1	0	<-3	1.000	1.000	Mutual exclusivity
+MYCN	RIT1	178	3	1	0	<-3	1.000	1.000	Mutual exclusivity
+BRAF	RIT1	178	3	1	0	<-3	1.000	1.000	Mutual exclusivity
+U2AF1	RIT1	178	3	1	0	<-3	1.000	1.000	Mutual exclusivity
+HNRNPK	RIT1	178	3	1	0	<-3	1.000	1.000	Mutual exclusivity
+CBL	ABL1	178	3	1	0	<-3	1.000	1.000	Mutual exclusivity
+MYCN	ABL1	178	3	1	0	<-3	1.000	1.000	Mutual exclusivity
+BRAF	ABL1	178	3	1	0	<-3	1.000	1.000	Mutual exclusivity
+U2AF1	ABL1	178	3	1	0	<-3	1.000	1.000	Mutual exclusivity
+HNRNPK	ABL1	178	3	1	0	<-3	1.000	1.000	Mutual exclusivity
+CBL	BRINP3	178	3	1	0	<-3	1.000	1.000	Mutual exclusivity
+MYCN	BRINP3	178	3	1	0	<-3	1.000	1.000	Mutual exclusivity
+BRAF	BRINP3	178	3	1	0	<-3	1.000	1.000	Mutual exclusivity
+U2AF1	BRINP3	178	3	1	0	<-3	1.000	1.000	Mutual exclusivity
+CBL	PRPF40B	178	3	1	0	<-3	1.000	1.000	Mutual exclusivity
+MYCN	PRPF40B	178	3	1	0	<-3	1.000	1.000	Mutual exclusivity
+BRAF	PRPF40B	178	3	1	0	<-3	1.000	1.000	Mutual exclusivity
+U2AF1	PRPF40B	178	3	1	0	<-3	1.000	1.000	Mutual exclusivity
+HNRNPK	PRPF40B	178	3	1	0	<-3	1.000	1.000	Mutual exclusivity
+CBL	POT1	178	3	1	0	<-3	1.000	1.000	Mutual exclusivity
+MYCN	POT1	178	3	1	0	<-3	1.000	1.000	Mutual exclusivity
+BRAF	POT1	178	3	1	0	<-3	1.000	1.000	Mutual exclusivity
+U2AF1	POT1	178	3	1	0	<-3	1.000	1.000	Mutual exclusivity
+HNRNPK	POT1	178	3	1	0	<-3	1.000	1.000	Mutual exclusivity
+CBL	FBXW7	178	3	1	0	<-3	1.000	1.000	Mutual exclusivity
+MYCN	FBXW7	178	3	1	0	<-3	1.000	1.000	Mutual exclusivity
+BRAF	FBXW7	178	3	1	0	<-3	1.000	1.000	Mutual exclusivity
+U2AF1	FBXW7	178	3	1	0	<-3	1.000	1.000	Mutual exclusivity
+HNRNPK	FBXW7	178	3	1	0	<-3	1.000	1.000	Mutual exclusivity
+CBL	IL7R	178	3	1	0	<-3	1.000	1.000	Mutual exclusivity
+MYCN	IL7R	178	3	1	0	<-3	1.000	1.000	Mutual exclusivity
+BRAF	IL7R	178	3	1	0	<-3	1.000	1.000	Mutual exclusivity
+U2AF1	IL7R	178	3	1	0	<-3	1.000	1.000	Mutual exclusivity
+HNRNPK	IL7R	178	3	1	0	<-3	1.000	1.000	Mutual exclusivity
+CBL	TBL1XR1	178	3	1	0	<-3	1.000	1.000	Mutual exclusivity
+MYCN	TBL1XR1	178	3	1	0	<-3	1.000	1.000	Mutual exclusivity
+BRAF	TBL1XR1	178	3	1	0	<-3	1.000	1.000	Mutual exclusivity
+U2AF1	TBL1XR1	178	3	1	0	<-3	1.000	1.000	Mutual exclusivity
+HNRNPK	TBL1XR1	178	3	1	0	<-3	1.000	1.000	Mutual exclusivity
+CBL	SF1	178	3	1	0	<-3	1.000	1.000	Mutual exclusivity
+MYCN	SF1	178	3	1	0	<-3	1.000	1.000	Mutual exclusivity
+BRAF	SF1	178	3	1	0	<-3	1.000	1.000	Mutual exclusivity
+U2AF1	SF1	178	3	1	0	<-3	1.000	1.000	Mutual exclusivity
+HNRNPK	SF1	178	3	1	0	<-3	1.000	1.000	Mutual exclusivity
+CBL	t(16;16)	178	3	1	0	<-3	1.000	1.000	Mutual exclusivity
+MYCN	t(16;16)	178	3	1	0	<-3	1.000	1.000	Mutual exclusivity
+BRAF	t(16;16)	178	3	1	0	<-3	1.000	1.000	Mutual exclusivity
+U2AF1	t(16;16)	178	3	1	0	<-3	1.000	1.000	Mutual exclusivity
+HNRNPK	t(16;16)	178	3	1	0	<-3	1.000	1.000	Mutual exclusivity
+CDH2	chr22gain	178	1	3	0	<-3	1.000	1.000	Mutual exclusivity
+BIRC3	chr22gain	178	1	3	0	<-3	1.000	1.000	Mutual exclusivity
+MYD88	chr22gain	178	1	3	0	<-3	1.000	1.000	Mutual exclusivity
+NOTCH2	chr22gain	178	1	3	0	<-3	1.000	1.000	Mutual exclusivity
+U2AF2	chr22gain	178	1	3	0	<-3	1.000	1.000	Mutual exclusivity
+GATA2	chr22gain	178	1	3	0	<-3	1.000	1.000	Mutual exclusivity
+RIT1	chr22gain	178	1	3	0	<-3	1.000	1.000	Mutual exclusivity
+ABL1	chr22gain	178	1	3	0	<-3	1.000	1.000	Mutual exclusivity
+BRINP3	chr22gain	178	1	3	0	<-3	1.000	1.000	Mutual exclusivity
+PRPF40B	chr22gain	178	1	3	0	<-3	1.000	1.000	Mutual exclusivity
+POT1	chr22gain	178	1	3	0	<-3	1.000	1.000	Mutual exclusivity
+FBXW7	chr22gain	178	1	3	0	<-3	1.000	1.000	Mutual exclusivity
+IL7R	chr22gain	178	1	3	0	<-3	1.000	1.000	Mutual exclusivity
+TBL1XR1	chr22gain	178	1	3	0	<-3	1.000	1.000	Mutual exclusivity
+SF1	chr22gain	178	1	3	0	<-3	1.000	1.000	Mutual exclusivity
+t(16;16)	chr22gain	178	1	3	0	<-3	1.000	1.000	Mutual exclusivity
+CDH2	t(11;19)	178	1	3	0	<-3	1.000	1.000	Mutual exclusivity
+BIRC3	t(11;19)	178	1	3	0	<-3	1.000	1.000	Mutual exclusivity
+MYD88	t(11;19)	178	1	3	0	<-3	1.000	1.000	Mutual exclusivity
+NOTCH2	t(11;19)	178	1	3	0	<-3	1.000	1.000	Mutual exclusivity
+U2AF2	t(11;19)	178	1	3	0	<-3	1.000	1.000	Mutual exclusivity
+GATA2	t(11;19)	178	1	3	0	<-3	1.000	1.000	Mutual exclusivity
+RIT1	t(11;19)	178	1	3	0	<-3	1.000	1.000	Mutual exclusivity
+ABL1	t(11;19)	178	1	3	0	<-3	1.000	1.000	Mutual exclusivity
+BRINP3	t(11;19)	178	1	3	0	<-3	1.000	1.000	Mutual exclusivity
+PRPF40B	t(11;19)	178	1	3	0	<-3	1.000	1.000	Mutual exclusivity
+POT1	t(11;19)	178	1	3	0	<-3	1.000	1.000	Mutual exclusivity
+FBXW7	t(11;19)	178	1	3	0	<-3	1.000	1.000	Mutual exclusivity
+IL7R	t(11;19)	178	1	3	0	<-3	1.000	1.000	Mutual exclusivity
+TBL1XR1	t(11;19)	178	1	3	0	<-3	1.000	1.000	Mutual exclusivity
+SF1	t(11;19)	178	1	3	0	<-3	1.000	1.000	Mutual exclusivity
+t(16;16)	t(11;19)	178	1	3	0	<-3	1.000	1.000	Mutual exclusivity
+CDH2	chr5loss	178	1	3	0	<-3	1.000	1.000	Mutual exclusivity
+BIRC3	chr5loss	178	1	3	0	<-3	1.000	1.000	Mutual exclusivity
+MYD88	chr5loss	178	1	3	0	<-3	1.000	1.000	Mutual exclusivity
+NOTCH2	chr5loss	178	1	3	0	<-3	1.000	1.000	Mutual exclusivity
+U2AF2	chr5loss	178	1	3	0	<-3	1.000	1.000	Mutual exclusivity
+GATA2	chr5loss	178	1	3	0	<-3	1.000	1.000	Mutual exclusivity
+RIT1	chr5loss	178	1	3	0	<-3	1.000	1.000	Mutual exclusivity
+ABL1	chr5loss	178	1	3	0	<-3	1.000	1.000	Mutual exclusivity
+BRINP3	chr5loss	178	1	3	0	<-3	1.000	1.000	Mutual exclusivity
+PRPF40B	chr5loss	178	1	3	0	<-3	1.000	1.000	Mutual exclusivity
+POT1	chr5loss	178	1	3	0	<-3	1.000	1.000	Mutual exclusivity
+FBXW7	chr5loss	178	1	3	0	<-3	1.000	1.000	Mutual exclusivity
+IL7R	chr5loss	178	1	3	0	<-3	1.000	1.000	Mutual exclusivity
+TBL1XR1	chr5loss	178	1	3	0	<-3	1.000	1.000	Mutual exclusivity
+SF1	chr5loss	178	1	3	0	<-3	1.000	1.000	Mutual exclusivity
+t(16;16)	chr5loss	178	1	3	0	<-3	1.000	1.000	Mutual exclusivity
+CDH2	chr13gain	178	1	3	0	<-3	1.000	1.000	Mutual exclusivity
+BIRC3	chr13gain	178	1	3	0	<-3	1.000	1.000	Mutual exclusivity
+MYD88	chr13gain	178	1	3	0	<-3	1.000	1.000	Mutual exclusivity
+NOTCH2	chr13gain	178	1	3	0	<-3	1.000	1.000	Mutual exclusivity
+U2AF2	chr13gain	178	1	3	0	<-3	1.000	1.000	Mutual exclusivity
+GATA2	chr13gain	178	1	3	0	<-3	1.000	1.000	Mutual exclusivity
+RIT1	chr13gain	178	1	3	0	<-3	1.000	1.000	Mutual exclusivity
+ABL1	chr13gain	178	1	3	0	<-3	1.000	1.000	Mutual exclusivity
+BRINP3	chr13gain	178	1	3	0	<-3	1.000	1.000	Mutual exclusivity
+PRPF40B	chr13gain	178	1	3	0	<-3	1.000	1.000	Mutual exclusivity
+POT1	chr13gain	178	1	3	0	<-3	1.000	1.000	Mutual exclusivity
+FBXW7	chr13gain	178	1	3	0	<-3	1.000	1.000	Mutual exclusivity
+IL7R	chr13gain	178	1	3	0	<-3	1.000	1.000	Mutual exclusivity
+TBL1XR1	chr13gain	178	1	3	0	<-3	1.000	1.000	Mutual exclusivity
+SF1	chr13gain	178	1	3	0	<-3	1.000	1.000	Mutual exclusivity
+t(16;16)	chr13gain	178	1	3	0	<-3	1.000	1.000	Mutual exclusivity
+TET2	t(8;21)	139	37	5	1	-0.412	1.000	1.000	Mutual exclusivity
+TET2	chr21gain	139	37	5	1	-0.412	1.000	1.000	Mutual exclusivity
+TP53	WT1	157	13	12	0	<-3	1.000	1.000	Mutual exclusivity
+CDH2	MAP2K1	179	1	2	0	<-3	1.000	1.000	Mutual exclusivity
+CDH2	SETBP1	179	1	2	0	<-3	1.000	1.000	Mutual exclusivity
+CSF3R	BIRC3	179	2	1	0	<-3	1.000	1.000	Mutual exclusivity
+MAP2K1	BIRC3	179	2	1	0	<-3	1.000	1.000	Mutual exclusivity
+SETBP1	BIRC3	179	2	1	0	<-3	1.000	1.000	Mutual exclusivity
+CSF3R	MYD88	179	2	1	0	<-3	1.000	1.000	Mutual exclusivity
+MAP2K1	MYD88	179	2	1	0	<-3	1.000	1.000	Mutual exclusivity
+SETBP1	MYD88	179	2	1	0	<-3	1.000	1.000	Mutual exclusivity
+CSF3R	NOTCH2	179	2	1	0	<-3	1.000	1.000	Mutual exclusivity
+MAP2K1	NOTCH2	179	2	1	0	<-3	1.000	1.000	Mutual exclusivity
+SETBP1	NOTCH2	179	2	1	0	<-3	1.000	1.000	Mutual exclusivity
+CSF3R	U2AF2	179	2	1	0	<-3	1.000	1.000	Mutual exclusivity
+MAP2K1	U2AF2	179	2	1	0	<-3	1.000	1.000	Mutual exclusivity
+SETBP1	U2AF2	179	2	1	0	<-3	1.000	1.000	Mutual exclusivity
+CSF3R	GATA2	179	2	1	0	<-3	1.000	1.000	Mutual exclusivity
+MAP2K1	GATA2	179	2	1	0	<-3	1.000	1.000	Mutual exclusivity
+SETBP1	GATA2	179	2	1	0	<-3	1.000	1.000	Mutual exclusivity
+CSF3R	RIT1	179	2	1	0	<-3	1.000	1.000	Mutual exclusivity
+MAP2K1	RIT1	179	2	1	0	<-3	1.000	1.000	Mutual exclusivity
+SETBP1	RIT1	179	2	1	0	<-3	1.000	1.000	Mutual exclusivity
+CDH2	PTEN	179	1	2	0	<-3	1.000	1.000	Mutual exclusivity
+BIRC3	PTEN	179	1	2	0	<-3	1.000	1.000	Mutual exclusivity
+MYD88	PTEN	179	1	2	0	<-3	1.000	1.000	Mutual exclusivity
+NOTCH2	PTEN	179	1	2	0	<-3	1.000	1.000	Mutual exclusivity
+U2AF2	PTEN	179	1	2	0	<-3	1.000	1.000	Mutual exclusivity
+GATA2	PTEN	179	1	2	0	<-3	1.000	1.000	Mutual exclusivity
+RIT1	PTEN	179	1	2	0	<-3	1.000	1.000	Mutual exclusivity
+CSF3R	ABL1	179	2	1	0	<-3	1.000	1.000	Mutual exclusivity
+MAP2K1	ABL1	179	2	1	0	<-3	1.000	1.000	Mutual exclusivity
+SETBP1	ABL1	179	2	1	0	<-3	1.000	1.000	Mutual exclusivity
+PTEN	ABL1	179	2	1	0	<-3	1.000	1.000	Mutual exclusivity
+CSF3R	BRINP3	179	2	1	0	<-3	1.000	1.000	Mutual exclusivity
+MAP2K1	BRINP3	179	2	1	0	<-3	1.000	1.000	Mutual exclusivity
+SETBP1	BRINP3	179	2	1	0	<-3	1.000	1.000	Mutual exclusivity
+PTEN	BRINP3	179	2	1	0	<-3	1.000	1.000	Mutual exclusivity
+CDH2	CDKN2A	179	1	2	0	<-3	1.000	1.000	Mutual exclusivity
+BIRC3	CDKN2A	179	1	2	0	<-3	1.000	1.000	Mutual exclusivity
+MYD88	CDKN2A	179	1	2	0	<-3	1.000	1.000	Mutual exclusivity
+NOTCH2	CDKN2A	179	1	2	0	<-3	1.000	1.000	Mutual exclusivity
+U2AF2	CDKN2A	179	1	2	0	<-3	1.000	1.000	Mutual exclusivity
+GATA2	CDKN2A	179	1	2	0	<-3	1.000	1.000	Mutual exclusivity
+RIT1	CDKN2A	179	1	2	0	<-3	1.000	1.000	Mutual exclusivity
+ABL1	CDKN2A	179	1	2	0	<-3	1.000	1.000	Mutual exclusivity
+BRINP3	CDKN2A	179	1	2	0	<-3	1.000	1.000	Mutual exclusivity
+CSF3R	PRPF40B	179	2	1	0	<-3	1.000	1.000	Mutual exclusivity
+MAP2K1	PRPF40B	179	2	1	0	<-3	1.000	1.000	Mutual exclusivity
+SETBP1	PRPF40B	179	2	1	0	<-3	1.000	1.000	Mutual exclusivity
+PTEN	PRPF40B	179	2	1	0	<-3	1.000	1.000	Mutual exclusivity
+CSF3R	POT1	179	2	1	0	<-3	1.000	1.000	Mutual exclusivity
+MAP2K1	POT1	179	2	1	0	<-3	1.000	1.000	Mutual exclusivity
+SETBP1	POT1	179	2	1	0	<-3	1.000	1.000	Mutual exclusivity
+PTEN	POT1	179	2	1	0	<-3	1.000	1.000	Mutual exclusivity
+CDKN2A	POT1	179	2	1	0	<-3	1.000	1.000	Mutual exclusivity
+CSF3R	FBXW7	179	2	1	0	<-3	1.000	1.000	Mutual exclusivity
+MAP2K1	FBXW7	179	2	1	0	<-3	1.000	1.000	Mutual exclusivity
+SETBP1	FBXW7	179	2	1	0	<-3	1.000	1.000	Mutual exclusivity
+PTEN	FBXW7	179	2	1	0	<-3	1.000	1.000	Mutual exclusivity
+CDKN2A	FBXW7	179	2	1	0	<-3	1.000	1.000	Mutual exclusivity
+CSF3R	IL7R	179	2	1	0	<-3	1.000	1.000	Mutual exclusivity
+MAP2K1	IL7R	179	2	1	0	<-3	1.000	1.000	Mutual exclusivity
+SETBP1	IL7R	179	2	1	0	<-3	1.000	1.000	Mutual exclusivity
+PTEN	IL7R	179	2	1	0	<-3	1.000	1.000	Mutual exclusivity
+CDKN2A	IL7R	179	2	1	0	<-3	1.000	1.000	Mutual exclusivity
+CSF3R	TBL1XR1	179	2	1	0	<-3	1.000	1.000	Mutual exclusivity
+MAP2K1	TBL1XR1	179	2	1	0	<-3	1.000	1.000	Mutual exclusivity
+SETBP1	TBL1XR1	179	2	1	0	<-3	1.000	1.000	Mutual exclusivity
+PTEN	TBL1XR1	179	2	1	0	<-3	1.000	1.000	Mutual exclusivity
+CDKN2A	TBL1XR1	179	2	1	0	<-3	1.000	1.000	Mutual exclusivity
+CSF3R	SF1	179	2	1	0	<-3	1.000	1.000	Mutual exclusivity
+MAP2K1	SF1	179	2	1	0	<-3	1.000	1.000	Mutual exclusivity
+SETBP1	SF1	179	2	1	0	<-3	1.000	1.000	Mutual exclusivity
+PTEN	SF1	179	2	1	0	<-3	1.000	1.000	Mutual exclusivity
+CDKN2A	SF1	179	2	1	0	<-3	1.000	1.000	Mutual exclusivity
+CSF3R	t(16;16)	179	2	1	0	<-3	1.000	1.000	Mutual exclusivity
+MAP2K1	t(16;16)	179	2	1	0	<-3	1.000	1.000	Mutual exclusivity
+SETBP1	t(16;16)	179	2	1	0	<-3	1.000	1.000	Mutual exclusivity
+PTEN	t(16;16)	179	2	1	0	<-3	1.000	1.000	Mutual exclusivity
+CDKN2A	t(16;16)	179	2	1	0	<-3	1.000	1.000	Mutual exclusivity
+CDH2	t(15;17)	179	1	2	0	<-3	1.000	1.000	Mutual exclusivity
+BIRC3	t(15;17)	179	1	2	0	<-3	1.000	1.000	Mutual exclusivity
+MYD88	t(15;17)	179	1	2	0	<-3	1.000	1.000	Mutual exclusivity
+NOTCH2	t(15;17)	179	1	2	0	<-3	1.000	1.000	Mutual exclusivity
+U2AF2	t(15;17)	179	1	2	0	<-3	1.000	1.000	Mutual exclusivity
+GATA2	t(15;17)	179	1	2	0	<-3	1.000	1.000	Mutual exclusivity
+RIT1	t(15;17)	179	1	2	0	<-3	1.000	1.000	Mutual exclusivity
+ABL1	t(15;17)	179	1	2	0	<-3	1.000	1.000	Mutual exclusivity
+BRINP3	t(15;17)	179	1	2	0	<-3	1.000	1.000	Mutual exclusivity
+PRPF40B	t(15;17)	179	1	2	0	<-3	1.000	1.000	Mutual exclusivity
+POT1	t(15;17)	179	1	2	0	<-3	1.000	1.000	Mutual exclusivity
+FBXW7	t(15;17)	179	1	2	0	<-3	1.000	1.000	Mutual exclusivity
+IL7R	t(15;17)	179	1	2	0	<-3	1.000	1.000	Mutual exclusivity
+TBL1XR1	t(15;17)	179	1	2	0	<-3	1.000	1.000	Mutual exclusivity
+SF1	t(15;17)	179	1	2	0	<-3	1.000	1.000	Mutual exclusivity
+t(16;16)	t(15;17)	179	1	2	0	<-3	1.000	1.000	Mutual exclusivity
+CDH2	chr11qdel	179	1	2	0	<-3	1.000	1.000	Mutual exclusivity
+BIRC3	chr11qdel	179	1	2	0	<-3	1.000	1.000	Mutual exclusivity
+MYD88	chr11qdel	179	1	2	0	<-3	1.000	1.000	Mutual exclusivity
+NOTCH2	chr11qdel	179	1	2	0	<-3	1.000	1.000	Mutual exclusivity
+U2AF2	chr11qdel	179	1	2	0	<-3	1.000	1.000	Mutual exclusivity
+GATA2	chr11qdel	179	1	2	0	<-3	1.000	1.000	Mutual exclusivity
+RIT1	chr11qdel	179	1	2	0	<-3	1.000	1.000	Mutual exclusivity
+ABL1	chr11qdel	179	1	2	0	<-3	1.000	1.000	Mutual exclusivity
+BRINP3	chr11qdel	179	1	2	0	<-3	1.000	1.000	Mutual exclusivity
+PRPF40B	chr11qdel	179	1	2	0	<-3	1.000	1.000	Mutual exclusivity
+POT1	chr11qdel	179	1	2	0	<-3	1.000	1.000	Mutual exclusivity
+FBXW7	chr11qdel	179	1	2	0	<-3	1.000	1.000	Mutual exclusivity
+IL7R	chr11qdel	179	1	2	0	<-3	1.000	1.000	Mutual exclusivity
+TBL1XR1	chr11qdel	179	1	2	0	<-3	1.000	1.000	Mutual exclusivity
+SF1	chr11qdel	179	1	2	0	<-3	1.000	1.000	Mutual exclusivity
+t(16;16)	chr11qdel	179	1	2	0	<-3	1.000	1.000	Mutual exclusivity
+WT1	BIRC3	169	12	1	0	<-3	1.000	1.000	Mutual exclusivity
+WT1	MYD88	169	12	1	0	<-3	1.000	1.000	Mutual exclusivity
+WT1	NOTCH2	169	12	1	0	<-3	1.000	1.000	Mutual exclusivity
+WT1	U2AF2	169	12	1	0	<-3	1.000	1.000	Mutual exclusivity
+WT1	RIT1	169	12	1	0	<-3	1.000	1.000	Mutual exclusivity
+WT1	ABL1	169	12	1	0	<-3	1.000	1.000	Mutual exclusivity
+WT1	BRINP3	169	12	1	0	<-3	1.000	1.000	Mutual exclusivity
+WT1	PRPF40B	169	12	1	0	<-3	1.000	1.000	Mutual exclusivity
+WT1	POT1	169	12	1	0	<-3	1.000	1.000	Mutual exclusivity
+WT1	FBXW7	169	12	1	0	<-3	1.000	1.000	Mutual exclusivity
+WT1	IL7R	169	12	1	0	<-3	1.000	1.000	Mutual exclusivity
+WT1	TBL1XR1	169	12	1	0	<-3	1.000	1.000	Mutual exclusivity
+WT1	SF1	169	12	1	0	<-3	1.000	1.000	Mutual exclusivity
+WT1	t(16;16)	169	12	1	0	<-3	1.000	1.000	Mutual exclusivity
+CSF3R	TP53	167	2	13	0	<-3	1.000	1.000	Mutual exclusivity
+TP53	MAP2K1	167	13	2	0	<-3	1.000	1.000	Mutual exclusivity
+CSF3R	RUNX1	167	2	13	0	<-3	1.000	1.000	Mutual exclusivity
+TP53	SETBP1	167	13	2	0	<-3	1.000	1.000	Mutual exclusivity
+RUNX1	SETBP1	167	13	2	0	<-3	1.000	1.000	Mutual exclusivity
+TP53	PTEN	167	13	2	0	<-3	1.000	1.000	Mutual exclusivity
+RUNX1	PTEN	167	13	2	0	<-3	1.000	1.000	Mutual exclusivity
+TP53	CDKN2A	167	13	2	0	<-3	1.000	1.000	Mutual exclusivity
+RUNX1	CDKN2A	167	13	2	0	<-3	1.000	1.000	Mutual exclusivity
+TP53	t(15;17)	167	13	2	0	<-3	1.000	1.000	Mutual exclusivity
+RUNX1	t(15;17)	167	13	2	0	<-3	1.000	1.000	Mutual exclusivity
+RUNX1	chr11qdel	167	13	2	0	<-3	1.000	1.000	Mutual exclusivity
+KIT	IDH1	161	11	10	0	<-3	1.000	1.000	Mutual exclusivity
+KIT	STAG2	161	11	10	0	<-3	1.000	1.000	Mutual exclusivity
+IDH1	BCORL1	161	10	11	0	<-3	1.000	1.000	Mutual exclusivity
+BCORL1	KRAS	161	11	10	0	<-3	1.000	1.000	Mutual exclusivity
+STAG2	PTPN11	164	10	8	0	<-3	1.000	1.000	Mutual exclusivity
+KRAS	PTPN11	164	10	8	0	<-3	1.000	1.000	Mutual exclusivity
+NPM1	IDH1	117	55	7	3	-0.133	1.000	1.000	Mutual exclusivity
+NPM1	STAG2	117	55	7	3	-0.133	1.000	1.000	Mutual exclusivity
+DNMT3A	KRAS	117	55	7	3	-0.133	1.000	1.000	Mutual exclusivity
+NPM1	KRAS	117	55	7	3	-0.133	1.000	1.000	Mutual exclusivity
+CDH2	ASXL1	158	1	23	0	<-3	1.000	1.000	Mutual exclusivity
+ASXL1	NOTCH2	158	23	1	0	<-3	1.000	1.000	Mutual exclusivity
+ASXL1	U2AF2	158	23	1	0	<-3	1.000	1.000	Mutual exclusivity
+ASXL1	GATA2	158	23	1	0	<-3	1.000	1.000	Mutual exclusivity
+ASXL1	RIT1	158	23	1	0	<-3	1.000	1.000	Mutual exclusivity
+ASXL1	ABL1	158	23	1	0	<-3	1.000	1.000	Mutual exclusivity
+ASXL1	BRINP3	158	23	1	0	<-3	1.000	1.000	Mutual exclusivity
+ASXL1	PRPF40B	158	23	1	0	<-3	1.000	1.000	Mutual exclusivity
+ASXL1	POT1	158	23	1	0	<-3	1.000	1.000	Mutual exclusivity
+ASXL1	FBXW7	158	23	1	0	<-3	1.000	1.000	Mutual exclusivity
+ASXL1	IL7R	158	23	1	0	<-3	1.000	1.000	Mutual exclusivity
+ASXL1	SF1	158	23	1	0	<-3	1.000	1.000	Mutual exclusivity
+ASXL1	t(16;16)	158	23	1	0	<-3	1.000	1.000	Mutual exclusivity
+NRAS	TP53	148	21	12	1	-0.768	1.000	1.000	Mutual exclusivity
+NRAS	chr8gain	143	20	17	2	-0.250	1.000	1.000	Mutual exclusivity
+CBL	RUNX1	166	3	13	0	<-3	1.000	1.000	Mutual exclusivity
+MYCN	RUNX1	166	3	13	0	<-3	1.000	1.000	Mutual exclusivity
+BRAF	RUNX1	166	3	13	0	<-3	1.000	1.000	Mutual exclusivity
+NF1	SRSF2	159	9	14	0	<-3	1.000	1.000	Mutual exclusivity
+SRSF2	inv(16)	159	14	9	0	<-3	1.000	1.000	Mutual exclusivity
+CSF3R	BCORL1	169	2	11	0	<-3	1.000	1.000	Mutual exclusivity
+MAP2K1	BCORL1	169	2	11	0	<-3	1.000	1.000	Mutual exclusivity
+TET2	BCOR	138	37	6	1	-0.686	1.000	1.000	Mutual exclusivity
+CDH2	BCORL1	170	1	11	0	<-3	1.000	1.000	Mutual exclusivity
+KIT	BIRC3	170	11	1	0	<-3	1.000	1.000	Mutual exclusivity
+BCORL1	BIRC3	170	11	1	0	<-3	1.000	1.000	Mutual exclusivity
+KIT	MYD88	170	11	1	0	<-3	1.000	1.000	Mutual exclusivity
+BCORL1	MYD88	170	11	1	0	<-3	1.000	1.000	Mutual exclusivity
+KIT	NOTCH2	170	11	1	0	<-3	1.000	1.000	Mutual exclusivity
+BCORL1	NOTCH2	170	11	1	0	<-3	1.000	1.000	Mutual exclusivity
+KIT	U2AF2	170	11	1	0	<-3	1.000	1.000	Mutual exclusivity
+BCORL1	U2AF2	170	11	1	0	<-3	1.000	1.000	Mutual exclusivity
+KIT	GATA2	170	11	1	0	<-3	1.000	1.000	Mutual exclusivity
+BCORL1	GATA2	170	11	1	0	<-3	1.000	1.000	Mutual exclusivity
+KIT	RIT1	170	11	1	0	<-3	1.000	1.000	Mutual exclusivity
+BCORL1	RIT1	170	11	1	0	<-3	1.000	1.000	Mutual exclusivity
+KIT	ABL1	170	11	1	0	<-3	1.000	1.000	Mutual exclusivity
+BCORL1	ABL1	170	11	1	0	<-3	1.000	1.000	Mutual exclusivity
+KIT	BRINP3	170	11	1	0	<-3	1.000	1.000	Mutual exclusivity
+BCORL1	BRINP3	170	11	1	0	<-3	1.000	1.000	Mutual exclusivity
+KIT	PRPF40B	170	11	1	0	<-3	1.000	1.000	Mutual exclusivity
+BCORL1	PRPF40B	170	11	1	0	<-3	1.000	1.000	Mutual exclusivity
+KIT	POT1	170	11	1	0	<-3	1.000	1.000	Mutual exclusivity
+BCORL1	POT1	170	11	1	0	<-3	1.000	1.000	Mutual exclusivity
+KIT	FBXW7	170	11	1	0	<-3	1.000	1.000	Mutual exclusivity
+BCORL1	FBXW7	170	11	1	0	<-3	1.000	1.000	Mutual exclusivity
+KIT	IL7R	170	11	1	0	<-3	1.000	1.000	Mutual exclusivity
+BCORL1	IL7R	170	11	1	0	<-3	1.000	1.000	Mutual exclusivity
+KIT	TBL1XR1	170	11	1	0	<-3	1.000	1.000	Mutual exclusivity
+BCORL1	TBL1XR1	170	11	1	0	<-3	1.000	1.000	Mutual exclusivity
+BCORL1	SF1	170	11	1	0	<-3	1.000	1.000	Mutual exclusivity
+BCORL1	t(16;16)	170	11	1	0	<-3	1.000	1.000	Mutual exclusivity
+DNMT3A	NF1	118	55	6	3	0.101	1.000	1.000	Co-occurrence
+NPM1	NF1	118	55	6	3	0.101	1.000	1.000	Co-occurrence
+CDH2	PTPN11	173	1	8	0	<-3	1.000	1.000	Mutual exclusivity
+BIRC3	PTPN11	173	1	8	0	<-3	1.000	1.000	Mutual exclusivity
+MYD88	PTPN11	173	1	8	0	<-3	1.000	1.000	Mutual exclusivity
+NOTCH2	PTPN11	173	1	8	0	<-3	1.000	1.000	Mutual exclusivity
+U2AF2	PTPN11	173	1	8	0	<-3	1.000	1.000	Mutual exclusivity
+GATA2	PTPN11	173	1	8	0	<-3	1.000	1.000	Mutual exclusivity
+PTPN11	RIT1	173	8	1	0	<-3	1.000	1.000	Mutual exclusivity
+PTPN11	ABL1	173	8	1	0	<-3	1.000	1.000	Mutual exclusivity
+PTPN11	BRINP3	173	8	1	0	<-3	1.000	1.000	Mutual exclusivity
+PTPN11	PRPF40B	173	8	1	0	<-3	1.000	1.000	Mutual exclusivity
+PTPN11	POT1	173	8	1	0	<-3	1.000	1.000	Mutual exclusivity
+PTPN11	FBXW7	173	8	1	0	<-3	1.000	1.000	Mutual exclusivity
+PTPN11	IL7R	173	8	1	0	<-3	1.000	1.000	Mutual exclusivity
+PTPN11	TBL1XR1	173	8	1	0	<-3	1.000	1.000	Mutual exclusivity
+PTPN11	SF1	173	8	1	0	<-3	1.000	1.000	Mutual exclusivity
+PTPN11	t(16;16)	173	8	1	0	<-3	1.000	1.000	Mutual exclusivity
+KIT	RUNX1	158	11	13	0	<-3	1.000	1.000	Mutual exclusivity
+NF1	PTPN11	165	9	8	0	<-3	1.000	1.000	Mutual exclusivity
+PTPN11	inv(16)	165	8	9	0	<-3	1.000	1.000	Mutual exclusivity
+IDH2	PTPN11	145	29	7	1	-0.485	1.000	1.000	Mutual exclusivity
+IDH1	chr8gain	154	9	18	1	-0.073	1.000	1.000	Mutual exclusivity
+STAG2	chr8gain	154	9	18	1	-0.073	1.000	1.000	Mutual exclusivity
+FLT3	NRAS	98	62	14	8	-0.147	1.000	1.000	Mutual exclusivity
+ETV6	WT1	165	5	12	0	<-3	1.000	1.000	Mutual exclusivity
+WT1	inv(16)	161	12	9	0	<-3	1.000	1.000	Mutual exclusivity
+KIT	WT1	159	11	12	0	<-3	1.000	1.000	Mutual exclusivity
+ASXL1	TP53	147	22	12	1	-0.845	1.000	1.000	Mutual exclusivity
+RUNX1	inv(16)	160	13	9	0	<-3	1.000	1.000	Mutual exclusivity
+ASXL1	KRAS	150	22	9	1	-0.401	1.000	1.000	Mutual exclusivity
+CSF3R	chr8gain	161	2	19	0	<-3	1.000	1.000	Mutual exclusivity
+SETBP1	chr8gain	161	2	19	0	<-3	1.000	1.000	Mutual exclusivity
+PTEN	chr8gain	161	2	19	0	<-3	1.000	1.000	Mutual exclusivity
+SMC1A	inv(16)	167	6	9	0	<-3	1.000	1.000	Mutual exclusivity
+t(8;21)	inv(16)	167	6	9	0	<-3	1.000	1.000	Mutual exclusivity
+MYC	NF1	168	5	9	0	<-3	1.000	1.000	Mutual exclusivity
+ETV6	inv(16)	168	5	9	0	<-3	1.000	1.000	Mutual exclusivity
+ZRSR2	inv(16)	168	5	9	0	<-3	1.000	1.000	Mutual exclusivity
+JAK2	inv(16)	168	5	9	0	<-3	1.000	1.000	Mutual exclusivity
+NRAS	NF1	152	21	8	1	-0.144	1.000	1.000	Mutual exclusivity
+IDH2	chr5qdel	147	29	5	1	0.020	1.000	1.000	Co-occurrence
+ASXL1	NF1	151	22	8	1	-0.221	1.000	1.000	Mutual exclusivity
+ASXL1	inv(16)	151	22	8	1	-0.221	1.000	1.000	Mutual exclusivity
+NF1	chr8gain	155	8	18	1	0.106	1.000	1.000	Co-occurrence
+IDH2	NRAS	133	27	19	3	-0.363	1.000	1.000	Mutual exclusivity
+ATM	inv(16)	166	7	9	0	<-3	1.000	1.000	Mutual exclusivity
