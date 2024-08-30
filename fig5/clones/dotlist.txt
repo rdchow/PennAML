@@ -1,0 +1,6 @@
+pt.100.tree1.dot
+pt.132.tree1.dot
+pt.156.tree1.dot
+pt.28.tree1.dot
+pt.63.tree1.dot
+pt.66.tree1.dot

@@ -1,0 +1,9 @@
+digraph pt_tree1 {
+v0 [label="DNMT3A:S714C"];
+v1 [label="FLT3:E598_Y599insPPHNEYFYVDFREYE"];
+v2 [label="FLT3:Y591_V592insPPTGSSDNEYFY"];
+v3 [label="NPM1:W288Cfs*12"];
+v0 -> v3;
+v3 -> v1;
+v3 -> v2;
+}

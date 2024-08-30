@@ -1,0 +1,77 @@
+patientID	category	TET2_Diagnosis	DNMT3A_Diagnosis	ASXL1_Diagnosis
+2	relapse of same clone with no new mutations	yes	no	no
+3	relapse of same clone with loss of mutations	yes	yes	no
+4	"subclonal swap, both gain and loss of mutations"	no	no	no
+8	relapse of same clone with new mutations	no	no	no
+14	relapse of same clone with new mutations	yes	yes	no
+18	relapse of same clone with loss of mutations	no	no	no
+20	relapse of same clone with loss of mutations	no	no	no
+22	relapse of same clone with no new mutations	no	yes	no
+23	relapse of same clone with new mutations	no	no	yes
+28	"subclonal swap, both gain and loss of mutations"	yes	no	yes
+34	relapse of same clone with new mutations	no	no	yes
+39	relapse of same clone with loss of mutations	yes	no	yes
+40	relapse of same clone with loss of mutations	no	yes	yes
+53	relapse of same clone with new mutations	yes	no	yes
+55	relapse of same clone with no new mutations	no	yes	yes
+70	relapse of same clone with loss of mutations	no	yes	yes
+83	relapse of same clone with new mutations	no	yes	yes
+103	relapse of same clone with loss of mutations	no	no	yes
+168	relapse of same clone with no new mutations	yes	no	yes
+27	relapse of same clone with loss of mutations	yes	no	no
+30	"subclonal swap, both gain and loss of mutations"	no	yes	no
+31	relapse of same clone with no new mutations	no	no	no
+37	relapse of same clone with loss of mutations	no	no	no
+45	"subclonal swap, both gain and loss of mutations"	no	no	no
+46	relapse of same clone with no new mutations	no	no	no
+47	relapse of same clone with new mutations	no	no	no
+48	relapse of same clone with new mutations	no	yes	no
+51	relapse of same clone with new mutations	no	no	no
+56	"subclonal swap, both gain and loss of mutations"	no	no	no
+63	relapse of same clone with new mutations	no	yes	no
+66	"subclonal swap, both gain and loss of mutations"	yes	yes	no
+67	"subclonal swap, both gain and loss of mutations"	no	no	no
+69	relapse of same clone with loss of mutations	no	no	no
+73	relapse of same clone with no new mutations	yes	no	no
+74	relapse of same clone with new mutations	no	no	no
+75	relapse of same clone with no new mutations	no	no	no
+76	"subclonal swap, both gain and loss of mutations"	no	yes	no
+77	relapse of same clone with new mutations	no	no	no
+79	relapse of same clone with new mutations	no	yes	no
+82	relapse of same clone with new mutations	no	no	no
+86	relapse of same clone with new mutations	yes	no	no
+87	relapse of same clone with no new mutations	no	yes	no
+90	relapse of same clone with loss of mutations	no	no	no
+91	relapse of same clone with loss of mutations	no	no	no
+94	"subclonal swap, both gain and loss of mutations"	no	no	no
+95	"subclonal swap, both gain and loss of mutations"	no	yes	no
+96	relapse of same clone with no new mutations	no	no	no
+97	relapse of same clone with no new mutations	no	no	no
+98	"subclonal swap, both gain and loss of mutations"	yes	yes	no
+100	"subclonal swap, both gain and loss of mutations"	no	yes	no
+101	"subclonal swap, both gain and loss of mutations"	yes	no	no
+104	"subclonal swap, both gain and loss of mutations"	no	yes	no
+109	"subclonal swap, both gain and loss of mutations"	no	no	no
+110	relapse of same clone with loss of mutations	no	no	no
+112	relapse of same clone with no new mutations	no	no	no
+113	"subclonal swap, both gain and loss of mutations"	no	no	no
+115	relapse of same clone with no new mutations	yes	no	no
+117	relapse of same clone with new mutations	no	no	no
+118	relapse of same clone with loss of mutations	no	yes	no
+128	relapse of same clone with new mutations	no	yes	no
+131	relapse of same clone with loss of mutations	no	no	no
+132	relapse of same clone with new mutations	no	no	no
+133	"subclonal swap, both gain and loss of mutations"	no	yes	no
+134	relapse of same clone with new mutations	no	no	no
+139	"subclonal swap, both gain and loss of mutations"	no	no	no
+144	relapse of same clone with loss of mutations	yes	yes	no
+145	"subclonal swap, both gain and loss of mutations"	no	yes	no
+149	relapse of same clone with new mutations	yes	yes	no
+150	relapse of same clone with loss of mutations	no	no	no
+154	relapse of same clone with loss of mutations	no	no	no
+156	"subclonal swap, both gain and loss of mutations"	yes	yes	no
+160	relapse of same clone with loss of mutations	no	yes	no
+162	"subclonal swap, both gain and loss of mutations"	no	no	no
+164	relapse of same clone with no new mutations	no	no	no
+170	relapse of same clone with loss of mutations	no	no	no
+178	relapse of same clone with new mutations	no	no	no

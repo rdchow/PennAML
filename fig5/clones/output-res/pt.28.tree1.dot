@@ -1,0 +1,13 @@
+digraph pt_tree1 {
+v0 [label="ASXL1:E543Dfs*2"];
+v2 [label="BRAF:D594G"];
+v3 [label="CBL:L399R"];
+v4 [label="NPM1:W288Cfs*12"];
+v5 [label="SETBP1:G229R"];
+v6 [label="TET2:C1273S"];
+v0 -> v6;
+v2 -> v5;
+v5 -> v4;
+v6 -> v2;
+v6 -> v3;
+}

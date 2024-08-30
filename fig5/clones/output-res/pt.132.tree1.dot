@@ -1,0 +1,5 @@
+digraph pt_tree1 {
+v0 [label="FLT3:Y597_E598insDWGPDFREY"];
+v1 [label="IDH1:R132H"];
+v0 -> v1;
+}

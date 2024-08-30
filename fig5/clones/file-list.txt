@@ -1,0 +1,6 @@
+pt.28.txt
+pt.63.txt
+pt.66.txt
+pt.100.txt
+pt.132.txt
+pt.156.txt

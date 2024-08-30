@@ -1,0 +1,28 @@
+patient	category	ASXL1_Diagnosis	DNMT3A_Diagnosis	TET2_Diagnosis
+2	relapse of same clone with new mutations	no	no	yes
+7	relapse of same clone with no new mutations	no	no	no
+17	relapse of same clone with no new mutations	no	no	no
+31	relapse of same clone with no new mutations	no	no	no
+34	relapse of same clone with new mutations	yes	no	no
+54	relapse of same clone with no new mutations	no	no	no
+60	relapse of same clone with no new mutations	no	no	yes
+65	relapse of same clone with loss of mutations	no	no	no
+72	relapse of same clone with no new mutations	yes	no	no
+75	relapse of same clone with no new mutations	no	no	no
+81	"subclonal swap, both gain and loss of mutations"	no	yes	yes
+83	"subclonal swap, both gain and loss of mutations"	yes	yes	no
+85	relapse of same clone with new mutations	no	no	no
+86	relapse of same clone with new mutations	no	no	yes
+110	relapse of same clone with loss of mutations	no	no	no
+115	relapse of same clone with new mutations	no	no	yes
+120	relapse of same clone with new mutations	no	no	no
+124	relapse of same clone with loss of mutations	no	no	yes
+126	relapse of same clone with loss of mutations	no	no	no
+132	"subclonal swap, both gain and loss of mutations"	no	no	no
+134	relapse of same clone with new mutations	no	no	no
+138	relapse of same clone with no new mutations	no	no	no
+141	relapse of same clone with no new mutations	no	no	no
+143	relapse of same clone with new mutations	no	yes	no
+148	relapse of same clone with no new mutations	no	no	no
+154	relapse of same clone with loss of mutations	no	no	no
+170	relapse of same clone with loss of mutations	no	no	no
